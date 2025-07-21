@@ -2,8 +2,10 @@ from fastapi import APIRouter, Depends, Query, HTTPException
 from sqlmodel import Session
 from typing import Annotated
 from sqlmodel import select
-from ..models.book import Book, BookPublic, BookCreate, BookWithAuthor
-from ..deps import get_session
+
+from models.author import Author, AuthorCreate
+from models.book import Book, BookPublic, BookCreate, BookWithAuthor
+from deps import get_session
 
 router = APIRouter(
     prefix="/book",
@@ -35,3 +37,5 @@ def get_book(book_id: int, session: Session = Depends(get_session)):
         raise HTTPException(status_code=404, detail="Book not found")
     book.author
     return book
+
+

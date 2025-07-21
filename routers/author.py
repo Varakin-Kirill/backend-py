@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends, Query
 from sqlmodel import Session, select
 from typing import Annotated
-from ..models.author import Author, AuthorPublic, AuthorCreate, AuthorWithBooks
-from ..deps import get_session
+from models.author import Author, AuthorPublic, AuthorCreate, AuthorWithBooks
+from deps import get_session
 
 router = APIRouter(
     prefix="/author",

@@ -24,7 +24,7 @@ class AuthorWithBooks(AuthorPublic):
     # pass
     author_id: int
     description: str
-    books: list["BookPublic"] = None
+    # books: list["BookPublic"] = None
 
 
 class AuthorCreate(AuthorBase):
