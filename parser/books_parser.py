@@ -1,64 +1,9 @@
-import json
 import os
 from ebooklib import epub
 import ftfy
 from bs4 import BeautifulSoup
-import psycopg2
+from db import DataBase
 
-from config import DB_NAME, HOST, PASSWORD, PORT, USER
-
-
-class DataBase:
-    def __init__(self):
-        self.connection = psycopg2.connect(
-            dbname=DB_NAME,
-            user=USER,
-            password=PASSWORD,
-            host=HOST,
-            port=PORT,
-        )
-
-    def insert_author_and_book(self, author, book_data):
-        with self.connection as conn:
-            with conn.cursor() as cursor:
-                
-                cursor.execute(
-                    """SELECT * from author where name=%s and surname=%s""",
-                    (author[0], author[1])
-                )
-                author_id = cursor.fetchone()[0]
-                
-                if author_id==0:
-                    cursor.execute(
-                        """INSERT INTO author (name, surname, description) 
-                            VALUES (%s, %s, %s) 
-                            RETURNING author_id""",
-                            (author[0], author[1], "тест")
-                    )
-                else:
-                    print("Автор",author[0]+" "+author[1]+" уже существует")
-                    
-                cursor.execute(
-                    """SELECT * from book where name=%s""",
-                    (book_data['name'],)
-                )
-                if cursor.fetchone()[0]==0:
-                    cursor.execute(
-                        """INSERT INTO book (name, description, meta, author_id, book_path, genre) 
-                        VALUES (%s, %s, %s, %s, %s, %s)""",
-                        (
-                            book_data['name'],
-                            book_data['description'],
-                            json.dumps(book_data['meta'], ensure_ascii=False),
-                            author_id,
-                            book_data['file_path'],
-                            "ХУЙ"
-                        )
-                    )
-                else:
-                    print("Книга", book_data['name']+" уже существует")
-                conn.commit()
-                
 
 def fix_encoding(text):
     """Исправляет кодировку текста с помощью ftfy."""
@@ -123,44 +68,55 @@ def books_parser():
     folder_path = 'downloaded_books'
     
     if not os.path.exists(folder_path):
-        exit()
+        print(f"Папка {folder_path} не найдена!")
+        return
+    
+    db = DataBase()  # Создаем соединение с БД один раз
     
     for filename in os.listdir(folder_path):
-        if filename.endswith('.epub'):
-            file_path = os.path.join(folder_path, filename)
-        
-            try:
-                book = epub.read_epub(file_path)
+        if not filename.lower().endswith('.epub'):
+            continue
+            
+        file_path = os.path.join(folder_path, filename)
+        print(f"Обработка файла: {filename}")
+    
+        try:
+            book = epub.read_epub(file_path)
+            
+            # Обработка автора
+            author = parse_author(book.get_metadata('DC', 'creator')[0][0] if book.get_metadata('DC', 'creator') else "Неизвестный автор")
                 
-                author = parse_author(book.get_metadata('DC', 'creator')[0][0] if book.get_metadata('DC', 'creator') else "Неизвестный автор")
+            name = book.get_metadata('DC', 'title')[0][0] if book.get_metadata('DC', 'title') else "Без названия"
+            description = book.get_metadata('DC', 'description')[0][0] if book.get_metadata('DC', 'description') else "Нет описания"
                 
-                name = book.get_metadata('DC', 'title')[0][0] if book.get_metadata('DC', 'title') else "Без названия"
-                description = book.get_metadata('DC', 'description')[0][0] if book.get_metadata('DC', 'description') else "Нет описания"
-                
-                raw_subjects = book.get_metadata('DC', 'subject')
-                subjects = [fix_encoding(subject[0]) for subject in raw_subjects] if raw_subjects else []
-                chapters = count_chapters(book)
-                chapter_paragraphs, total_paragraphs = count_paragraphs_in_chapters(book)
-                date = book.get_metadata('DC', 'date')[0][0] if book.get_metadata('DC', 'date') else "Дата неизвестна"
-                
-                book_data = {
-                    'name': name,
-                    'description': description,
-                    'meta':{
-                        'date': date,
-                        'subjects': subjects,
-                        'chapters': chapters,
-                        'chapter_paragraphs':chapter_paragraphs,
-                        'total_paragraphs': total_paragraphs
-                    },
-                    'file_path': file_path
-                }
-                db= DataBase()
-                
-                db.insert_author_and_book(author, book_data)
-                
-            except Exception as e:
-                print(f"Ошибка при обработке {filename}: {e}")
+            raw_subjects = book.get_metadata('DC', 'subject')
+            subjects = [fix_encoding(subject[0]) for subject in raw_subjects] if raw_subjects else []
+            chapters = count_chapters(book)
+            chapter_paragraphs, total_paragraphs = count_paragraphs_in_chapters(book)
+            date = book.get_metadata('DC', 'date')[0][0] if book.get_metadata('DC', 'date') else "Дата неизвестна"
+            
+            book_data = {
+                'name': name,
+                'description': description,
+                'meta': {
+                    'date': date,
+                    'subjects': subjects,
+                    'chapters': chapters,
+                    'chapter_paragraphs': chapter_paragraphs,
+                    'total_paragraphs': total_paragraphs
+                },
+                'file_path': file_path
+            }
+
+            db.insert_author_and_book(author, book_data)
+            print(f"Успешно обработана книга: {name}")
+            
+        except Exception as e:
+            print(f"Ошибка при обработке {filename}: {str(e)}")
+        finally:
+            if 'book' in locals():
+                del book
+
 
 if __name__ == "__main__":
     books_parser()

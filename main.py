@@ -1,8 +1,8 @@
 from fastapi import Depends, FastAPI, HTTPException, Query
 from typing import Annotated
 from sqlmodel import Field, Session, SQLModel, create_engine, select
-from .routers import book, user, author
-from .deps import engine
+from routers import book, user, author
+from deps import engine
 
 app = FastAPI()
 

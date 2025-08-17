@@ -2,8 +2,6 @@ from fastapi import APIRouter, Depends, Query, HTTPException
 from sqlmodel import Session
 from typing import Annotated
 from sqlmodel import select
-
-from models.author import Author, AuthorCreate
 from models.book import Book, BookPublic, BookCreate, BookWithAuthor
 from deps import get_session
 
