@@ -67,9 +67,9 @@ async def validate_init_data(
     """Основная зависимость для проверки initData в КАЖДОМ запросе"""
     init_data = credentials.credentials
     
-    print(init_data)
-    print(verify_telegram_webapp_data(init_data, BOT_TOKEN))
-    print(extract_tg_user_data(init_data))
+    # print(init_data)
+    # print(verify_telegram_webapp_data(init_data, BOT_TOKEN))
+    # print(extract_tg_user_data(init_data))
     
     
     if not verify_telegram_webapp_data(init_data, BOT_TOKEN):

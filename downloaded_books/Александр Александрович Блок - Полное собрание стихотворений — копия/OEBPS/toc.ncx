@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xmlns:fb="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink"><head><meta content="77847aa4-2224-102c-96f3-af3a14b75ca4" name="dtb:uid"/><meta content="3" name="dtb:depth"/><meta content="0" name="dtb:totalPageCount"/><meta content="0" name="dtb:maxPageNumber"/></head><docTitle><text>Полное собрание стихотворений</text></docTitle><navMap><navPoint id="mh_toc_38" playOrder="1"><navLabel><text>Стихотворения 1898 года</text></navLabel><content src="Text/content0.html#mh_toc_38"/><navPoint id="mh_toc_41" playOrder="2"><navLabel><text>«Пусть светит месяц – ночь темна…»</text></navLabel><content src="Text/content0.html#mh_toc_41"/></navPoint>
+<navPoint id="mh_toc_64" playOrder="3"><navLabel><text>«Одной тебе, тебе одной…»</text></navLabel><content src="Text/content0.html#mh_toc_64"/></navPoint>
+<navPoint id="mh_toc_90" playOrder="4"><navLabel><text>«Ты много жил, я больше пел…»</text></navLabel><content src="Text/content0.html#mh_toc_90"/></navPoint>
+<navPoint id="mh_toc_118" playOrder="5"><navLabel><text>«Пора забыться полным счастья сном…»</text></navLabel><content src="Text/content0.html#mh_toc_118"/></navPoint>
+<navPoint id="mh_toc_144" playOrder="6"><navLabel><text>«Пусть рассвет глядит нам в очи…»</text></navLabel><content src="Text/content0.html#mh_toc_144"/></navPoint>
+<navPoint id="mh_toc_165" playOrder="7"><navLabel><text>«Муза в уборе весны постучалась к поэту…»</text></navLabel><content src="Text/content0.html#mh_toc_165"/></navPoint>
+<navPoint id="mh_toc_183" playOrder="8"><navLabel><text>«Полный месяц встал над лугом…»</text></navLabel><content src="Text/content0.html#mh_toc_183"/></navPoint>
+<navPoint id="mh_toc_205" playOrder="9"><navLabel><text>«Ловя мгновенья сумрачной печали…»</text></navLabel><content src="Text/content0.html#mh_toc_205"/></navPoint>
+<navPoint id="mh_toc_226" playOrder="10"><navLabel><text>«Она молода и прекрасна была…»</text></navLabel><content src="Text/content0.html#mh_toc_226"/></navPoint>
+<navPoint id="mh_toc_247" playOrder="11"><navLabel><text>«Я ношусь во мраке, в ледяной пустыне…»</text></navLabel><content src="Text/content1.html#mh_toc_247"/></navPoint>
+<navPoint id="mh_toc_266" playOrder="12"><navLabel><text>Моей матери</text></navLabel><content src="Text/content1.html#mh_toc_266"/></navPoint>
+<navPoint id="mh_toc_287" playOrder="13"><navLabel><text>«Я шел во тьме к заботам и веселью…»</text></navLabel><content src="Text/content1.html#mh_toc_287"/></navPoint>
+<navPoint id="mh_toc_306" playOrder="14"><navLabel><text>«Я стремлюсь к роскошной воле…»</text></navLabel><content src="Text/content1.html#mh_toc_306"/></navPoint>
+<navPoint id="mh_toc_333" playOrder="15"><navLabel><text>«Ты, может быть, не хочешь угадать…»</text></navLabel><content src="Text/content1.html#mh_toc_333"/></navPoint>
+<navPoint id="mh_toc_359" playOrder="16"><navLabel><text>«Как мучительно думать о счастьи былом…»</text></navLabel><content src="Text/content1.html#mh_toc_359"/></navPoint>
+<navPoint id="mh_toc_385" playOrder="17"><navLabel><text>«В ночи, когда уснет тревога…»</text></navLabel><content src="Text/content1.html#mh_toc_385"/></navPoint>
+<navPoint id="mh_toc_406" playOrder="18"><navLabel><text>«Душа моя тиха. В натянутых струнах…»</text></navLabel><content src="Text/content1.html#mh_toc_406"/></navPoint>
+<navPoint id="mh_toc_427" playOrder="19"><navLabel><text>«Жизнь – как море она – всегда исполнена бури…»</text></navLabel><content src="Text/content1.html#mh_toc_427"/></navPoint>
+<navPoint id="mh_toc_443" playOrder="20"><navLabel><text>«Усталый от дневных блужданий…»</text></navLabel><content src="Text/content2.html#mh_toc_443"/></navPoint>
+<navPoint id="mh_toc_464" playOrder="21"><navLabel><text>«Без веры в бога, без участья…»</text></navLabel><content src="Text/content2.html#mh_toc_464"/></navPoint>
+<navPoint id="mh_toc_490" playOrder="22"><navLabel><text>«Есть в дикой роще, у оврага…»</text></navLabel><content src="Text/content2.html#mh_toc_490"/></navPoint>
+<navPoint id="mh_toc_514" playOrder="23"><navLabel><text>«Мне снилась смерть любимого созданья:…»</text></navLabel><content src="Text/content2.html#mh_toc_514"/></navPoint>
+<navPoint id="mh_toc_536" playOrder="24"><navLabel><text>«Мрак. Один я. Тревожит мой слух тишина…»</text></navLabel><content src="Text/content2.html#mh_toc_536"/></navPoint>
+<navPoint id="mh_toc_559" playOrder="25"><navLabel><text>«Вхожу наверх тропой кремнистой…»</text></navLabel><content src="Text/content2.html#mh_toc_559"/></navPoint>
+<navPoint id="mh_toc_585" playOrder="26"><navLabel><text>«Офелия в цветах, в уборе…»</text></navLabel><content src="Text/content2.html#mh_toc_585"/></navPoint>
+<navPoint id="mh_toc_611" playOrder="27"><navLabel><text>«Когда я вспоминал о прошлом, о забытом…»</text></navLabel><content src="Text/content2.html#mh_toc_611"/></navPoint>
+<navPoint id="mh_toc_634" playOrder="28"><navLabel><text>«В болезни сердца мыслю о Тебе:…»</text></navLabel><content src="Text/content2.html#mh_toc_634"/></navPoint>
+<navPoint id="mh_toc_660" playOrder="29"><navLabel><text>Летний вечер</text></navLabel><content src="Text/content3.html#mh_toc_660"/></navPoint>
+<navPoint id="mh_toc_681" playOrder="30"><navLabel><text>«Луна проснулась. Город шумный…»</text></navLabel><content src="Text/content3.html#mh_toc_681"/></navPoint>
+<navPoint id="mh_toc_704" playOrder="31"><navLabel><text>«Я думал, что умру сегодня к ночи…»</text></navLabel><content src="Text/content3.html#mh_toc_704"/></navPoint>
+<navPoint id="mh_toc_723" playOrder="32"><navLabel><text>«Путник, ропщи…»</text></navLabel><content src="Text/content3.html#mh_toc_723"/></navPoint>
+<navPoint id="mh_toc_754" playOrder="33"><navLabel><text>На вечере в честь Л. Толстого</text></navLabel><content src="Text/content3.html#mh_toc_754"/></navPoint>
+<navPoint id="mh_toc_775" playOrder="34"><navLabel><text>«Мне снилась снова ты, в цветах, на шумной сцене…»</text></navLabel><content src="Text/content3.html#mh_toc_775"/></navPoint>
+<navPoint id="mh_toc_794" playOrder="35"><navLabel><text>«Немало времени прошло уже с тех пор:…»</text></navLabel><content src="Text/content3.html#mh_toc_794"/></navPoint>
+<navPoint id="mh_toc_830" playOrder="36"><navLabel><text>«О, не просите скорбных песен!…»</text></navLabel><content src="Text/content3.html#mh_toc_830"/></navPoint>
+</navPoint><navPoint id="mh_toc_846" playOrder="37"><navLabel><text>Стихотворения 1899 года</text></navLabel><content src="Text/content3.html#mh_toc_846"/><navPoint id="mh_toc_849" playOrder="38"><navLabel><text>«Буду всегда я по-прежнему молод нетленной душою…»</text></navLabel><content src="Text/content3.html#mh_toc_849"/></navPoint>
+<navPoint id="mh_toc_860" playOrder="39"><navLabel><text>«Над старым мраком мировым…»</text></navLabel><content src="Text/content3.html#mh_toc_860"/></navPoint>
+<navPoint id="mh_toc_886" playOrder="40"><navLabel><text>Одиночество</text></navLabel><content src="Text/content4.html#mh_toc_886"/></navPoint>
+<navPoint id="mh_toc_937" playOrder="41"><navLabel><text>«Окрай небес – звезда омега…»</text></navLabel><content src="Text/content4.html#mh_toc_937"/></navPoint>
+<navPoint id="mh_toc_955" playOrder="42"><navLabel><text>«В минутном взрыве откровений…»</text></navLabel><content src="Text/content4.html#mh_toc_955"/></navPoint>
+<navPoint id="mh_toc_974" playOrder="43"><navLabel><text>«Милый друг! Ты юною душою…»</text></navLabel><content src="Text/content4.html#mh_toc_974"/></navPoint>
+<navPoint id="mh_toc_994" playOrder="44"><navLabel><text>Песня Офелии</text></navLabel><content src="Text/content4.html#mh_toc_994"/></navPoint>
+<navPoint id="mh_toc_1015" playOrder="45"><navLabel><text>«Ночной туман застал меня в дороге…»</text></navLabel><content src="Text/content4.html#mh_toc_1015"/></navPoint>
+<navPoint id="mh_toc_1038" playOrder="46"><navLabel><text>«Между страданьями земными…»</text></navLabel><content src="Text/content4.html#mh_toc_1038"/></navPoint>
+<navPoint id="mh_toc_1049" playOrder="47"><navLabel><text>«Когда мы любим безотчетно…»</text></navLabel><content src="Text/content4.html#mh_toc_1049"/></navPoint>
+<navPoint id="mh_toc_1060" playOrder="48"><navLabel><text>«О, презирать я вас не в силах…»</text></navLabel><content src="Text/content4.html#mh_toc_1060"/></navPoint>
+<navPoint id="mh_toc_1076" playOrder="49"><navLabel><text>«Когда толпа вокруг кумирам рукоплещет…»</text></navLabel><content src="Text/content4.html#mh_toc_1076"/></navPoint>
+<navPoint id="mh_toc_1099" playOrder="50"><navLabel><text>Гамаюн, птица вещая (Картина В. Васнецова)</text></navLabel><content src="Text/content4.html#mh_toc_1099"/></navPoint>
+<navPoint id="mh_toc_1120" playOrder="51"><navLabel><text>Сирин и Алконост. Птицы радости и печали</text></navLabel><content src="Text/content5.html#mh_toc_1120"/></navPoint>
+<navPoint id="mh_toc_1154" playOrder="52"><navLabel><text>«Мы были вместе, помню я…»</text></navLabel><content src="Text/content5.html#mh_toc_1154"/></navPoint>
+<navPoint id="mh_toc_1169" playOrder="53"><navLabel><text>«Темнеет небо. Туч гряда…»</text></navLabel><content src="Text/content5.html#mh_toc_1169"/></navPoint>
+<navPoint id="mh_toc_1185" playOrder="54"><navLabel><text>«Я шел к блаженству. Путь блестел…»</text></navLabel><content src="Text/content5.html#mh_toc_1185"/></navPoint>
+<navPoint id="mh_toc_1204" playOrder="55"><navLabel><text>«Гроза прошла, и ветка белых роз…»</text></navLabel><content src="Text/content5.html#mh_toc_1204"/></navPoint>
+<navPoint id="mh_toc_1215" playOrder="56"><navLabel><text>«Сама судьба мне завещала…»</text></navLabel><content src="Text/content5.html#mh_toc_1215"/></navPoint>
+<navPoint id="mh_toc_1230" playOrder="57"><navLabel><text>После дождя</text></navLabel><content src="Text/content5.html#mh_toc_1230"/></navPoint>
+<navPoint id="mh_toc_1246" playOrder="58"><navLabel><text>«Когда же смерть? Я всё перестрадал…»</text></navLabel><content src="Text/content5.html#mh_toc_1246"/></navPoint>
+<navPoint id="mh_toc_1267" playOrder="59"><navLabel><text>«Я стар душой. Какой-то жребий черный…»</text></navLabel><content src="Text/content5.html#mh_toc_1267"/></navPoint>
+<navPoint id="mh_toc_1290" playOrder="60"><navLabel><text>«Там, за далью бесконечной…»</text></navLabel><content src="Text/content5.html#mh_toc_1290"/></navPoint>
+<navPoint id="mh_toc_1306" playOrder="61"><navLabel><text>«Не проливай горючих слез…»</text></navLabel><content src="Text/content5.html#mh_toc_1306"/></navPoint>
+<navPoint id="mh_toc_1329" playOrder="62"><navLabel><text>«Я был влюблен. И лес ночной…»</text></navLabel><content src="Text/content5.html#mh_toc_1329"/></navPoint>
+<navPoint id="mh_toc_1345" playOrder="63"><navLabel><text>Накануне Иванова дня…</text></navLabel><content src="Text/content6.html#mh_toc_1345"/></navPoint>
+<navPoint id="mh_toc_1376" playOrder="64"><navLabel><text>«Зачем, зачем во мрак небытия…»</text></navLabel><content src="Text/content6.html#mh_toc_1376"/></navPoint>
+<navPoint id="mh_toc_1395" playOrder="65"><navLabel><text>«И жизнь, и смерть, я знаю, мне равны…»</text></navLabel><content src="Text/content6.html#mh_toc_1395"/></navPoint>
+<navPoint id="mh_toc_1418" playOrder="66"><navLabel><text>«Когда кончается тетрадь моих стихов…»</text></navLabel><content src="Text/content6.html#mh_toc_1418"/></navPoint>
+<navPoint id="mh_toc_1437" playOrder="67"><navLabel><text>«Готов ли ты на путь далекий…»</text></navLabel><content src="Text/content6.html#mh_toc_1437"/></navPoint>
+<navPoint id="mh_toc_1456" playOrder="68"><navLabel><text>«Я – человек и мало богу равен…»</text></navLabel><content src="Text/content6.html#mh_toc_1456"/></navPoint>
+<navPoint id="mh_toc_1484" playOrder="69"><navLabel><text>«Сомкни уста. Твой голос полн…»</text></navLabel><content src="Text/content6.html#mh_toc_1484"/></navPoint>
+<navPoint id="mh_toc_1506" playOrder="70"><navLabel><text>Перед грозой</text></navLabel><content src="Text/content6.html#mh_toc_1506"/></navPoint>
+<navPoint id="mh_toc_1532" playOrder="71"><navLabel><text>«Сомненья нет: мои печали…»</text></navLabel><content src="Text/content6.html#mh_toc_1532"/></navPoint>
+<navPoint id="mh_toc_1555" playOrder="72"><navLabel><text>Черная дева. Северное преданье</text></navLabel><content src="Text/content7.html#mh_toc_1555"/></navPoint>
+<navPoint id="mh_toc_1583" playOrder="73"><navLabel><text>«Дышит утро в окошко твое…»</text></navLabel><content src="Text/content7.html#mh_toc_1583"/></navPoint>
+<navPoint id="mh_toc_1602" playOrder="74"><navLabel><text>«Тяжелый занавес упал…»</text></navLabel><content src="Text/content7.html#mh_toc_1602"/></navPoint>
+<navPoint id="mh_toc_1623" playOrder="75"><navLabel><text>Накануне хх века</text></navLabel><content src="Text/content7.html#mh_toc_1623"/></navPoint>
+<navPoint id="mh_toc_1642" playOrder="76"><navLabel><text>«Глухая полночь. Цепененье…»</text></navLabel><content src="Text/content7.html#mh_toc_1642"/></navPoint>
+<navPoint id="mh_toc_1663" playOrder="77"><navLabel><text>«Помнишь ли город тревожный…»</text></navLabel><content src="Text/content7.html#mh_toc_1663"/></navPoint>
+<navPoint id="mh_toc_1688" playOrder="78"><navLabel><text>«Город спит, окутан мглою…»</text></navLabel><content src="Text/content7.html#mh_toc_1688"/></navPoint>
+<navPoint id="mh_toc_1703" playOrder="79"><navLabel><text>Кошмар</text></navLabel><content src="Text/content7.html#mh_toc_1703"/></navPoint>
+<navPoint id="mh_toc_1719" playOrder="80"><navLabel><text>«О, как безумно за окном…»</text></navLabel><content src="Text/content7.html#mh_toc_1719"/></navPoint>
+<navPoint id="mh_toc_1741" playOrder="81"><navLabel><text>Голос</text></navLabel><content src="Text/content7.html#mh_toc_1741"/></navPoint>
+<navPoint id="mh_toc_1759" playOrder="82"><navLabel><text>Неведомому богу</text></navLabel><content src="Text/content7.html#mh_toc_1759"/></navPoint>
+<navPoint id="mh_toc_1780" playOrder="83"><navLabel><text>«Ты не научишь меня проклинать…»</text></navLabel><content src="Text/content7.html#mh_toc_1780"/></navPoint>
+<navPoint id="mh_toc_1801" playOrder="84"><navLabel><text>«Не легли еще тени вечерние…»</text></navLabel><content src="Text/content8.html#mh_toc_1801"/></navPoint>
+<navPoint id="mh_toc_1824" playOrder="85"><navLabel><text>Servus-reginae[4]</text></navLabel><content src="Text/content8.html#mh_toc_1824"/></navPoint>
+<navPoint id="mh_toc_1846" playOrder="86"><navLabel><text>Песня за стеной</text></navLabel><content src="Text/content8.html#mh_toc_1846"/></navPoint>
+<navPoint id="mh_toc_1866" playOrder="87"><navLabel><text>«Когда докучливые стоны…»</text></navLabel><content src="Text/content8.html#mh_toc_1866"/></navPoint>
+<navPoint id="mh_toc_1885" playOrder="88"><navLabel><text>Моей матери</text></navLabel><content src="Text/content8.html#mh_toc_1885"/></navPoint>
+<navPoint id="mh_toc_1906" playOrder="89"><navLabel><text>«Ты много жил. Негодованье…»</text></navLabel><content src="Text/content8.html#mh_toc_1906"/></navPoint>
+<navPoint id="mh_toc_1927" playOrder="90"><navLabel><text>«Пока спокойною стопою…»</text></navLabel><content src="Text/content8.html#mh_toc_1927"/></navPoint>
+<navPoint id="mh_toc_1943" playOrder="91"><navLabel><text>Dolor ante lucem[5]</text></navLabel><content src="Text/content8.html#mh_toc_1943"/></navPoint>
+<navPoint id="mh_toc_1965" playOrder="92"><navLabel><text>«Как всякий год, ночной порою…»</text></navLabel><content src="Text/content8.html#mh_toc_1965"/></navPoint>
+<navPoint id="mh_toc_1976" playOrder="93"><navLabel><text>«За краткий сон, что нынче снится…»</text></navLabel><content src="Text/content8.html#mh_toc_1976"/></navPoint>
+<navPoint id="mh_toc_1997" playOrder="94"><navLabel><text>«Как сон молитвенно-бесстрастный…»</text></navLabel><content src="Text/content8.html#mh_toc_1997"/></navPoint>
+<navPoint id="mh_toc_2013" playOrder="95"><navLabel><text>«Когда с безжалостным страданьем…»</text></navLabel><content src="Text/content8.html#mh_toc_2013"/></navPoint>
+</navPoint><navPoint id="mh_toc_2029" playOrder="96"><navLabel><text>Стихотворения 1900 года</text></navLabel><content src="Text/content9.html#mh_toc_2029"/><navPoint id="mh_toc_2032" playOrder="97"><navLabel><text>Осенняя элегия</text></navLabel><content src="Text/content9.html#mh_toc_2032"/><navPoint id="mh_toc_2035" playOrder="98"><navLabel><text>1</text></navLabel><content src="Text/content9.html#mh_toc_2035"/></navPoint>
+<navPoint id="mh_toc_2049" playOrder="99"><navLabel><text>2</text></navLabel><content src="Text/content9.html#mh_toc_2049"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_2065" playOrder="100"><navLabel><text>«Я умирал. Ты расцветала…»</text></navLabel><content src="Text/content9.html#mh_toc_2065"/></navPoint>
+<navPoint id="mh_toc_2081" playOrder="101"><navLabel><text>«Приветный Лель, не жду рассвета…»</text></navLabel><content src="Text/content9.html#mh_toc_2081"/></navPoint>
+<navPoint id="mh_toc_2104" playOrder="102"><navLabel><text>«В те дни, когда душа трепещет…»</text></navLabel><content src="Text/content9.html#mh_toc_2104"/></navPoint>
+<navPoint id="mh_toc_2135" playOrder="103"><navLabel><text>«Ярким солнцем, синей далью…»</text></navLabel><content src="Text/content9.html#mh_toc_2135"/></navPoint>
+<navPoint id="mh_toc_2151" playOrder="104"><navLabel><text>«Восходишь ты, что строгий день…»</text></navLabel><content src="Text/content9.html#mh_toc_2151"/></navPoint>
+<navPoint id="mh_toc_2172" playOrder="105"><navLabel><text>«Лениво и тяжко плывут облака…»</text></navLabel><content src="Text/content9.html#mh_toc_2172"/></navPoint>
+<navPoint id="mh_toc_2198" playOrder="106"><navLabel><text>«Шли мы стезею лазурною…»</text></navLabel><content src="Text/content9.html#mh_toc_2198"/></navPoint>
+<navPoint id="mh_toc_2221" playOrder="107"><navLabel><text>«О, не тебя люблю глубоко…»</text></navLabel><content src="Text/content9.html#mh_toc_2221"/></navPoint>
+<navPoint id="mh_toc_2237" playOrder="108"><navLabel><text>«Ночь теплая одела острова…»</text></navLabel><content src="Text/content9.html#mh_toc_2237"/></navPoint>
+<navPoint id="mh_toc_2258" playOrder="109"><navLabel><text>«Утро брезжит. День грозит ненастьем…»</text></navLabel><content src="Text/content10.html#mh_toc_2258"/></navPoint>
+<navPoint id="mh_toc_2274" playOrder="110"><navLabel><text>«Разверзлось утреннее око…»</text></navLabel><content src="Text/content10.html#mh_toc_2274"/></navPoint>
+<navPoint id="mh_toc_2293" playOrder="111"><navLabel><text>«Я шел во тьме дождливой ночи…»</text></navLabel><content src="Text/content10.html#mh_toc_2293"/></navPoint>
+<navPoint id="mh_toc_2312" playOrder="112"><navLabel><text>«Сегодня в ночь одной тропою…»</text></navLabel><content src="Text/content10.html#mh_toc_2312"/></navPoint>
+<navPoint id="mh_toc_2333" playOrder="113"><navLabel><text>«В ночи, исполненной грозою…»</text></navLabel><content src="Text/content10.html#mh_toc_2333"/></navPoint>
+<navPoint id="mh_toc_2349" playOrder="114"><navLabel><text>«Поэт в изгнаньи и в сомненьи…»</text></navLabel><content src="Text/content10.html#mh_toc_2349"/></navPoint>
+<navPoint id="mh_toc_2370" playOrder="115"><navLabel><text>«Мы все уйдем за грань могил…»</text></navLabel><content src="Text/content10.html#mh_toc_2370"/></navPoint>
+<navPoint id="mh_toc_2391" playOrder="116"><navLabel><text>«Хоть всё по-прежнему певец…»</text></navLabel><content src="Text/content10.html#mh_toc_2391"/></navPoint>
+<navPoint id="mh_toc_2406" playOrder="117"><navLabel><text>«Напрасно, дева, ты бежала…»</text></navLabel><content src="Text/content10.html#mh_toc_2406"/></navPoint>
+<navPoint id="mh_toc_2427" playOrder="118"><navLabel><text>«До новых бурь, до новых молний…»</text></navLabel><content src="Text/content10.html#mh_toc_2427"/></navPoint>
+<navPoint id="mh_toc_2443" playOrder="119"><navLabel><text>«Хожу по камням старых плит…»</text></navLabel><content src="Text/content10.html#mh_toc_2443"/></navPoint>
+<navPoint id="mh_toc_2469" playOrder="120"><navLabel><text>«В фантазии рождаются порою…»</text></navLabel><content src="Text/content10.html#mh_toc_2469"/></navPoint>
+<navPoint id="mh_toc_2488" playOrder="121"><navLabel><text>«Мы не торопимся заране…»</text></navLabel><content src="Text/content11.html#mh_toc_2488"/></navPoint>
+<navPoint id="mh_toc_2509" playOrder="122"><navLabel><text>«К ногам презренного кумира…»</text></navLabel><content src="Text/content11.html#mh_toc_2509"/></navPoint>
+<navPoint id="mh_toc_2525" playOrder="123"><navLabel><text>«Теряет берег очертанья…»</text></navLabel><content src="Text/content11.html#mh_toc_2525"/></navPoint>
+<navPoint id="mh_toc_2546" playOrder="124"><navLabel><text>«Есть много песен в светлых тайниках…»</text></navLabel><content src="Text/content11.html#mh_toc_2546"/></navPoint>
+<navPoint id="mh_toc_2562" playOrder="125"><navLabel><text>«Бежим, бежим, дитя свободы…»</text></navLabel><content src="Text/content11.html#mh_toc_2562"/></navPoint>
+<navPoint id="mh_toc_2598" playOrder="126"><navLabel><text>«Звезда полночная скатилась…»</text></navLabel><content src="Text/content11.html#mh_toc_2598"/></navPoint>
+<navPoint id="mh_toc_2617" playOrder="127"><navLabel><text>«Пусть я покину этот град…»</text></navLabel><content src="Text/content11.html#mh_toc_2617"/></navPoint>
+<navPoint id="mh_toc_2654" playOrder="128"><navLabel><text>«Прошедших дней немеркнущим сияньем…»</text></navLabel><content src="Text/content11.html#mh_toc_2654"/></navPoint>
+<navPoint id="mh_toc_2671" playOrder="129"><navLabel><text>«Не призывай и не сули…»</text></navLabel><content src="Text/content11.html#mh_toc_2671"/></navPoint>
+<navPoint id="mh_toc_2697" playOrder="130"><navLabel><text>После грозы</text></navLabel><content src="Text/content11.html#mh_toc_2697"/></navPoint>
+<navPoint id="mh_toc_2718" playOrder="131"><navLabel><text>«В часы вечернего тумана…»</text></navLabel><content src="Text/content11.html#mh_toc_2718"/></navPoint>
+<navPoint id="mh_toc_2734" playOrder="132"><navLabel><text>«Уже бледнеет день прощальный…»</text></navLabel><content src="Text/content12.html#mh_toc_2734"/></navPoint>
+<navPoint id="mh_toc_2750" playOrder="133"><navLabel><text>«На небе зарево. Глухая ночь мертва…»</text></navLabel><content src="Text/content12.html#mh_toc_2750"/></navPoint>
+<navPoint id="mh_toc_2771" playOrder="134"><navLabel><text>«В ночь молчаливую чудесен…»</text></navLabel><content src="Text/content12.html#mh_toc_2771"/></navPoint>
+<navPoint id="mh_toc_2787" playOrder="135"><navLabel><text>«Облит последними лучами…»</text></navLabel><content src="Text/content12.html#mh_toc_2787"/></navPoint>
+<navPoint id="mh_toc_2803" playOrder="136"><navLabel><text>«Полна усталого томленья…»</text></navLabel><content src="Text/content12.html#mh_toc_2803"/></navPoint>
+<navPoint id="mh_toc_2819" playOrder="137"><navLabel><text>«Была пора – в твоих глазах…»</text></navLabel><content src="Text/content12.html#mh_toc_2819"/></navPoint>
+<navPoint id="mh_toc_2835" playOrder="138"><navLabel><text>«Пророк земли – венец творенья…»</text></navLabel><content src="Text/content12.html#mh_toc_2835"/></navPoint>
+<navPoint id="mh_toc_2856" playOrder="139"><navLabel><text>«В часы безмолвия ночного…»</text></navLabel><content src="Text/content12.html#mh_toc_2856"/></navPoint>
+<navPoint id="mh_toc_2872" playOrder="140"><navLabel><text>«Смеялись бедные невежды…»</text></navLabel><content src="Text/content12.html#mh_toc_2872"/></navPoint>
+<navPoint id="mh_toc_2893" playOrder="141"><navLabel><text>«Не доверяй своих дорог…»</text></navLabel><content src="Text/content12.html#mh_toc_2893"/></navPoint>
+<navPoint id="mh_toc_2909" playOrder="142"><navLabel><text>«Увижу я, как будет погибать…»</text></navLabel><content src="Text/content12.html#mh_toc_2909"/></navPoint>
+<navPoint id="mh_toc_2925" playOrder="143"><navLabel><text>«Погибло всё. Палящее светило…»</text></navLabel><content src="Text/content12.html#mh_toc_2925"/></navPoint>
+<navPoint id="mh_toc_2945" playOrder="144"><navLabel><text>«К чему бесцельно охранять…»</text></navLabel><content src="Text/content12.html#mh_toc_2945"/></navPoint>
+<navPoint id="mh_toc_2966" playOrder="145"><navLabel><text>«Они расстались без печали…»</text></navLabel><content src="Text/content13.html#mh_toc_2966"/></navPoint>
+<navPoint id="mh_toc_2992" playOrder="146"><navLabel><text>«Новый блеск излило небо…»</text></navLabel><content src="Text/content13.html#mh_toc_2992"/></navPoint>
+<navPoint id="mh_toc_3019" playOrder="147"><navLabel><text>«То отголосок юных дней…»</text></navLabel><content src="Text/content13.html#mh_toc_3019"/></navPoint>
+<navPoint id="mh_toc_3045" playOrder="148"><navLabel><text>«Последний пурпур догорал…»</text></navLabel><content src="Text/content13.html#mh_toc_3045"/></navPoint>
+<navPoint id="mh_toc_3066" playOrder="149"><navLabel><text>«Не утоленная кровавыми струями…»</text></navLabel><content src="Text/content13.html#mh_toc_3066"/></navPoint>
+<navPoint id="mh_toc_3082" playOrder="150"><navLabel><text>«Порою вновь к твоим ногам…»</text></navLabel><content src="Text/content13.html#mh_toc_3082"/></navPoint>
+<navPoint id="mh_toc_3098" playOrder="151"><navLabel><text>Аграфа догмата[6]</text></navLabel><content src="Text/content13.html#mh_toc_3098"/></navPoint>
+<navPoint id="mh_toc_3123" playOrder="152"><navLabel><text>«В седую древность я ушел, мудрец…»</text></navLabel><content src="Text/content13.html#mh_toc_3123"/></navPoint>
+<navPoint id="mh_toc_3149" playOrder="153"><navLabel><text>Смерть</text></navLabel><content src="Text/content13.html#mh_toc_3149"/></navPoint>
+<navPoint id="mh_toc_3165" playOrder="154"><navLabel><text>«Под вечер лет с немым вниманьем…»</text></navLabel><content src="Text/content13.html#mh_toc_3165"/></navPoint>
+<navPoint id="mh_toc_3184" playOrder="155"><navLabel><text>Аметист</text></navLabel><content src="Text/content14.html#mh_toc_3184"/></navPoint>
+<navPoint id="mh_toc_3202" playOrder="156"><navLabel><text>«Твой образ чудится невольно…»</text></navLabel><content src="Text/content14.html#mh_toc_3202"/></navPoint>
+<navPoint id="mh_toc_3223" playOrder="157"><navLabel><text>«Ночь грозой бушевала, и молний огни…»</text></navLabel><content src="Text/content14.html#mh_toc_3223"/></navPoint>
+<navPoint id="mh_toc_3244" playOrder="158"><navLabel><text>«Курятся алтари, дымят паникадила…»</text></navLabel><content src="Text/content14.html#mh_toc_3244"/></navPoint>
+<navPoint id="mh_toc_3263" playOrder="159"><navLabel><text>«Напрасно я боролся с богом…»</text></navLabel><content src="Text/content14.html#mh_toc_3263"/></navPoint>
+<navPoint id="mh_toc_3284" playOrder="160"><navLabel><text>« Ты была у окна…»</text></navLabel><content src="Text/content14.html#mh_toc_3284"/></navPoint>
+<navPoint id="mh_toc_3319" playOrder="161"><navLabel><text>«Поклонник эллинов – я лиру забывал…»</text></navLabel><content src="Text/content14.html#mh_toc_3319"/></navPoint>
+<navPoint id="mh_toc_3340" playOrder="162"><navLabel><text>Артистке</text></navLabel><content src="Text/content14.html#mh_toc_3340"/></navPoint>
+<navPoint id="mh_toc_3361" playOrder="163"><navLabel><text>«Я знаю, смерть близка. И ты…»</text></navLabel><content src="Text/content14.html#mh_toc_3361"/></navPoint>
+<navPoint id="mh_toc_3382" playOrder="164"><navLabel><text>«Пора вернуться к прежней битве…»</text></navLabel><content src="Text/content14.html#mh_toc_3382"/></navPoint>
+<navPoint id="mh_toc_3398" playOrder="165"><navLabel><text>«Отрекись от любимых творений…»</text></navLabel><content src="Text/content14.html#mh_toc_3398"/></navPoint>
+<navPoint id="mh_toc_3419" playOrder="166"><navLabel><text>«Измучен бурей вдохновенья…»</text></navLabel><content src="Text/content15.html#mh_toc_3419"/></navPoint>
+<navPoint id="mh_toc_3446" playOrder="167"><navLabel><text>«Не отравляй души своей…»</text></navLabel><content src="Text/content15.html#mh_toc_3446"/></navPoint>
+<navPoint id="mh_toc_3467" playOrder="168"><navLabel><text>«В те целомудренные годы…»</text></navLabel><content src="Text/content15.html#mh_toc_3467"/></navPoint>
+<navPoint id="mh_toc_3488" playOrder="169"><navLabel><text>«Мой монастырь, где я томлюсь безбожно…»</text></navLabel><content src="Text/content15.html#mh_toc_3488"/></navPoint>
+<navPoint id="mh_toc_3509" playOrder="170"><navLabel><text>«Там жили все мои надежды…»</text></navLabel><content src="Text/content15.html#mh_toc_3509"/></navPoint>
+<navPoint id="mh_toc_3530" playOrder="171"><navLabel><text>«Ищу спасенья…»</text></navLabel><content src="Text/content15.html#mh_toc_3530"/></navPoint>
+<navPoint id="mh_toc_3557" playOrder="172"><navLabel><text>«Медленно, тяжко и верно…»</text></navLabel><content src="Text/content15.html#mh_toc_3557"/></navPoint>
+<navPoint id="mh_toc_3576" playOrder="173"><navLabel><text>«Завтра с первым лучом…»</text></navLabel><content src="Text/content15.html#mh_toc_3576"/></navPoint>
+<navPoint id="mh_toc_3595" playOrder="174"><navLabel><text>«Была и страсть, но ум холодный…»</text></navLabel><content src="Text/content15.html#mh_toc_3595"/></navPoint>
+<navPoint id="mh_toc_3616" playOrder="175"><navLabel><text>Поэма философская. Первые три посылки</text></navLabel><content src="Text/content15.html#mh_toc_3616"/><navPoint id="mh_toc_3636" playOrder="176"><navLabel><text>I</text></navLabel><content src="Text/content15.html#mh_toc_3636"/></navPoint>
+<navPoint id="mh_toc_3657" playOrder="177"><navLabel><text>II</text></navLabel><content src="Text/content16.html#mh_toc_3657"/></navPoint>
+<navPoint id="mh_toc_3678" playOrder="178"><navLabel><text>III</text></navLabel><content src="Text/content16.html#mh_toc_3678"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_3694" playOrder="179"><navLabel><text>Последняя часть философской поэмы</text></navLabel><content src="Text/content16.html#mh_toc_3694"/></navPoint>
+<navPoint id="mh_toc_3717" playOrder="180"><navLabel><text>Е. А. Баратынскому</text></navLabel><content src="Text/content16.html#mh_toc_3717"/></navPoint>
+<navPoint id="mh_toc_3739" playOrder="181"><navLabel><text>После битвы</text></navLabel><content src="Text/content16.html#mh_toc_3739"/></navPoint>
+<navPoint id="mh_toc_3760" playOrder="182"><navLabel><text>«Не нарушай гармонии моей…»</text></navLabel><content src="Text/content16.html#mh_toc_3760"/></navPoint>
+<navPoint id="mh_toc_3776" playOrder="183"><navLabel><text>Две любви</text></navLabel><content src="Text/content16.html#mh_toc_3776"/></navPoint>
+<navPoint id="mh_toc_3802" playOrder="184"><navLabel><text>«В полночь глухую рожденная…»</text></navLabel><content src="Text/content16.html#mh_toc_3802"/></navPoint>
+<navPoint id="mh_toc_3833" playOrder="185"><navLabel><text>«Ты не обманешь, призрак бледный…»</text></navLabel><content src="Text/content16.html#mh_toc_3833"/></navPoint>
+<navPoint id="mh_toc_3854" playOrder="186"><navLabel><text>«Нет ни слезы, ни дерзновенья…»</text></navLabel><content src="Text/content16.html#mh_toc_3854"/></navPoint>
+<navPoint id="mh_toc_3870" playOrder="187"><navLabel><text>Валкирия (На мотив из Вагнера)</text></navLabel><content src="Text/content16.html#mh_toc_3870"/></navPoint>
+<navPoint id="mh_toc_3926" playOrder="188"><navLabel><text>31 декабря 1900 года</text></navLabel><content src="Text/content17.html#mh_toc_3926"/></navPoint>
+</navPoint><navPoint id="mh_toc_3953" playOrder="189"><navLabel><text>Стихотворения 1901 года</text></navLabel><content src="Text/content17.html#mh_toc_3953"/><navPoint id="mh_toc_3956" playOrder="190"><navLabel><text>«Когда я одинок и погружен в молчанье…»</text></navLabel><content src="Text/content17.html#mh_toc_3956"/></navPoint>
+<navPoint id="mh_toc_3977" playOrder="191"><navLabel><text>«Я никогда не понимал…»</text></navLabel><content src="Text/content17.html#mh_toc_3977"/></navPoint>
+<navPoint id="mh_toc_3998" playOrder="192"><navLabel><text>«Ты – думы вечной, вдохновенной…»</text></navLabel><content src="Text/content17.html#mh_toc_3998"/></navPoint>
+<navPoint id="mh_toc_4019" playOrder="193"><navLabel><text>«Благоуханных дней теченье…»</text></navLabel><content src="Text/content17.html#mh_toc_4019"/></navPoint>
+<navPoint id="mh_toc_4035" playOrder="194"><navLabel><text>«Часто в мысли гармония спит…»</text></navLabel><content src="Text/content17.html#mh_toc_4035"/></navPoint>
+<navPoint id="mh_toc_4051" playOrder="195"><navLabel><text>«Я вышел. Медленно сходили…»</text></navLabel><content src="Text/content17.html#mh_toc_4051"/></navPoint>
+<navPoint id="mh_toc_4072" playOrder="196"><navLabel><text>«Ветер принес издалёка…»</text></navLabel><content src="Text/content17.html#mh_toc_4072"/></navPoint>
+<navPoint id="mh_toc_4093" playOrder="197"><navLabel><text>«Над синевой просторной дали…»</text></navLabel><content src="Text/content17.html#mh_toc_4093"/></navPoint>
+<navPoint id="mh_toc_4114" playOrder="198"><navLabel><text>«Тихо вечерние тени…»</text></navLabel><content src="Text/content17.html#mh_toc_4114"/></navPoint>
+<navPoint id="mh_toc_4142" playOrder="199"><navLabel><text>«Душа молчит. В холодном небе…»</text></navLabel><content src="Text/content17.html#mh_toc_4142"/></navPoint>
+<navPoint id="mh_toc_4166" playOrder="200"><navLabel><text>«Я сходил в стремнины горные…»</text></navLabel><content src="Text/content18.html#mh_toc_4166"/></navPoint>
+<navPoint id="mh_toc_4187" playOrder="201"><navLabel><text>«Мой путь страстями затемнен…»</text></navLabel><content src="Text/content18.html#mh_toc_4187"/></navPoint>
+<navPoint id="mh_toc_4213" playOrder="202"><navLabel><text>«Ныне, полный блаженства…»</text></navLabel><content src="Text/content18.html#mh_toc_4213"/></navPoint>
+<navPoint id="mh_toc_4235" playOrder="203"><navLabel><text>«Я понял смысл твоих стремлений…»</text></navLabel><content src="Text/content18.html#mh_toc_4235"/></navPoint>
+<navPoint id="mh_toc_4258" playOrder="204"><navLabel><text>«Ты отходишь в сумрак алый…»</text></navLabel><content src="Text/content18.html#mh_toc_4258"/></navPoint>
+<navPoint id="mh_toc_4279" playOrder="205"><navLabel><text>«Так – одинокой, легкой тенью…»</text></navLabel><content src="Text/content18.html#mh_toc_4279"/></navPoint>
+<navPoint id="mh_toc_4290" playOrder="206"><navLabel><text>«Сбылось пророчество мое:…»</text></navLabel><content src="Text/content18.html#mh_toc_4290"/></navPoint>
+<navPoint id="mh_toc_4306" playOrder="207"><navLabel><text>Моей матери</text></navLabel><content src="Text/content18.html#mh_toc_4306"/></navPoint>
+<navPoint id="mh_toc_4327" playOrder="208"><navLabel><text>«Пять изгибов сокровенных…»</text></navLabel><content src="Text/content18.html#mh_toc_4327"/></navPoint>
+<navPoint id="mh_toc_4350" playOrder="209"><navLabel><text>«Отзвучала гармония дня…»</text></navLabel><content src="Text/content18.html#mh_toc_4350"/></navPoint>
+<navPoint id="mh_toc_4366" playOrder="210"><navLabel><text>«Я недаром боялся открыть…»</text></navLabel><content src="Text/content18.html#mh_toc_4366"/></navPoint>
+<navPoint id="mh_toc_4387" playOrder="211"><navLabel><text>«Ночью сумрачной и дикой…»</text></navLabel><content src="Text/content18.html#mh_toc_4387"/></navPoint>
+<navPoint id="mh_toc_4409" playOrder="212"><navLabel><text>«Навстречу вешнему расцвету…»</text></navLabel><content src="Text/content19.html#mh_toc_4409"/></navPoint>
+<navPoint id="mh_toc_4430" playOrder="213"><navLabel><text>«В день холодный, в день осенний…»</text></navLabel><content src="Text/content19.html#mh_toc_4430"/></navPoint>
+<navPoint id="mh_toc_4460" playOrder="214"><navLabel><text>«Всё отлетают сны земные…»</text></navLabel><content src="Text/content19.html#mh_toc_4460"/></navPoint>
+<navPoint id="mh_toc_4490" playOrder="215"><navLabel><text>«В передзакатные часы…»</text></navLabel><content src="Text/content19.html#mh_toc_4490"/></navPoint>
+<navPoint id="mh_toc_4511" playOrder="216"><navLabel><text>«Он уходил, а там глубоко…»</text></navLabel><content src="Text/content19.html#mh_toc_4511"/></navPoint>
+<navPoint id="mh_toc_4522" playOrder="217"><navLabel><text>«Ты ли это прозвучала…»</text></navLabel><content src="Text/content19.html#mh_toc_4522"/></navPoint>
+<navPoint id="mh_toc_4533" playOrder="218"><navLabel><text>«Всё бытие и сущее согласно…»</text></navLabel><content src="Text/content19.html#mh_toc_4533"/></navPoint>
+<navPoint id="mh_toc_4556" playOrder="219"><navLabel><text>«Кто-то шепчет и смеется…»</text></navLabel><content src="Text/content19.html#mh_toc_4556"/></navPoint>
+<navPoint id="mh_toc_4577" playOrder="220"><navLabel><text>«Белой ночью месяц красный…»</text></navLabel><content src="Text/content19.html#mh_toc_4577"/></navPoint>
+<navPoint id="mh_toc_4593" playOrder="221"><navLabel><text>«Небесное умом не измеримо…»</text></navLabel><content src="Text/content19.html#mh_toc_4593"/></navPoint>
+<navPoint id="mh_toc_4614" playOrder="222"><navLabel><text>«Они звучат, они ликуют…»</text></navLabel><content src="Text/content19.html#mh_toc_4614"/></navPoint>
+<navPoint id="mh_toc_4633" playOrder="223"><navLabel><text>«Одинокий, к тебе прихожу…»</text></navLabel><content src="Text/content19.html#mh_toc_4633"/></navPoint>
+<navPoint id="mh_toc_4654" playOrder="224"><navLabel><text>«Предчувствую Тебя. Года проходят мимо…»</text></navLabel><content src="Text/content20.html#mh_toc_4654"/></navPoint>
+<navPoint id="mh_toc_4682" playOrder="225"><navLabel><text>«И поздно, и темно. Покину без желаний…»</text></navLabel><content src="Text/content20.html#mh_toc_4682"/></navPoint>
+<navPoint id="mh_toc_4703" playOrder="226"><navLabel><text>«И я, неверный, тосковал…»</text></navLabel><content src="Text/content20.html#mh_toc_4703"/></navPoint>
+<navPoint id="mh_toc_4718" playOrder="227"><navLabel><text>«Не сердись и прости. Ты цветешь одиноко…»</text></navLabel><content src="Text/content20.html#mh_toc_4718"/></navPoint>
+<navPoint id="mh_toc_4743" playOrder="228"><navLabel><text>«Молитву тайную твори…»</text></navLabel><content src="Text/content20.html#mh_toc_4743"/></navPoint>
+<navPoint id="mh_toc_4762" playOrder="229"><navLabel><text>«За туманом, за лесами…»</text></navLabel><content src="Text/content20.html#mh_toc_4762"/></navPoint>
+<navPoint id="mh_toc_4783" playOrder="230"><navLabel><text>«В бездействии младом, в передрассветной лени…»</text></navLabel><content src="Text/content20.html#mh_toc_4783"/></navPoint>
+<navPoint id="mh_toc_4804" playOrder="231"><navLabel><text>«Какому богу служишь ты?…»</text></navLabel><content src="Text/content20.html#mh_toc_4804"/></navPoint>
+<navPoint id="mh_toc_4823" playOrder="232"><navLabel><text>«Сегодня шла Ты одиноко…»</text></navLabel><content src="Text/content20.html#mh_toc_4823"/></navPoint>
+<navPoint id="mh_toc_4839" playOrder="233"><navLabel><text>«Она росла за дальними горами…»</text></navLabel><content src="Text/content20.html#mh_toc_4839"/></navPoint>
+<navPoint id="mh_toc_4864" playOrder="234"><navLabel><text>«Я помню час глухой, бессонной ночи…»</text></navLabel><content src="Text/content20.html#mh_toc_4864"/></navPoint>
+<navPoint id="mh_toc_4887" playOrder="235"><navLabel><text>«Тебя в страны чужие звали…»</text></navLabel><content src="Text/content21.html#mh_toc_4887"/></navPoint>
+<navPoint id="mh_toc_4913" playOrder="236"><navLabel><text>«Внемля зову жизни смутной…»</text></navLabel><content src="Text/content21.html#mh_toc_4913"/></navPoint>
+<navPoint id="mh_toc_4933" playOrder="237"><navLabel><text>«Прозрачные, неведомые тени…»</text></navLabel><content src="Text/content21.html#mh_toc_4933"/></navPoint>
+<navPoint id="mh_toc_4959" playOrder="238"><navLabel><text>«Я жду призыва, ищу ответа…»</text></navLabel><content src="Text/content21.html#mh_toc_4959"/></navPoint>
+<navPoint id="mh_toc_4985" playOrder="239"><navLabel><text>«Не ты ль в моих мечтах, певучая, прошла…»</text></navLabel><content src="Text/content21.html#mh_toc_4985"/></navPoint>
+<navPoint id="mh_toc_5009" playOrder="240"><navLabel><text>«Вечереющий день, догорая…»</text></navLabel><content src="Text/content21.html#mh_toc_5009"/></navPoint>
+<navPoint id="mh_toc_5035" playOrder="241"><navLabel><text>«За городом в полях весною воздух дышит…»</text></navLabel><content src="Text/content21.html#mh_toc_5035"/></navPoint>
+<navPoint id="mh_toc_5059" playOrder="242"><navLabel><text>«Входите все. Во внутренних покоях…»</text></navLabel><content src="Text/content21.html#mh_toc_5059"/></navPoint>
+<navPoint id="mh_toc_5082" playOrder="243"><navLabel><text>«Ты прошла голубыми путями…»</text></navLabel><content src="Text/content21.html#mh_toc_5082"/></navPoint>
+<navPoint id="mh_toc_5097" playOrder="244"><navLabel><text>«Не жди последнего ответа…»</text></navLabel><content src="Text/content22.html#mh_toc_5097"/></navPoint>
+<navPoint id="mh_toc_5123" playOrder="245"><navLabel><text>«Не пой ты мне и сладостно, и нежно:…»</text></navLabel><content src="Text/content22.html#mh_toc_5123"/></navPoint>
+<navPoint id="mh_toc_5144" playOrder="246"><navLabel><text>«Не жаль мне дней ни радостных, ни знойных…»</text></navLabel><content src="Text/content22.html#mh_toc_5144"/></navPoint>
+<navPoint id="mh_toc_5165" playOrder="247"><navLabel><text>«Признак истинного чуда…»</text></navLabel><content src="Text/content22.html#mh_toc_5165"/></navPoint>
+<navPoint id="mh_toc_5181" playOrder="248"><navLabel><text>«Нас старость грустная настигнет без труда…»</text></navLabel><content src="Text/content22.html#mh_toc_5181"/></navPoint>
+<navPoint id="mh_toc_5197" playOrder="249"><navLabel><text>Преображение</text></navLabel><content src="Text/content22.html#mh_toc_5197"/></navPoint>
+<navPoint id="mh_toc_5223" playOrder="250"><navLabel><text>«Ты далека, как прежде, так и ныне…»</text></navLabel><content src="Text/content22.html#mh_toc_5223"/></navPoint>
+<navPoint id="mh_toc_5239" playOrder="251"><navLabel><text>«Стою на царственном пути…»</text></navLabel><content src="Text/content22.html#mh_toc_5239"/></navPoint>
+<navPoint id="mh_toc_5265" playOrder="252"><navLabel><text>«Сумерки, сумерки вешние…»</text></navLabel><content src="Text/content22.html#mh_toc_5265"/></navPoint>
+<navPoint id="mh_toc_5296" playOrder="253"><navLabel><text>«Наступает пора небывалая…»</text></navLabel><content src="Text/content22.html#mh_toc_5296"/></navPoint>
+<navPoint id="mh_toc_5312" playOrder="254"><navLabel><text>«Ты горишь над высокой горою…»</text></navLabel><content src="Text/content22.html#mh_toc_5312"/></navPoint>
+<navPoint id="mh_toc_5333" playOrder="255"><navLabel><text>«Видно, дни золотые пришли…»</text></navLabel><content src="Text/content23.html#mh_toc_5333"/></navPoint>
+<navPoint id="mh_toc_5357" playOrder="256"><navLabel><text>«Кругом далекая равнина…»</text></navLabel><content src="Text/content23.html#mh_toc_5357"/></navPoint>
+<navPoint id="mh_toc_5385" playOrder="257"><navLabel><text>«Я всё гадаю над тобою…»</text></navLabel><content src="Text/content23.html#mh_toc_5385"/></navPoint>
+<navPoint id="mh_toc_5411" playOrder="258"><navLabel><text>«Когда-то долгие печали…»</text></navLabel><content src="Text/content23.html#mh_toc_5411"/></navPoint>
+<navPoint id="mh_toc_5430" playOrder="259"><navLabel><text>«Синие горы вдали…»</text></navLabel><content src="Text/content23.html#mh_toc_5430"/></navPoint>
+<navPoint id="mh_toc_5450" playOrder="260"><navLabel><text>«Нет конца лесным тропинкам…»</text></navLabel><content src="Text/content23.html#mh_toc_5450"/></navPoint>
+<navPoint id="mh_toc_5471" playOrder="261"><navLabel><text>«Внемлю голосу свободы…»</text></navLabel><content src="Text/content23.html#mh_toc_5471"/></navPoint>
+<navPoint id="mh_toc_5492" playOrder="262"><navLabel><text>«Глушь родного леса…»</text></navLabel><content src="Text/content23.html#mh_toc_5492"/></navPoint>
+<navPoint id="mh_toc_5508" playOrder="263"><navLabel><text>«Мчит меня мертвая сила…»</text></navLabel><content src="Text/content23.html#mh_toc_5508"/></navPoint>
+<navPoint id="mh_toc_5533" playOrder="264"><navLabel><text>Ожидание</text></navLabel><content src="Text/content23.html#mh_toc_5533"/></navPoint>
+<navPoint id="mh_toc_5554" playOrder="265"><navLabel><text>«Знаю, бедная, тяжкое бремя…»</text></navLabel><content src="Text/content23.html#mh_toc_5554"/></navPoint>
+<navPoint id="mh_toc_5579" playOrder="266"><navLabel><text>Посвящение</text></navLabel><content src="Text/content23.html#mh_toc_5579"/></navPoint>
+<navPoint id="mh_toc_5600" playOrder="267"><navLabel><text>«Смотри – я отступаю в тень…»</text></navLabel><content src="Text/content24.html#mh_toc_5600"/></navPoint>
+<navPoint id="mh_toc_5626" playOrder="268"><navLabel><text>«Пройдет зима – увидишь ты…»</text></navLabel><content src="Text/content24.html#mh_toc_5626"/></navPoint>
+<navPoint id="mh_toc_5652" playOrder="269"><navLabel><text>«Грустно и тихо у берега сонного…»</text></navLabel><content src="Text/content24.html#mh_toc_5652"/></navPoint>
+<navPoint id="mh_toc_5667" playOrder="270"><navLabel><text>«Встану я в утро туманное…»</text></navLabel><content src="Text/content24.html#mh_toc_5667"/></navPoint>
+<navPoint id="mh_toc_5688" playOrder="271"><navLabel><text>«Ранний час. В пути незрима…»</text></navLabel><content src="Text/content24.html#mh_toc_5688"/></navPoint>
+<navPoint id="mh_toc_5709" playOrder="272"><navLabel><text>«Ты уходишь от земной юдоли…»</text></navLabel><content src="Text/content24.html#mh_toc_5709"/></navPoint>
+<navPoint id="mh_toc_5730" playOrder="273"><navLabel><text>«Ходит месяц по волне…»</text></navLabel><content src="Text/content24.html#mh_toc_5730"/></navPoint>
+<navPoint id="mh_toc_5751" playOrder="274"><navLabel><text>«Снова ближе вечерние тени…»</text></navLabel><content src="Text/content24.html#mh_toc_5751"/></navPoint>
+<navPoint id="mh_toc_5772" playOrder="275"><navLabel><text>«Я бремя похитил, как тать…»</text></navLabel><content src="Text/content24.html#mh_toc_5772"/></navPoint>
+<navPoint id="mh_toc_5793" playOrder="276"><navLabel><text>«Хранила я среди младых созвучий…»</text></navLabel><content src="Text/content24.html#mh_toc_5793"/></navPoint>
+<navPoint id="mh_toc_5814" playOrder="277"><navLabel><text>«Медленно в двери церковные…»</text></navLabel><content src="Text/content24.html#mh_toc_5814"/></navPoint>
+<navPoint id="mh_toc_5835" playOrder="278"><navLabel><text>«Ловлю я тонкий прах надежды…»</text></navLabel><content src="Text/content25.html#mh_toc_5835"/></navPoint>
+<navPoint id="mh_toc_5856" playOrder="279"><navLabel><text>«Скрипнула дверь. Задрожала рука…»</text></navLabel><content src="Text/content25.html#mh_toc_5856"/></navPoint>
+<navPoint id="mh_toc_5877" playOrder="280"><navLabel><text>«Зарево белое, желтое, красное…»</text></navLabel><content src="Text/content25.html#mh_toc_5877"/></navPoint>
+<navPoint id="mh_toc_5898" playOrder="281"><navLabel><text>«Восходя на первые ступени…»</text></navLabel><content src="Text/content25.html#mh_toc_5898"/></navPoint>
+<navPoint id="mh_toc_5913" playOrder="282"><navLabel><text>«Один порыв – безвластный и плакучий…»</text></navLabel><content src="Text/content25.html#mh_toc_5913"/></navPoint>
+<navPoint id="mh_toc_5929" playOrder="283"><navLabel><text>«Я ли пишу, или ты из могилы…»</text></navLabel><content src="Text/content25.html#mh_toc_5929"/></navPoint>
+<navPoint id="mh_toc_5945" playOrder="284"><navLabel><text>«Жду я холодного дня…»</text></navLabel><content src="Text/content25.html#mh_toc_5945"/></navPoint>
+<navPoint id="mh_toc_5966" playOrder="285"><navLabel><text>«Ты страстно ждешь. Тебя зовут…»</text></navLabel><content src="Text/content25.html#mh_toc_5966"/></navPoint>
+<navPoint id="mh_toc_5987" playOrder="286"><navLabel><text>«Будет день и свершится великое…»</text></navLabel><content src="Text/content25.html#mh_toc_5987"/></navPoint>
+<navPoint id="mh_toc_6003" playOrder="287"><navLabel><text>«Я долго ждал – ты вышла поздно…»</text></navLabel><content src="Text/content25.html#mh_toc_6003"/></navPoint>
+<navPoint id="mh_toc_6024" playOrder="288"><navLabel><text>«Ночью вьюга снежная…»</text></navLabel><content src="Text/content25.html#mh_toc_6024"/></navPoint>
+<navPoint id="mh_toc_6045" playOrder="289"><navLabel><text>Ворожба</text></navLabel><content src="Text/content25.html#mh_toc_6045"/></navPoint>
+<navPoint id="mh_toc_6069" playOrder="290"><navLabel><text>«Недосказанной речи тревогу…»</text></navLabel><content src="Text/content26.html#mh_toc_6069"/></navPoint>
+<navPoint id="mh_toc_6095" playOrder="291"><navLabel><text>«Тёмно в комнатах и душно…»</text></navLabel><content src="Text/content26.html#mh_toc_6095"/></navPoint>
+<navPoint id="mh_toc_6116" playOrder="292"><navLabel><text>«Мне битва сердце веселит…»</text></navLabel><content src="Text/content26.html#mh_toc_6116"/></navPoint>
+<navPoint id="mh_toc_6146" playOrder="293"><navLabel><text>«Неотвязный стоит на дороге…»</text></navLabel><content src="Text/content26.html#mh_toc_6146"/></navPoint>
+<navPoint id="mh_toc_6172" playOrder="294"><navLabel><text>«Смотри приветно и легко…»</text></navLabel><content src="Text/content26.html#mh_toc_6172"/></navPoint>
+<navPoint id="mh_toc_6192" playOrder="295"><navLabel><text>«Молчи, как встарь, скрывая свет…»</text></navLabel><content src="Text/content26.html#mh_toc_6192"/></navPoint>
+<navPoint id="mh_toc_6223" playOrder="296"><navLabel><text>«Вечереющий сумрак, поверь…»</text></navLabel><content src="Text/content26.html#mh_toc_6223"/></navPoint>
+<navPoint id="mh_toc_6252" playOrder="297"><navLabel><text>«Сумрак дня несет печаль…»</text></navLabel><content src="Text/content26.html#mh_toc_6252"/></navPoint>
+<navPoint id="mh_toc_6278" playOrder="298"><navLabel><text>При посылке роз</text></navLabel><content src="Text/content26.html#mh_toc_6278"/></navPoint>
+<navPoint id="mh_toc_6299" playOrder="299"><navLabel><text>«Старый год уносит сны…»</text></navLabel><content src="Text/content27.html#mh_toc_6299"/></navPoint>
+<navPoint id="mh_toc_6325" playOrder="300"><navLabel><text>Двойнику</text></navLabel><content src="Text/content27.html#mh_toc_6325"/></navPoint>
+<navPoint id="mh_toc_6351" playOrder="301"><navLabel><text>«Черты знакомых лиц…»</text></navLabel><content src="Text/content27.html#mh_toc_6351"/></navPoint>
+<navPoint id="mh_toc_6379" playOrder="302"><navLabel><text>«Мы, два старца, бредем одинокие…»</text></navLabel><content src="Text/content27.html#mh_toc_6379"/></navPoint>
+<navPoint id="mh_toc_6405" playOrder="303"><navLabel><text>Ночь на новый год</text></navLabel><content src="Text/content27.html#mh_toc_6405"/></navPoint>
+</navPoint><navPoint id="mh_toc_6442" playOrder="304"><navLabel><text>Стихотворения 1902 года</text></navLabel><content src="Text/content27.html#mh_toc_6442"/><navPoint id="mh_toc_6445" playOrder="305"><navLabel><text>«Я шел – и вслед за мною шли…»</text></navLabel><content src="Text/content27.html#mh_toc_6445"/></navPoint>
+<navPoint id="mh_toc_6470" playOrder="306"><navLabel><text>«Бегут неверные дневные тени…»</text></navLabel><content src="Text/content27.html#mh_toc_6470"/></navPoint>
+<navPoint id="mh_toc_6493" playOrder="307"><navLabel><text>«Сгущался мрак церковного порога…»</text></navLabel><content src="Text/content27.html#mh_toc_6493"/></navPoint>
+<navPoint id="mh_toc_6519" playOrder="308"><navLabel><text>«Высоко с темнотой сливается стена…»</text></navLabel><content src="Text/content27.html#mh_toc_6519"/></navPoint>
+<navPoint id="mh_toc_6535" playOrder="309"><navLabel><text>«Туман скрывает берег отдаленный…»</text></navLabel><content src="Text/content28.html#mh_toc_6535"/></navPoint>
+<navPoint id="mh_toc_6556" playOrder="310"><navLabel><text>«Там, в полусумраке собора…»</text></navLabel><content src="Text/content28.html#mh_toc_6556"/></navPoint>
+<navPoint id="mh_toc_6582" playOrder="311"><navLabel><text>«Из царства сна выходит безнадежность…»</text></navLabel><content src="Text/content28.html#mh_toc_6582"/></navPoint>
+<navPoint id="mh_toc_6603" playOrder="312"><navLabel><text>«Озарен таинственной улыбкой…»</text></navLabel><content src="Text/content28.html#mh_toc_6603"/></navPoint>
+<navPoint id="mh_toc_6624" playOrder="313"><navLabel><text>«Но прощай, о, прощай, человеческий род!…»</text></navLabel><content src="Text/content28.html#mh_toc_6624"/></navPoint>
+<navPoint id="mh_toc_6639" playOrder="314"><navLabel><text>«Мы преклонились у завета…»</text></navLabel><content src="Text/content28.html#mh_toc_6639"/></navPoint>
+<navPoint id="mh_toc_6662" playOrder="315"><navLabel><text>На могиле друга</text></navLabel><content src="Text/content28.html#mh_toc_6662"/></navPoint>
+<navPoint id="mh_toc_6678" playOrder="316"><navLabel><text>«Я укрыт до времени в приделе…»</text></navLabel><content src="Text/content28.html#mh_toc_6678"/></navPoint>
+<navPoint id="mh_toc_6709" playOrder="317"><navLabel><text>«Целый день – суета у могил…»</text></navLabel><content src="Text/content28.html#mh_toc_6709"/></navPoint>
+<navPoint id="mh_toc_6730" playOrder="318"><navLabel><text>«Война горит неукротимо…»</text></navLabel><content src="Text/content28.html#mh_toc_6730"/></navPoint>
+<navPoint id="mh_toc_6756" playOrder="319"><navLabel><text>«Вдали мигнул огонь вечерний…»</text></navLabel><content src="Text/content29.html#mh_toc_6756"/></navPoint>
+<navPoint id="mh_toc_6777" playOrder="320"><navLabel><text>«…И были при последнем издыханьи…»</text></navLabel><content src="Text/content29.html#mh_toc_6777"/></navPoint>
+<navPoint id="mh_toc_6790" playOrder="321"><navLabel><text>«В пути – глубокий мрак, и страшны высоты…»</text></navLabel><content src="Text/content29.html#mh_toc_6790"/></navPoint>
+<navPoint id="mh_toc_6806" playOrder="322"><navLabel><text>«Уходит день. В пыли дорожной…»</text></navLabel><content src="Text/content29.html#mh_toc_6806"/></navPoint>
+<navPoint id="mh_toc_6827" playOrder="323"><navLabel><text>«Сны раздумий небывалых…»</text></navLabel><content src="Text/content29.html#mh_toc_6827"/></navPoint>
+<navPoint id="mh_toc_6860" playOrder="324"><navLabel><text>«На весенний праздник света…»</text></navLabel><content src="Text/content29.html#mh_toc_6860"/></navPoint>
+<navPoint id="mh_toc_6881" playOrder="325"><navLabel><text>«Ты была светла до странности…»</text></navLabel><content src="Text/content29.html#mh_toc_6881"/></navPoint>
+<navPoint id="mh_toc_6900" playOrder="326"><navLabel><text>«Не поймут бесскорбные люди…»</text></navLabel><content src="Text/content29.html#mh_toc_6900"/></navPoint>
+<navPoint id="mh_toc_6921" playOrder="327"><navLabel><text>«Или устал ты до времени…»</text></navLabel><content src="Text/content29.html#mh_toc_6921"/></navPoint>
+<navPoint id="mh_toc_6942" playOrder="328"><navLabel><text>«Сны безотчетны, ярки краски…»</text></navLabel><content src="Text/content29.html#mh_toc_6942"/></navPoint>
+<navPoint id="mh_toc_6966" playOrder="329"><navLabel><text>«Мы живем в старинной келье…»</text></navLabel><content src="Text/content29.html#mh_toc_6966"/></navPoint>
+<navPoint id="mh_toc_6987" playOrder="330"><navLabel><text>«Ты – божий день. Мои мечты…»</text></navLabel><content src="Text/content29.html#mh_toc_6987"/></navPoint>
+<navPoint id="mh_toc_7003" playOrder="331"><navLabel><text>«Верю в Солнце Завета…»</text></navLabel><content src="Text/content30.html#mh_toc_7003"/></navPoint>
+<navPoint id="mh_toc_7032" playOrder="332"><navLabel><text>«Кто-то с богом шепчется…»</text></navLabel><content src="Text/content30.html#mh_toc_7032"/></navPoint>
+<navPoint id="mh_toc_7055" playOrder="333"><navLabel><text>«Мы всё простим – и не нарушим…»</text></navLabel><content src="Text/content30.html#mh_toc_7055"/></navPoint>
+<navPoint id="mh_toc_7076" playOrder="334"><navLabel><text>«Целый день передо мною…»</text></navLabel><content src="Text/content30.html#mh_toc_7076"/></navPoint>
+<navPoint id="mh_toc_7097" playOrder="335"><navLabel><text>У дверей</text></navLabel><content src="Text/content30.html#mh_toc_7097"/></navPoint>
+<navPoint id="mh_toc_7118" playOrder="336"><navLabel><text>«Всю зиму мы плакали, бедные…»</text></navLabel><content src="Text/content30.html#mh_toc_7118"/></navPoint>
+<navPoint id="mh_toc_7139" playOrder="337"><navLabel><text>«Там сумерки невнятно трепетали…»</text></navLabel><content src="Text/content30.html#mh_toc_7139"/></navPoint>
+<navPoint id="mh_toc_7160" playOrder="338"><navLabel><text>«Мы странствовали с Ним по городам…»</text></navLabel><content src="Text/content30.html#mh_toc_7160"/></navPoint>
+<navPoint id="mh_toc_7181" playOrder="339"><navLabel><text>«Успокоительны, и чудны…»</text></navLabel><content src="Text/content30.html#mh_toc_7181"/></navPoint>
+<navPoint id="mh_toc_7202" playOrder="340"><navLabel><text>«Гадай и жди. Среди полночи…»</text></navLabel><content src="Text/content30.html#mh_toc_7202"/></navPoint>
+<navPoint id="mh_toc_7218" playOrder="341"><navLabel><text>«Жизнь медленная шла, как старая гадалка…»</text></navLabel><content src="Text/content30.html#mh_toc_7218"/></navPoint>
+<navPoint id="mh_toc_7244" playOrder="342"><navLabel><text>«Ты не пленишь. Не жди меня…»</text></navLabel><content src="Text/content31.html#mh_toc_7244"/></navPoint>
+<navPoint id="mh_toc_7265" playOrder="343"><navLabel><text>«Мы шли заветною тропою…»</text></navLabel><content src="Text/content31.html#mh_toc_7265"/></navPoint>
+<navPoint id="mh_toc_7286" playOrder="344"><navLabel><text>«Травы спят красивые…»</text></navLabel><content src="Text/content31.html#mh_toc_7286"/></navPoint>
+<navPoint id="mh_toc_7312" playOrder="345"><navLabel><text>«Мой вечер близок и безволен…»</text></navLabel><content src="Text/content31.html#mh_toc_7312"/></navPoint>
+<navPoint id="mh_toc_7338" playOrder="346"><navLabel><text>«Ты – злая колдунья. Мой вечер в огне…»</text></navLabel><content src="Text/content31.html#mh_toc_7338"/></navPoint>
+<navPoint id="mh_toc_7354" playOrder="347"><navLabel><text>«На темном пороге тайком…»</text></navLabel><content src="Text/content31.html#mh_toc_7354"/></navPoint>
+<navPoint id="mh_toc_7380" playOrder="348"><navLabel><text>«Я медленно сходил с ума…»</text></navLabel><content src="Text/content31.html#mh_toc_7380"/></navPoint>
+<navPoint id="mh_toc_7406" playOrder="349"><navLabel><text>«Я жалок в глубоком бессильи…»</text></navLabel><content src="Text/content31.html#mh_toc_7406"/></navPoint>
+<navPoint id="mh_toc_7427" playOrder="350"><navLabel><text>«Испытанный, стою на грани…»</text></navLabel><content src="Text/content31.html#mh_toc_7427"/></navPoint>
+<navPoint id="mh_toc_7443" playOrder="351"><navLabel><text>«Весна в реке ломает льдины…»</text></navLabel><content src="Text/content31.html#mh_toc_7443"/></navPoint>
+<navPoint id="mh_toc_7461" playOrder="352"><navLabel><text>«Ищи разгадку ожиданий…»</text></navLabel><content src="Text/content31.html#mh_toc_7461"/></navPoint>
+<navPoint id="mh_toc_7477" playOrder="353"><navLabel><text>«Кто-то вздохнул у могилы…»</text></navLabel><content src="Text/content31.html#mh_toc_7477"/></navPoint>
+<navPoint id="mh_toc_7496" playOrder="354"><navLabel><text>«Кто плачет здесь? На мирные ступени…»</text></navLabel><content src="Text/content32.html#mh_toc_7496"/></navPoint>
+<navPoint id="mh_toc_7517" playOrder="355"><navLabel><text>«Ловлю дрожащие, хладеющие руки;…»</text></navLabel><content src="Text/content32.html#mh_toc_7517"/></navPoint>
+<navPoint id="mh_toc_7537" playOrder="356"><navLabel><text>«У окна не ветер бродит…»</text></navLabel><content src="Text/content32.html#mh_toc_7537"/></navPoint>
+<navPoint id="mh_toc_7558" playOrder="357"><navLabel><text>«Ты, отчаянье жизни моей…»</text></navLabel><content src="Text/content32.html#mh_toc_7558"/></navPoint>
+<navPoint id="mh_toc_7579" playOrder="358"><navLabel><text>«Утомленный, я терял надежды…»</text></navLabel><content src="Text/content32.html#mh_toc_7579"/></navPoint>
+<navPoint id="mh_toc_7600" playOrder="359"><navLabel><text>«Странных и новых ищу на страницах…»</text></navLabel><content src="Text/content32.html#mh_toc_7600"/></navPoint>
+<navPoint id="mh_toc_7626" playOrder="360"><navLabel><text>«Днем вершу я дела суеты…»</text></navLabel><content src="Text/content32.html#mh_toc_7626"/></navPoint>
+<navPoint id="mh_toc_7652" playOrder="361"><navLabel><text>«Люблю высокие соборы…»</text></navLabel><content src="Text/content32.html#mh_toc_7652"/></navPoint>
+<navPoint id="mh_toc_7679" playOrder="362"><navLabel><text>«В сумерки девушку стройную…»</text></navLabel><content src="Text/content32.html#mh_toc_7679"/></navPoint>
+<navPoint id="mh_toc_7699" playOrder="363"><navLabel><text>«Я знаю день моих проклятий…»</text></navLabel><content src="Text/content32.html#mh_toc_7699"/></navPoint>
+<navPoint id="mh_toc_7725" playOrder="364"><navLabel><text>«Мы отошли и стали у кормила…»</text></navLabel><content src="Text/content33.html#mh_toc_7725"/></navPoint>
+<navPoint id="mh_toc_7746" playOrder="365"><navLabel><text>«Завтра в сумерки встретимся мы…»</text></navLabel><content src="Text/content33.html#mh_toc_7746"/></navPoint>
+<navPoint id="mh_toc_7773" playOrder="366"><navLabel><text>«Я тишиною очарован…»</text></navLabel><content src="Text/content33.html#mh_toc_7773"/></navPoint>
+<navPoint id="mh_toc_7803" playOrder="367"><navLabel><text>«Я – тварь дрожащая. Лучами…»</text></navLabel><content src="Text/content33.html#mh_toc_7803"/></navPoint>
+<navPoint id="mh_toc_7822" playOrder="368"><navLabel><text>«Ты – молитва лазурная…»</text></navLabel><content src="Text/content33.html#mh_toc_7822"/></navPoint>
+<navPoint id="mh_toc_7843" playOrder="369"><navLabel><text>«Слышу колокол. В поле весна…»</text></navLabel><content src="Text/content33.html#mh_toc_7843"/></navPoint>
+<navPoint id="mh_toc_7859" playOrder="370"><navLabel><text>«Там – в улице стоял какой-то дом…»</text></navLabel><content src="Text/content33.html#mh_toc_7859"/></navPoint>
+<navPoint id="mh_toc_7890" playOrder="371"><navLabel><text>«Я и мир – снега, ручьи…»</text></navLabel><content src="Text/content33.html#mh_toc_7890"/></navPoint>
+<navPoint id="mh_toc_7912" playOrder="372"><navLabel><text>«Мы встречались с тобой на закате…»</text></navLabel><content src="Text/content33.html#mh_toc_7912"/></navPoint>
+<navPoint id="mh_toc_7938" playOrder="373"><navLabel><text>«Ты не ушла. Но, может быть…»</text></navLabel><content src="Text/content33.html#mh_toc_7938"/></navPoint>
+<navPoint id="mh_toc_7954" playOrder="374"><navLabel><text>«Тебя скрывали туманы…»</text></navLabel><content src="Text/content34.html#mh_toc_7954"/></navPoint>
+<navPoint id="mh_toc_7985" playOrder="375"><navLabel><text>«Когда святого забвения…»</text></navLabel><content src="Text/content34.html#mh_toc_7985"/></navPoint>
+<navPoint id="mh_toc_8011" playOrder="376"><navLabel><text>«Проходят сны и женственные тени…»</text></navLabel><content src="Text/content34.html#mh_toc_8011"/></navPoint>
+<navPoint id="mh_toc_8034" playOrder="377"><navLabel><text>«Поздно. В окошко закрытое…»</text></navLabel><content src="Text/content34.html#mh_toc_8034"/></navPoint>
+<navPoint id="mh_toc_8055" playOrder="378"><navLabel><text>«Сплетались времена, сплетались страны…»</text></navLabel><content src="Text/content34.html#mh_toc_8055"/></navPoint>
+<navPoint id="mh_toc_8081" playOrder="379"><navLabel><text>«Брожу в стенах монастыря…»</text></navLabel><content src="Text/content34.html#mh_toc_8081"/></navPoint>
+<navPoint id="mh_toc_8112" playOrder="380"><navLabel><text>«Ушли в туман мечтания…»</text></navLabel><content src="Text/content34.html#mh_toc_8112"/></navPoint>
+<navPoint id="mh_toc_8128" playOrder="381"><navLabel><text>«Вот снова пошатнулись дали…»</text></navLabel><content src="Text/content34.html#mh_toc_8128"/></navPoint>
+<navPoint id="mh_toc_8149" playOrder="382"><navLabel><text>«Хоронил я тебя, и, тоскуя…»</text></navLabel><content src="Text/content34.html#mh_toc_8149"/></navPoint>
+<navPoint id="mh_toc_8168" playOrder="383"><navLabel><text>«На ржавых петлях открываю ставни…»</text></navLabel><content src="Text/content34.html#mh_toc_8168"/></navPoint>
+<navPoint id="mh_toc_8194" playOrder="384"><navLabel><text>«Золотокудрый ангел дня…»</text></navLabel><content src="Text/content35.html#mh_toc_8194"/></navPoint>
+<navPoint id="mh_toc_8215" playOrder="385"><navLabel><text>«Пробивалась певучим потоком…»</text></navLabel><content src="Text/content35.html#mh_toc_8215"/></navPoint>
+<navPoint id="mh_toc_8242" playOrder="386"><navLabel><text>На смерть деда (1 июля 1902 г.)</text></navLabel><content src="Text/content35.html#mh_toc_8242"/></navPoint>
+<navPoint id="mh_toc_8270" playOrder="387"><navLabel><text>«Не бойся умереть в пути…»</text></navLabel><content src="Text/content35.html#mh_toc_8270"/></navPoint>
+<navPoint id="mh_toc_8291" playOrder="388"><navLabel><text>«Я, отрок, зажигаю свечи…»</text></navLabel><content src="Text/content35.html#mh_toc_8291"/></navPoint>
+<navPoint id="mh_toc_8322" playOrder="389"><navLabel><text>«Говорили короткие речи…»</text></navLabel><content src="Text/content35.html#mh_toc_8322"/></navPoint>
+<navPoint id="mh_toc_8358" playOrder="390"><navLabel><text>«Сбежал с горы и замер в чаще…»</text></navLabel><content src="Text/content35.html#mh_toc_8358"/></navPoint>
+<navPoint id="mh_toc_8379" playOrder="391"><navLabel><text>«Как сон, уходит летний день…»</text></navLabel><content src="Text/content35.html#mh_toc_8379"/></navPoint>
+<navPoint id="mh_toc_8400" playOrder="392"><navLabel><text>«Зову тебя в дыму пожара…»</text></navLabel><content src="Text/content35.html#mh_toc_8400"/></navPoint>
+<navPoint id="mh_toc_8426" playOrder="393"><navLabel><text>«Я и молод, и свеж, и влюблен…»</text></navLabel><content src="Text/content36.html#mh_toc_8426"/></navPoint>
+<navPoint id="mh_toc_8449" playOrder="394"><navLabel><text>«Ужасен холод вечеров…»</text></navLabel><content src="Text/content36.html#mh_toc_8449"/></navPoint>
+<navPoint id="mh_toc_8465" playOrder="395"><navLabel><text>«Инок шел и нес святые знаки…»</text></navLabel><content src="Text/content36.html#mh_toc_8465"/></navPoint>
+<navPoint id="mh_toc_8491" playOrder="396"><navLabel><text>«За темной далью городской…»</text></navLabel><content src="Text/content36.html#mh_toc_8491"/></navPoint>
+<navPoint id="mh_toc_8527" playOrder="397"><navLabel><text>«Свет в окошке шатался…»</text></navLabel><content src="Text/content36.html#mh_toc_8527"/></navPoint>
+<navPoint id="mh_toc_8558" playOrder="398"><navLabel><text>Боец</text></navLabel><content src="Text/content36.html#mh_toc_8558"/></navPoint>
+<navPoint id="mh_toc_8579" playOrder="399"><navLabel><text>«Всё, чем дышал я…»</text></navLabel><content src="Text/content36.html#mh_toc_8579"/></navPoint>
+<navPoint id="mh_toc_8600" playOrder="400"><navLabel><text>«Тебе, Тебе, с иного света…»</text></navLabel><content src="Text/content36.html#mh_toc_8600"/></navPoint>
+<navPoint id="mh_toc_8626" playOrder="401"><navLabel><text>«Моя душа в смятеньи страха…»</text></navLabel><content src="Text/content36.html#mh_toc_8626"/></navPoint>
+<navPoint id="mh_toc_8647" playOrder="402"><navLabel><text>«Прости. Я холодность заметил…»</text></navLabel><content src="Text/content36.html#mh_toc_8647"/></navPoint>
+<navPoint id="mh_toc_8668" playOrder="403"><navLabel><text>«Пытался сердцем отдохнуть я…»</text></navLabel><content src="Text/content36.html#mh_toc_8668"/></navPoint>
+<navPoint id="mh_toc_8694" playOrder="404"><navLabel><text>«Золотистою долиной…»</text></navLabel><content src="Text/content37.html#mh_toc_8694"/></navPoint>
+<navPoint id="mh_toc_8720" playOrder="405"><navLabel><text>«Без Меня б твои сны улетали…»</text></navLabel><content src="Text/content37.html#mh_toc_8720"/></navPoint>
+<navPoint id="mh_toc_8741" playOrder="406"><navLabel><text>«В чужбину по гудящей стали…»</text></navLabel><content src="Text/content37.html#mh_toc_8741"/></navPoint>
+<navPoint id="mh_toc_8762" playOrder="407"><navLabel><text>«Я вышел в ночь – узнать, понять…»</text></navLabel><content src="Text/content37.html#mh_toc_8762"/></navPoint>
+<navPoint id="mh_toc_8798" playOrder="408"><navLabel><text>«Безрадостные всходят семена…»</text></navLabel><content src="Text/content37.html#mh_toc_8798"/></navPoint>
+<navPoint id="mh_toc_8821" playOrder="409"><navLabel><text>«Давно хожу я под окнами…»</text></navLabel><content src="Text/content37.html#mh_toc_8821"/></navPoint>
+<navPoint id="mh_toc_8847" playOrder="410"><navLabel><text>«Смолкали и говор, и шутки…»</text></navLabel><content src="Text/content37.html#mh_toc_8847"/></navPoint>
+<navPoint id="mh_toc_8878" playOrder="411"><navLabel><text>«В городе колокол бился…»</text></navLabel><content src="Text/content37.html#mh_toc_8878"/></navPoint>
+<navPoint id="mh_toc_8899" playOrder="412"><navLabel><text>«Я просыпался и всходил…»</text></navLabel><content src="Text/content37.html#mh_toc_8899"/></navPoint>
+<navPoint id="mh_toc_8925" playOrder="413"><navLabel><text>«Как старинной легенды слова…»</text></navLabel><content src="Text/content38.html#mh_toc_8925"/></navPoint>
+<navPoint id="mh_toc_8946" playOrder="414"><navLabel><text>«Мы – чернецы, бредущие во мгле…»</text></navLabel><content src="Text/content38.html#mh_toc_8946"/></navPoint>
+<navPoint id="mh_toc_8967" playOrder="415"><navLabel><text>Экклесиаст</text></navLabel><content src="Text/content38.html#mh_toc_8967"/></navPoint>
+<navPoint id="mh_toc_9003" playOrder="416"><navLabel><text>«Она стройна и высока…»</text></navLabel><content src="Text/content38.html#mh_toc_9003"/></navPoint>
+<navPoint id="mh_toc_9034" playOrder="417"><navLabel><text>«Они говорили о ранней весне…»</text></navLabel><content src="Text/content38.html#mh_toc_9034"/></navPoint>
+<navPoint id="mh_toc_9060" playOrder="418"><navLabel><text>«Когда я вышел – были зори…»</text></navLabel><content src="Text/content38.html#mh_toc_9060"/></navPoint>
+<navPoint id="mh_toc_9083" playOrder="419"><navLabel><text>«Был вечер поздний и багровый…»</text></navLabel><content src="Text/content38.html#mh_toc_9083"/></navPoint>
+<navPoint id="mh_toc_9109" playOrder="420"><navLabel><text>Старик</text></navLabel><content src="Text/content38.html#mh_toc_9109"/></navPoint>
+<navPoint id="mh_toc_9137" playOrder="421"><navLabel><text>Случайному</text></navLabel><content src="Text/content38.html#mh_toc_9137"/></navPoint>
+<navPoint id="mh_toc_9163" playOrder="422"><navLabel><text>«Стремленья сердца непомерны…»</text></navLabel><content src="Text/content39.html#mh_toc_9163"/></navPoint>
+<navPoint id="mh_toc_9182" playOrder="423"><navLabel><text>«Передо мной – моя дорога…»</text></navLabel><content src="Text/content39.html#mh_toc_9182"/></navPoint>
+<navPoint id="mh_toc_9208" playOrder="424"><navLabel><text>«Всё, что в море покоит волну…»</text></navLabel><content src="Text/content39.html#mh_toc_9208"/></navPoint>
+<navPoint id="mh_toc_9229" playOrder="425"><navLabel><text>«Все они загораются здесь…»</text></navLabel><content src="Text/content39.html#mh_toc_9229"/></navPoint>
+<navPoint id="mh_toc_9252" playOrder="426"><navLabel><text>«Я ждал под окнами в тени…»</text></navLabel><content src="Text/content39.html#mh_toc_9252"/></navPoint>
+<navPoint id="mh_toc_9278" playOrder="427"><navLabel><text>«При желтом свете веселились…»</text></navLabel><content src="Text/content39.html#mh_toc_9278"/></navPoint>
+<navPoint id="mh_toc_9299" playOrder="428"><navLabel><text>«О легендах, о сказках, о тайнах…»</text></navLabel><content src="Text/content39.html#mh_toc_9299"/></navPoint>
+<navPoint id="mh_toc_9320" playOrder="429"><navLabel><text>«Он входил простой и скудный…»</text></navLabel><content src="Text/content39.html#mh_toc_9320"/></navPoint>
+<navPoint id="mh_toc_9346" playOrder="430"><navLabel><text>«Явился он на стройном бале…»</text></navLabel><content src="Text/content39.html#mh_toc_9346"/></navPoint>
+<navPoint id="mh_toc_9372" playOrder="431"><navLabel><text>«Свобода смотрит в синеву…»</text></navLabel><content src="Text/content39.html#mh_toc_9372"/></navPoint>
+<navPoint id="mh_toc_9398" playOrder="432"><navLabel><text>«Ушел он, скрылся в ночи…»</text></navLabel><content src="Text/content40.html#mh_toc_9398"/></navPoint>
+<navPoint id="mh_toc_9424" playOrder="433"><navLabel><text>«О легендах, о сказках, о мигах:…»</text></navLabel><content src="Text/content40.html#mh_toc_9424"/></navPoint>
+<navPoint id="mh_toc_9445" playOrder="434"><navLabel><text>Religio[9]</text></navLabel><content src="Text/content40.html#mh_toc_9445"/><navPoint id="mh_toc_9449" playOrder="435"><navLabel><text>1</text></navLabel><content src="Text/content40.html#mh_toc_9449"/></navPoint>
+<navPoint id="mh_toc_9468" playOrder="436"><navLabel><text>2</text></navLabel><content src="Text/content40.html#mh_toc_9468"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_9489" playOrder="437"><navLabel><text>«Вхожу я в темные храмы…»</text></navLabel><content src="Text/content40.html#mh_toc_9489"/></navPoint>
+<navPoint id="mh_toc_9515" playOrder="438"><navLabel><text>«Ты свята, но я Тебе не верю…»</text></navLabel><content src="Text/content40.html#mh_toc_9515"/></navPoint>
+<navPoint id="mh_toc_9536" playOrder="439"><navLabel><text>«Будет день, словно миг веселья…»</text></navLabel><content src="Text/content40.html#mh_toc_9536"/></navPoint>
+<navPoint id="mh_toc_9562" playOrder="440"><navLabel><text>«Блаженный, забытый в пустыне…»</text></navLabel><content src="Text/content40.html#mh_toc_9562"/></navPoint>
+<navPoint id="mh_toc_9578" playOrder="441"><navLabel><text>«Его встречали повсюду…»</text></navLabel><content src="Text/content40.html#mh_toc_9578"/></navPoint>
+<navPoint id="mh_toc_9604" playOrder="442"><navLabel><text>«Они живут под серой тучей…»</text></navLabel><content src="Text/content40.html#mh_toc_9604"/></navPoint>
+<navPoint id="mh_toc_9630" playOrder="443"><navLabel><text>«Мысли мои утопают в бессилии…»</text></navLabel><content src="Text/content40.html#mh_toc_9630"/></navPoint>
+<navPoint id="mh_toc_9646" playOrder="444"><navLabel><text>«Разгораются тайные знаки…»</text></navLabel><content src="Text/content41.html#mh_toc_9646"/></navPoint>
+<navPoint id="mh_toc_9672" playOrder="445"><navLabel><text>«Мне страшно с Тобой встречаться…»</text></navLabel><content src="Text/content41.html#mh_toc_9672"/></navPoint>
+<navPoint id="mh_toc_9698" playOrder="446"><navLabel><text>«Дома растут, как желанья…»</text></navLabel><content src="Text/content41.html#mh_toc_9698"/></navPoint>
+<navPoint id="mh_toc_9719" playOrder="447"><navLabel><text>7 – 8 ноября 1902 года</text></navLabel><content src="Text/content41.html#mh_toc_9719"/></navPoint>
+<navPoint id="mh_toc_9733" playOrder="448"><navLabel><text>«Я их хранил в приделе Иоанна…»</text></navLabel><content src="Text/content41.html#mh_toc_9733"/></navPoint>
+<navPoint id="mh_toc_9757" playOrder="449"><navLabel><text>Сфинкс</text></navLabel><content src="Text/content41.html#mh_toc_9757"/></navPoint>
+<navPoint id="mh_toc_9777" playOrder="450"><navLabel><text>«Загляжусь ли я в ночь на метелицу…»</text></navLabel><content src="Text/content41.html#mh_toc_9777"/></navPoint>
+<navPoint id="mh_toc_9803" playOrder="451"><navLabel><text>«Стою у власти, душой одинок…»</text></navLabel><content src="Text/content41.html#mh_toc_9803"/></navPoint>
+<navPoint id="mh_toc_9824" playOrder="452"><navLabel><text>«Ушел я в белую страну…»</text></navLabel><content src="Text/content41.html#mh_toc_9824"/></navPoint>
+<navPoint id="mh_toc_9850" playOrder="453"><navLabel><text>«Еще бледные зори на небе…»</text></navLabel><content src="Text/content41.html#mh_toc_9850"/></navPoint>
+<navPoint id="mh_toc_9879" playOrder="454"><navLabel><text>Жрец</text></navLabel><content src="Text/content42.html#mh_toc_9879"/></navPoint>
+<navPoint id="mh_toc_9906" playOrder="455"><navLabel><text>«Я надел разноцветные перья…»</text></navLabel><content src="Text/content42.html#mh_toc_9906"/></navPoint>
+<navPoint id="mh_toc_9932" playOrder="456"><navLabel><text>Песня Офелии</text></navLabel><content src="Text/content42.html#mh_toc_9932"/></navPoint>
+<navPoint id="mh_toc_9968" playOrder="457"><navLabel><text>«Мы проснулись в полном забвении…»</text></navLabel><content src="Text/content42.html#mh_toc_9968"/></navPoint>
+<navPoint id="mh_toc_9992" playOrder="458"><navLabel><text>«Я, изнуренный и премудрый…»</text></navLabel><content src="Text/content42.html#mh_toc_9992"/></navPoint>
+<navPoint id="mh_toc_10013" playOrder="459"><navLabel><text>«Золотит моя страстная осень…»</text></navLabel><content src="Text/content42.html#mh_toc_10013"/></navPoint>
+<navPoint id="mh_toc_10034" playOrder="460"><navLabel><text>Голос</text></navLabel><content src="Text/content42.html#mh_toc_10034"/></navPoint>
+<navPoint id="mh_toc_10060" playOrder="461"><navLabel><text>«Я буду факел мой блюсти…»</text></navLabel><content src="Text/content42.html#mh_toc_10060"/></navPoint>
+<navPoint id="mh_toc_10086" playOrder="462"><navLabel><text>«Мы всюду. Мы нигде. Идем…»</text></navLabel><content src="Text/content42.html#mh_toc_10086"/></navPoint>
+<navPoint id="mh_toc_10112" playOrder="463"><navLabel><text>«Я смотрел на слепое людское строение…»</text></navLabel><content src="Text/content43.html#mh_toc_10112"/></navPoint>
+<navPoint id="mh_toc_10145" playOrder="464"><navLabel><text>«Любопытство напрасно глазело…»</text></navLabel><content src="Text/content43.html#mh_toc_10145"/></navPoint>
+<navPoint id="mh_toc_10166" playOrder="465"><navLabel><text>«Царица смотрела заставки…»</text></navLabel><content src="Text/content43.html#mh_toc_10166"/></navPoint>
+<navPoint id="mh_toc_10212" playOrder="466"><navLabel><text>«Вот она – в налетевшей волне…»</text></navLabel><content src="Text/content43.html#mh_toc_10212"/></navPoint>
+<navPoint id="mh_toc_10233" playOrder="467"><navLabel><text>«Все кричали у круглых столов…»</text></navLabel><content src="Text/content43.html#mh_toc_10233"/></navPoint>
+<navPoint id="mh_toc_10269" playOrder="468"><navLabel><text>«Покраснели и гаснут ступени…»</text></navLabel><content src="Text/content43.html#mh_toc_10269"/></navPoint>
+<navPoint id="mh_toc_10290" playOrder="469"><navLabel><text>«На обряд я спешил погребальный…»</text></navLabel><content src="Text/content43.html#mh_toc_10290"/></navPoint>
+<navPoint id="mh_toc_10311" playOrder="470"><navLabel><text>«Я искал голубую дорогу…»</text></navLabel><content src="Text/content43.html#mh_toc_10311"/></navPoint>
+<navPoint id="mh_toc_10327" playOrder="471"><navLabel><text>«Мы отошли – и тяжко поднимали…»</text></navLabel><content src="Text/content43.html#mh_toc_10327"/></navPoint>
+<navPoint id="mh_toc_10343" playOrder="472"><navLabel><text>«Она ждала и билась в смертной муке…»</text></navLabel><content src="Text/content44.html#mh_toc_10343"/></navPoint>
+<navPoint id="mh_toc_10359" playOrder="473"><navLabel><text>«Запевающий сон, зацветающий цвет…»</text></navLabel><content src="Text/content44.html#mh_toc_10359"/></navPoint>
+</navPoint><navPoint id="mh_toc_10380" playOrder="474"><navLabel><text>Стихотворения 1903 года</text></navLabel><content src="Text/content44.html#mh_toc_10380"/><navPoint id="mh_toc_10383" playOrder="475"><navLabel><text>«Целый год не дрожало окно…»</text></navLabel><content src="Text/content44.html#mh_toc_10383"/></navPoint>
+<navPoint id="mh_toc_10411" playOrder="476"><navLabel><text>«Здесь ночь мертва. Слова мои дики…»</text></navLabel><content src="Text/content44.html#mh_toc_10411"/></navPoint>
+<navPoint id="mh_toc_10437" playOrder="477"><navLabel><text>«Я к людям не выйду навстречу…»</text></navLabel><content src="Text/content44.html#mh_toc_10437"/></navPoint>
+<navPoint id="mh_toc_10458" playOrder="478"><navLabel><text>Отшедшим</text></navLabel><content src="Text/content44.html#mh_toc_10458"/></navPoint>
+<navPoint id="mh_toc_10482" playOrder="479"><navLabel><text>«В посланьях к земным владыкам…»</text></navLabel><content src="Text/content44.html#mh_toc_10482"/></navPoint>
+<navPoint id="mh_toc_10508" playOrder="480"><navLabel><text>«Днем за нашей стеной молчали, – …»</text></navLabel><content src="Text/content44.html#mh_toc_10508"/></navPoint>
+<navPoint id="mh_toc_10534" playOrder="481"><navLabel><text>«Здесь память волны святой…»</text></navLabel><content src="Text/content44.html#mh_toc_10534"/></navPoint>
+<navPoint id="mh_toc_10555" playOrder="482"><navLabel><text>«Потемнели, поблекли залы…»</text></navLabel><content src="Text/content44.html#mh_toc_10555"/></navPoint>
+<navPoint id="mh_toc_10581" playOrder="483"><navLabel><text>«Разгадал я, какие цветы…»</text></navLabel><content src="Text/content45.html#mh_toc_10581"/></navPoint>
+<navPoint id="mh_toc_10607" playOrder="484"><navLabel><text>«Старуха гадала у входа…»</text></navLabel><content src="Text/content45.html#mh_toc_10607"/></navPoint>
+<navPoint id="mh_toc_10638" playOrder="485"><navLabel><text>«Погружался я в море клевера…»</text></navLabel><content src="Text/content45.html#mh_toc_10638"/></navPoint>
+<navPoint id="mh_toc_10664" playOrder="486"><navLabel><text>«Зимний ветер играет терновником…»</text></navLabel><content src="Text/content45.html#mh_toc_10664"/></navPoint>
+<navPoint id="mh_toc_10690" playOrder="487"><navLabel><text>«Снова иду я над этой пустынной равниной…»</text></navLabel><content src="Text/content45.html#mh_toc_10690"/></navPoint>
+<navPoint id="mh_toc_10711" playOrder="488"><navLabel><text>«Всё ли спокойно в народе?…»</text></navLabel><content src="Text/content45.html#mh_toc_10711"/></navPoint>
+<navPoint id="mh_toc_10742" playOrder="489"><navLabel><text>«Дела свершились…»</text></navLabel><content src="Text/content45.html#mh_toc_10742"/></navPoint>
+<navPoint id="mh_toc_10768" playOrder="490"><navLabel><text>«Мне снились веселые думы…»</text></navLabel><content src="Text/content45.html#mh_toc_10768"/></navPoint>
+<navPoint id="mh_toc_10794" playOrder="491"><navLabel><text>«Никто не умирал. Никто не кончил жить…»</text></navLabel><content src="Text/content45.html#mh_toc_10794"/></navPoint>
+<navPoint id="mh_toc_10820" playOrder="492"><navLabel><text>«Отворяются двери – там мерцанья…»</text></navLabel><content src="Text/content46.html#mh_toc_10820"/></navPoint>
+<navPoint id="mh_toc_10841" playOrder="493"><navLabel><text>Noli tangere circulos meos[10]</text></navLabel><content src="Text/content46.html#mh_toc_10841"/></navPoint>
+<navPoint id="mh_toc_10868" playOrder="494"><navLabel><text>«Всё тихо на светлом лице…»</text></navLabel><content src="Text/content46.html#mh_toc_10868"/></navPoint>
+<navPoint id="mh_toc_10884" playOrder="495"><navLabel><text>«Я вырезал посох из дуба…»</text></navLabel><content src="Text/content46.html#mh_toc_10884"/></navPoint>
+<navPoint id="mh_toc_10910" playOrder="496"><navLabel><text>«У забытых могил пробивалась трава…»</text></navLabel><content src="Text/content46.html#mh_toc_10910"/></navPoint>
+<navPoint id="mh_toc_10934" playOrder="497"><navLabel><text>«Нет, я не отходил. Я только тайны ждал…»</text></navLabel><content src="Text/content46.html#mh_toc_10934"/></navPoint>
+<navPoint id="mh_toc_10952" playOrder="498"><navLabel><text>«Вот они – белые звуки…» (При посылке белой азалии)</text></navLabel><content src="Text/content46.html#mh_toc_10952"/></navPoint>
+<navPoint id="mh_toc_10973" playOrder="499"><navLabel><text>А. М. Добролюбов</text></navLabel><content src="Text/content46.html#mh_toc_10973"/></navPoint>
+<navPoint id="mh_toc_11004" playOrder="500"><navLabel><text>«Кто заметил огненные знаки…»</text></navLabel><content src="Text/content46.html#mh_toc_11004"/></navPoint>
+<navPoint id="mh_toc_11025" playOrder="501"><navLabel><text>«Глухая полночь медленный кладет покров…»</text></navLabel><content src="Text/content46.html#mh_toc_11025"/></navPoint>
+<navPoint id="mh_toc_11051" playOrder="502"><navLabel><text>«У берега зеленого на малой могиле…»</text></navLabel><content src="Text/content47.html#mh_toc_11051"/></navPoint>
+<navPoint id="mh_toc_11067" playOrder="503"><navLabel><text>«Я был весь в пестрых лоскутьях…»</text></navLabel><content src="Text/content47.html#mh_toc_11067"/></navPoint>
+<navPoint id="mh_toc_11088" playOrder="504"><navLabel><text>«По городу бегал черный человек…»</text></navLabel><content src="Text/content47.html#mh_toc_11088"/></navPoint>
+<navPoint id="mh_toc_11109" playOrder="505"><navLabel><text>«Мой остров чудесный…»</text></navLabel><content src="Text/content47.html#mh_toc_11109"/></navPoint>
+<navPoint id="mh_toc_11135" playOrder="506"><navLabel><text>«Просыпаюсь я – и в поле туманно…»</text></navLabel><content src="Text/content47.html#mh_toc_11135"/></navPoint>
+<navPoint id="mh_toc_11156" playOrder="507"><navLabel><text>«Моя сказка никем не разгадана…»</text></navLabel><content src="Text/content47.html#mh_toc_11156"/></navPoint>
+<navPoint id="mh_toc_11177" playOrder="508"><navLabel><text>«На Вас было черное закрытое платье…»</text></navLabel><content src="Text/content47.html#mh_toc_11177"/></navPoint>
+<navPoint id="mh_toc_11199" playOrder="509"><navLabel><text>«Я умер. Я пал от раны…»</text></navLabel><content src="Text/content47.html#mh_toc_11199"/></navPoint>
+<navPoint id="mh_toc_11225" playOrder="510"><navLabel><text>«Если только она подойдет…»</text></navLabel><content src="Text/content47.html#mh_toc_11225"/></navPoint>
+<navPoint id="mh_toc_11248" playOrder="511"><navLabel><text>«Когда я стал дряхлеть и стынуть…»</text></navLabel><content src="Text/content47.html#mh_toc_11248"/></navPoint>
+<navPoint id="mh_toc_11287" playOrder="512"><navLabel><text>«Неправда, неправда, я в бурю влюблен…»</text></navLabel><content src="Text/content48.html#mh_toc_11287"/></navPoint>
+<navPoint id="mh_toc_11310" playOrder="513"><navLabel><text>«Скрипка стонет под горой…»</text></navLabel><content src="Text/content48.html#mh_toc_11310"/></navPoint>
+<navPoint id="mh_toc_11328" playOrder="514"><navLabel><text>«Очарованный вечер мой долог…»</text></navLabel><content src="Text/content48.html#mh_toc_11328"/></navPoint>
+<navPoint id="mh_toc_11358" playOrder="515"><navLabel><text>«Сердито волновались нивы…»</text></navLabel><content src="Text/content48.html#mh_toc_11358"/></navPoint>
+<navPoint id="mh_toc_11383" playOrder="516"><navLabel><text>«Ей было пятнадцать лет. Но по стуку…»</text></navLabel><content src="Text/content48.html#mh_toc_11383"/></navPoint>
+<navPoint id="mh_toc_11422" playOrder="517"><navLabel><text>«Многое замолкло. Многие ушли…»</text></navLabel><content src="Text/content48.html#mh_toc_11422"/></navPoint>
+<navPoint id="mh_toc_11442" playOrder="518"><navLabel><text>«День был нежно-серый, серый, как тоска…»</text></navLabel><content src="Text/content48.html#mh_toc_11442"/></navPoint>
+<navPoint id="mh_toc_11476" playOrder="519"><navLabel><text>Заклинание</text></navLabel><content src="Text/content48.html#mh_toc_11476"/></navPoint>
+<navPoint id="mh_toc_11516" playOrder="520"><navLabel><text>«Пристань безмолвна. Земля близка…»</text></navLabel><content src="Text/content49.html#mh_toc_11516"/></navPoint>
+<navPoint id="mh_toc_11543" playOrder="521"><navLabel><text>«Я – меч, заостренный с обеих сторон…»</text></navLabel><content src="Text/content49.html#mh_toc_11543"/></navPoint>
+<navPoint id="mh_toc_11564" playOrder="522"><navLabel><text>Двойник</text></navLabel><content src="Text/content49.html#mh_toc_11564"/></navPoint>
+<navPoint id="mh_toc_11620" playOrder="523"><navLabel><text>«Горит мой день, будя ответы…»</text></navLabel><content src="Text/content49.html#mh_toc_11620"/></navPoint>
+<navPoint id="mh_toc_11636" playOrder="524"><navLabel><text>«Над этой осенью – во всем…»</text></navLabel><content src="Text/content49.html#mh_toc_11636"/></navPoint>
+<navPoint id="mh_toc_11657" playOrder="525"><navLabel><text>Вербная суббота</text></navLabel><content src="Text/content49.html#mh_toc_11657"/></navPoint>
+<navPoint id="mh_toc_11687" playOrder="526"><navLabel><text>«Я был невенчан. Премудрость храня…»</text></navLabel><content src="Text/content49.html#mh_toc_11687"/></navPoint>
+<navPoint id="mh_toc_11711" playOrder="527"><navLabel><text>«Я мог бы ярче просиять…»</text></navLabel><content src="Text/content49.html#mh_toc_11711"/></navPoint>
+<navPoint id="mh_toc_11732" playOrder="528"><navLabel><text>Ответ</text></navLabel><content src="Text/content50.html#mh_toc_11732"/></navPoint>
+<navPoint id="mh_toc_11757" playOrder="529"><navLabel><text>«Мой месяц в царственном зените…»</text></navLabel><content src="Text/content50.html#mh_toc_11757"/></navPoint>
+<navPoint id="mh_toc_11783" playOrder="530"><navLabel><text>«Возвратилась в полночь. До утра…»</text></navLabel><content src="Text/content50.html#mh_toc_11783"/></navPoint>
+<navPoint id="mh_toc_11809" playOrder="531"><navLabel><text>«Я бежал и спотыкался…»</text></navLabel><content src="Text/content50.html#mh_toc_11809"/></navPoint>
+<navPoint id="mh_toc_11846" playOrder="532"><navLabel><text>«Сижу за ширмой. У меня…»</text></navLabel><content src="Text/content50.html#mh_toc_11846"/></navPoint>
+<navPoint id="mh_toc_11875" playOrder="533"><navLabel><text>«…И снова подхожу к окну…»</text></navLabel><content src="Text/content50.html#mh_toc_11875"/></navPoint>
+<navPoint id="mh_toc_11896" playOrder="534"><navLabel><text>«Когда я уйду на покой от времен…»</text></navLabel><content src="Text/content50.html#mh_toc_11896"/></navPoint>
+<navPoint id="mh_toc_11922" playOrder="535"><navLabel><text>«Так. Я знал. И ты задул…»</text></navLabel><content src="Text/content50.html#mh_toc_11922"/></navPoint>
+<navPoint id="mh_toc_11957" playOrder="536"><navLabel><text>«Ты у камина, склонив седины…»</text></navLabel><content src="Text/content51.html#mh_toc_11957"/></navPoint>
+<navPoint id="mh_toc_11983" playOrder="537"><navLabel><text>«Крыльцо Ее словно паперть…»</text></navLabel><content src="Text/content51.html#mh_toc_11983"/></navPoint>
+<navPoint id="mh_toc_12009" playOrder="538"><navLabel><text>Рассвет</text></navLabel><content src="Text/content51.html#mh_toc_12009"/></navPoint>
+<navPoint id="mh_toc_12035" playOrder="539"><navLabel><text>«Облака небывалой услады…»</text></navLabel><content src="Text/content51.html#mh_toc_12035"/></navPoint>
+<navPoint id="mh_toc_12058" playOrder="540"><navLabel><text>«Спустись в подземные ущелья…»</text></navLabel><content src="Text/content51.html#mh_toc_12058"/></navPoint>
+<navPoint id="mh_toc_12084" playOrder="541"><navLabel><text>«Темная, бледно-зеленая…»</text></navLabel><content src="Text/content51.html#mh_toc_12084"/></navPoint>
+<navPoint id="mh_toc_12112" playOrder="542"><navLabel><text>Фабрика</text></navLabel><content src="Text/content51.html#mh_toc_12112"/></navPoint>
+<navPoint id="mh_toc_12138" playOrder="543"><navLabel><text>Заключение спора</text></navLabel><content src="Text/content51.html#mh_toc_12138"/></navPoint>
+<navPoint id="mh_toc_12163" playOrder="544"><navLabel><text>«Что с тобой – не знаю и не скрою…»</text></navLabel><content src="Text/content51.html#mh_toc_12163"/></navPoint>
+<navPoint id="mh_toc_12184" playOrder="545"><navLabel><text>«Мы шли на Лидо в час рассвета…»</text></navLabel><content src="Text/content52.html#mh_toc_12184"/></navPoint>
+<navPoint id="mh_toc_12205" playOrder="546"><navLabel><text>«Мне гадалка с морщинистым ликом…»</text></navLabel><content src="Text/content52.html#mh_toc_12205"/></navPoint>
+<navPoint id="mh_toc_12231" playOrder="547"><navLabel><text>«Плачет ребенок. Под лунным серпом…»</text></navLabel><content src="Text/content52.html#mh_toc_12231"/></navPoint>
+<navPoint id="mh_toc_12264" playOrder="548"><navLabel><text>«Среди гостей ходил я в черном фраке…»</text></navLabel><content src="Text/content52.html#mh_toc_12264"/></navPoint>
+<navPoint id="mh_toc_12285" playOrder="549"><navLabel><text>Из газет</text></navLabel><content src="Text/content52.html#mh_toc_12285"/></navPoint>
+<navPoint id="mh_toc_12330" playOrder="550"><navLabel><text>Статуя</text></navLabel><content src="Text/content52.html#mh_toc_12330"/></navPoint>
+<navPoint id="mh_toc_12356" playOrder="551"><navLabel><text>«По берегу плелся больной человек…»</text></navLabel><content src="Text/content52.html#mh_toc_12356"/></navPoint>
+<navPoint id="mh_toc_12386" playOrder="552"><navLabel><text>«Протянуты поздние нити минут…»</text></navLabel><content src="Text/content52.html#mh_toc_12386"/></navPoint>
+<navPoint id="mh_toc_12413" playOrder="553"><navLabel><text>«Я кую мой меч у порога…»</text></navLabel><content src="Text/content53.html#mh_toc_12413"/></navPoint>
+<navPoint id="mh_toc_12434" playOrder="554"><navLabel><text>«Ветер хрипит на мосту меж столбами…»</text></navLabel><content src="Text/content53.html#mh_toc_12434"/></navPoint>
+<navPoint id="mh_toc_12452" playOrder="555"><navLabel><text>«Отдых напрасен. Дорога крута…»</text></navLabel><content src="Text/content53.html#mh_toc_12452"/></navPoint>
+</navPoint><navPoint id="mh_toc_12482" playOrder="556"><navLabel><text>Стихотворения 1904 года</text></navLabel><content src="Text/content53.html#mh_toc_12482"/><navPoint id="mh_toc_12485" playOrder="557"><navLabel><text>«Жду я смерти близ денницы…»</text></navLabel><content src="Text/content53.html#mh_toc_12485"/></navPoint>
+<navPoint id="mh_toc_12514" playOrder="558"><navLabel><text>Последний день</text></navLabel><content src="Text/content53.html#mh_toc_12514"/></navPoint>
+<navPoint id="mh_toc_12561" playOrder="559"><navLabel><text>Петр</text></navLabel><content src="Text/content53.html#mh_toc_12561"/></navPoint>
+<navPoint id="mh_toc_12604" playOrder="560"><navLabel><text>Поединок</text></navLabel><content src="Text/content53.html#mh_toc_12604"/></navPoint>
+<navPoint id="mh_toc_12655" playOrder="561"><navLabel><text>«Светлый сон, ты не обманешь…»</text></navLabel><content src="Text/content54.html#mh_toc_12655"/></navPoint>
+<navPoint id="mh_toc_12701" playOrder="562"><navLabel><text>Обман</text></navLabel><content src="Text/content54.html#mh_toc_12701"/></navPoint>
+<navPoint id="mh_toc_12752" playOrder="563"><navLabel><text>«Я восходил на все вершины…»</text></navLabel><content src="Text/content54.html#mh_toc_12752"/></navPoint>
+<navPoint id="mh_toc_12778" playOrder="564"><navLabel><text>«Мой любимый, мой князь, мой жених…»</text></navLabel><content src="Text/content54.html#mh_toc_12778"/></navPoint>
+<navPoint id="mh_toc_12809" playOrder="565"><navLabel><text>Молитвы</text></navLabel><content src="Text/content54.html#mh_toc_12809"/><navPoint id="mh_toc_12815" playOrder="566"><navLabel><text>1</text></navLabel><content src="Text/content54.html#mh_toc_12815"/></navPoint>
+<navPoint id="mh_toc_12844" playOrder="567"><navLabel><text>2. Утренняя</text></navLabel><content src="Text/content54.html#mh_toc_12844"/></navPoint>
+<navPoint id="mh_toc_12863" playOrder="568"><navLabel><text>3. Вечерняя</text></navLabel><content src="Text/content54.html#mh_toc_12863"/></navPoint>
+<navPoint id="mh_toc_12882" playOrder="569"><navLabel><text>4. Ночная</text></navLabel><content src="Text/content55.html#mh_toc_12882"/></navPoint>
+<navPoint id="mh_toc_12910" playOrder="570"><navLabel><text>5. Ночная</text></navLabel><content src="Text/content55.html#mh_toc_12910"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_12936" playOrder="571"><navLabel><text>« На перекрестке…»</text></navLabel><content src="Text/content55.html#mh_toc_12936"/></navPoint>
+<navPoint id="mh_toc_12979" playOrder="572"><navLabel><text>«Ты оденешь меня в серебро…»</text></navLabel><content src="Text/content55.html#mh_toc_12979"/></navPoint>
+<navPoint id="mh_toc_13005" playOrder="573"><navLabel><text>«Фиолетовый запад гнетет…»</text></navLabel><content src="Text/content55.html#mh_toc_13005"/></navPoint>
+<navPoint id="mh_toc_13031" playOrder="574"><navLabel><text>«Дали слепы, дни безгневны…»</text></navLabel><content src="Text/content55.html#mh_toc_13031"/></navPoint>
+<navPoint id="mh_toc_13132" playOrder="575"><navLabel><text>Взморье</text></navLabel><content src="Text/content56.html#mh_toc_13132"/></navPoint>
+<navPoint id="mh_toc_13163" playOrder="576"><navLabel><text>«В час, когда пьянеют нарциссы…»</text></navLabel><content src="Text/content56.html#mh_toc_13163"/></navPoint>
+<navPoint id="mh_toc_13194" playOrder="577"><navLabel><text>«Я живу в глубоком покое…»</text></navLabel><content src="Text/content56.html#mh_toc_13194"/></navPoint>
+<navPoint id="mh_toc_13235" playOrder="578"><navLabel><text>«Вот он – ряд гробовых ступеней…»</text></navLabel><content src="Text/content56.html#mh_toc_13235"/></navPoint>
+<navPoint id="mh_toc_13261" playOrder="579"><navLabel><text>«Вечность бросила в город…»</text></navLabel><content src="Text/content56.html#mh_toc_13261"/></navPoint>
+<navPoint id="mh_toc_13287" playOrder="580"><navLabel><text>«Город в красные пределы…»</text></navLabel><content src="Text/content56.html#mh_toc_13287"/></navPoint>
+<navPoint id="mh_toc_13318" playOrder="581"><navLabel><text>«Я жалобной рукой сжимаю свой костыль…»</text></navLabel><content src="Text/content56.html#mh_toc_13318"/></navPoint>
+<navPoint id="mh_toc_13343" playOrder="582"><navLabel><text>«Поет, краснея, медь. Над горном…»</text></navLabel><content src="Text/content56.html#mh_toc_13343"/></navPoint>
+<navPoint id="mh_toc_13374" playOrder="583"><navLabel><text>Гимн</text></navLabel><content src="Text/content57.html#mh_toc_13374"/></navPoint>
+<navPoint id="mh_toc_13422" playOrder="584"><navLabel><text>«Поднимались из тьмы погребов…»</text></navLabel><content src="Text/content57.html#mh_toc_13422"/></navPoint>
+<navPoint id="mh_toc_13463" playOrder="585"><navLabel><text>«В высь изверженные дымы…»</text></navLabel><content src="Text/content57.html#mh_toc_13463"/></navPoint>
+<navPoint id="mh_toc_13512" playOrder="586"><navLabel><text>Колыбельная песня</text></navLabel><content src="Text/content57.html#mh_toc_13512"/></navPoint>
+<navPoint id="mh_toc_13548" playOrder="587"><navLabel><text>«Зажигались окна узких комнат…»</text></navLabel><content src="Text/content57.html#mh_toc_13548"/></navPoint>
+<navPoint id="mh_toc_13572" playOrder="588"><navLabel><text>«Всё бежит, мы пребываем…»</text></navLabel><content src="Text/content57.html#mh_toc_13572"/></navPoint>
+<navPoint id="mh_toc_13599" playOrder="589"><navLabel><text>«Блеснуло в глазах. Метнулось в мечте…»</text></navLabel><content src="Text/content58.html#mh_toc_13599"/></navPoint>
+<navPoint id="mh_toc_13620" playOrder="590"><navLabel><text>«Нежный! У ласковой речки…»</text></navLabel><content src="Text/content58.html#mh_toc_13620"/></navPoint>
+<navPoint id="mh_toc_13658" playOrder="591"><navLabel><text>«Гроб невесты легкой тканью…»</text></navLabel><content src="Text/content58.html#mh_toc_13658"/></navPoint>
+<navPoint id="mh_toc_13679" playOrder="592"><navLabel><text>«Тяжко нам было под вьюгами…»</text></navLabel><content src="Text/content58.html#mh_toc_13679"/></navPoint>
+<navPoint id="mh_toc_13700" playOrder="593"><navLabel><text>Ночь</text></navLabel><content src="Text/content58.html#mh_toc_13700"/></navPoint>
+<navPoint id="mh_toc_13736" playOrder="594"><navLabel><text>«Вот – в изнурительной работе…»</text></navLabel><content src="Text/content58.html#mh_toc_13736"/></navPoint>
+<navPoint id="mh_toc_13762" playOrder="595"><navLabel><text>Моей матери</text></navLabel><content src="Text/content58.html#mh_toc_13762"/></navPoint>
+<navPoint id="mh_toc_13798" playOrder="596"><navLabel><text>«Все отошли. Шумите, сосны…»</text></navLabel><content src="Text/content58.html#mh_toc_13798"/></navPoint>
+<navPoint id="mh_toc_13826" playOrder="597"><navLabel><text>«День поблек, изящный и невинный…»</text></navLabel><content src="Text/content58.html#mh_toc_13826"/></navPoint>
+<navPoint id="mh_toc_13852" playOrder="598"><navLabel><text>«В кабаках, в переулках, в извивах…»</text></navLabel><content src="Text/content59.html#mh_toc_13852"/></navPoint>
+<navPoint id="mh_toc_13898" playOrder="599"><navLabel><text>«Барка жизни встала…»</text></navLabel><content src="Text/content59.html#mh_toc_13898"/></navPoint>
+</navPoint><navPoint id="mh_toc_13925" playOrder="600"><navLabel><text>Стихотворения 1905 года</text></navLabel><content src="Text/content59.html#mh_toc_13925"/><navPoint id="mh_toc_13928" playOrder="601"><navLabel><text>«Шли на приступ. Прямо в грудь…»</text></navLabel><content src="Text/content59.html#mh_toc_13928"/></navPoint>
+<navPoint id="mh_toc_13959" playOrder="602"><navLabel><text>«Улица, улица…»</text></navLabel><content src="Text/content59.html#mh_toc_13959"/></navPoint>
+<navPoint id="mh_toc_13984" playOrder="603"><navLabel><text>Болотные чертенятки</text></navLabel><content src="Text/content59.html#mh_toc_13984"/></navPoint>
+<navPoint id="mh_toc_14022" playOrder="604"><navLabel><text>«Я живу в отдаленном скиту…»</text></navLabel><content src="Text/content59.html#mh_toc_14022"/></navPoint>
+<navPoint id="mh_toc_14058" playOrder="605"><navLabel><text>Повесть</text></navLabel><content src="Text/content59.html#mh_toc_14058"/></navPoint>
+<navPoint id="mh_toc_14116" playOrder="606"><navLabel><text>Твари весенние (Из альбома «Kindisch…»[11] Т. Н. Гиппиус)</text></navLabel><content src="Text/content60.html#mh_toc_14116"/></navPoint>
+<navPoint id="mh_toc_14178" playOrder="607"><navLabel><text>«Иду – и всё мимолетно…»</text></navLabel><content src="Text/content60.html#mh_toc_14178"/></navPoint>
+<navPoint id="mh_toc_14204" playOrder="608"><navLabel><text>Песенка</text></navLabel><content src="Text/content60.html#mh_toc_14204"/></navPoint>
+<navPoint id="mh_toc_14235" playOrder="609"><navLabel><text>Легенда</text></navLabel><content src="Text/content60.html#mh_toc_14235"/></navPoint>
+<navPoint id="mh_toc_14307" playOrder="610"><navLabel><text>«Ты в поля отошла без возврата…»</text></navLabel><content src="Text/content60.html#mh_toc_14307"/></navPoint>
+<navPoint id="mh_toc_14333" playOrder="611"><navLabel><text>«Я вам поведал неземное…»</text></navLabel><content src="Text/content61.html#mh_toc_14333"/></navPoint>
+<navPoint id="mh_toc_14359" playOrder="612"><navLabel><text>Невидимка</text></navLabel><content src="Text/content61.html#mh_toc_14359"/></navPoint>
+<navPoint id="mh_toc_14401" playOrder="613"><navLabel><text>Болотный попик</text></navLabel><content src="Text/content61.html#mh_toc_14401"/></navPoint>
+<navPoint id="mh_toc_14446" playOrder="614"><navLabel><text>«На весеннем пути в теремок…»</text></navLabel><content src="Text/content61.html#mh_toc_14446"/></navPoint>
+<navPoint id="mh_toc_14480" playOrder="615"><navLabel><text>«Вот на тучах пожелтелых…»</text></navLabel><content src="Text/content61.html#mh_toc_14480"/></navPoint>
+<navPoint id="mh_toc_14506" playOrder="616"><navLabel><text>Война</text></navLabel><content src="Text/content61.html#mh_toc_14506"/></navPoint>
+<navPoint id="mh_toc_14532" playOrder="617"><navLabel><text>Влюбленность</text></navLabel><content src="Text/content61.html#mh_toc_14532"/></navPoint>
+<navPoint id="mh_toc_14577" playOrder="618"><navLabel><text>«Она веселой невестой была…»</text></navLabel><content src="Text/content62.html#mh_toc_14577"/></navPoint>
+<navPoint id="mh_toc_14634" playOrder="619"><navLabel><text>«Полюби эту вечность болот:…»</text></navLabel><content src="Text/content62.html#mh_toc_14634"/></navPoint>
+<navPoint id="mh_toc_14655" playOrder="620"><navLabel><text>«Белый конь чуть ступает усталой ногой…»</text></navLabel><content src="Text/content62.html#mh_toc_14655"/></navPoint>
+<navPoint id="mh_toc_14687" playOrder="621"><navLabel><text>«Болото – глубокая впадина…»</text></navLabel><content src="Text/content62.html#mh_toc_14687"/></navPoint>
+<navPoint id="mh_toc_14713" playOrder="622"><navLabel><text>«Не строй жилищ у речных излучин…»</text></navLabel><content src="Text/content62.html#mh_toc_14713"/></navPoint>
+<navPoint id="mh_toc_14741" playOrder="623"><navLabel><text>«Потеха! Рокочет труба…»</text></navLabel><content src="Text/content62.html#mh_toc_14741"/></navPoint>
+<navPoint id="mh_toc_14777" playOrder="624"><navLabel><text>Старушка и чертенята</text></navLabel><content src="Text/content62.html#mh_toc_14777"/></navPoint>
+<navPoint id="mh_toc_14820" playOrder="625"><navLabel><text>У моря</text></navLabel><content src="Text/content63.html#mh_toc_14820"/></navPoint>
+<navPoint id="mh_toc_14851" playOrder="626"><navLabel><text>Балаганчик</text></navLabel><content src="Text/content63.html#mh_toc_14851"/></navPoint>
+<navPoint id="mh_toc_14896" playOrder="627"><navLabel><text>Поэт</text></navLabel><content src="Text/content63.html#mh_toc_14896"/></navPoint>
+<navPoint id="mh_toc_14946" playOrder="628"><navLabel><text>Моей матери</text></navLabel><content src="Text/content63.html#mh_toc_14946"/></navPoint>
+<navPoint id="mh_toc_14972" playOrder="629"><navLabel><text>«Старость мертвая бродит вокруг…»</text></navLabel><content src="Text/content63.html#mh_toc_14972"/></navPoint>
+<navPoint id="mh_toc_15003" playOrder="630"><navLabel><text>«В туманах, над сверканьем рос…»</text></navLabel><content src="Text/content63.html#mh_toc_15003"/></navPoint>
+<navPoint id="mh_toc_15039" playOrder="631"><navLabel><text>Осенняя воля</text></navLabel><content src="Text/content63.html#mh_toc_15039"/></navPoint>
+<navPoint id="mh_toc_15082" playOrder="632"><navLabel><text>«Не мани меня ты, воля…»</text></navLabel><content src="Text/content64.html#mh_toc_15082"/></navPoint>
+<navPoint id="mh_toc_15109" playOrder="633"><navLabel><text>«Утихает светлый ветер…»</text></navLabel><content src="Text/content64.html#mh_toc_15109"/></navPoint>
+<navPoint id="mh_toc_15140" playOrder="634"><navLabel><text>«Оставь меня в моей дали…»</text></navLabel><content src="Text/content64.html#mh_toc_15140"/></navPoint>
+<navPoint id="mh_toc_15166" playOrder="635"><navLabel><text>«Осень поздняя. Небо открытое…»</text></navLabel><content src="Text/content64.html#mh_toc_15166"/></navPoint>
+<navPoint id="mh_toc_15192" playOrder="636"><navLabel><text>«Девушка пела в церковном хоре…»</text></navLabel><content src="Text/content64.html#mh_toc_15192"/></navPoint>
+<navPoint id="mh_toc_15218" playOrder="637"><navLabel><text>«В лапах косматых и страшных…»</text></navLabel><content src="Text/content64.html#mh_toc_15218"/></navPoint>
+<navPoint id="mh_toc_15249" playOrder="638"><navLabel><text>«Там, в ночной завывающей стуже…»</text></navLabel><content src="Text/content64.html#mh_toc_15249"/></navPoint>
+<navPoint id="mh_toc_15275" playOrder="639"><navLabel><text>Пляски осенние</text></navLabel><content src="Text/content64.html#mh_toc_15275"/></navPoint>
+<navPoint id="mh_toc_15339" playOrder="640"><navLabel><text>«В голубой далекой спаленке…»</text></navLabel><content src="Text/content65.html#mh_toc_15339"/></navPoint>
+<navPoint id="mh_toc_15375" playOrder="641"><navLabel><text>Эхо</text></navLabel><content src="Text/content65.html#mh_toc_15375"/></navPoint>
+<navPoint id="mh_toc_15412" playOrder="642"><navLabel><text>«Вот Он – Христос – в цепях и розах…»</text></navLabel><content src="Text/content65.html#mh_toc_15412"/></navPoint>
+<navPoint id="mh_toc_15445" playOrder="643"><navLabel><text>«Так. Неизменно всё, как было…»</text></navLabel><content src="Text/content65.html#mh_toc_15445"/></navPoint>
+<navPoint id="mh_toc_15476" playOrder="644"><navLabel><text>Митинг</text></navLabel><content src="Text/content65.html#mh_toc_15476"/></navPoint>
+<navPoint id="mh_toc_15562" playOrder="645"><navLabel><text>«Вися над городом всемирным…»</text></navLabel><content src="Text/content65.html#mh_toc_15562"/></navPoint>
+<navPoint id="mh_toc_15588" playOrder="646"><navLabel><text>«Еще прекрасно серое небо…»</text></navLabel><content src="Text/content66.html#mh_toc_15588"/></navPoint>
+<navPoint id="mh_toc_15615" playOrder="647"><navLabel><text>«Ты проходишь без улыбки…»</text></navLabel><content src="Text/content66.html#mh_toc_15615"/></navPoint>
+<navPoint id="mh_toc_15656" playOrder="648"><navLabel><text>Перстень-страданье</text></navLabel><content src="Text/content66.html#mh_toc_15656"/></navPoint>
+<navPoint id="mh_toc_15692" playOrder="649"><navLabel><text>«Прискакала дикой степью…»</text></navLabel><content src="Text/content66.html#mh_toc_15692"/></navPoint>
+<navPoint id="mh_toc_15723" playOrder="650"><navLabel><text>Бред</text></navLabel><content src="Text/content66.html#mh_toc_15723"/></navPoint>
+<navPoint id="mh_toc_15784" playOrder="651"><navLabel><text>Сытые</text></navLabel><content src="Text/content66.html#mh_toc_15784"/></navPoint>
+<navPoint id="mh_toc_15820" playOrder="652"><navLabel><text>«Свободны дали. Небо открыто…»</text></navLabel><content src="Text/content67.html#mh_toc_15820"/></navPoint>
+</navPoint><navPoint id="mh_toc_15851" playOrder="653"><navLabel><text>Стихотворения 1906 года</text></navLabel><content src="Text/content67.html#mh_toc_15851"/><navPoint id="mh_toc_15854" playOrder="654"><navLabel><text>Сказка о петухе и старушке</text></navLabel><content src="Text/content67.html#mh_toc_15854"/></navPoint>
+<navPoint id="mh_toc_15905" playOrder="655"><navLabel><text>«Милый брат! Завечерело…»</text></navLabel><content src="Text/content67.html#mh_toc_15905"/></navPoint>
+<navPoint id="mh_toc_15958" playOrder="656"><navLabel><text>«Мы подошли – и воды синие…»</text></navLabel><content src="Text/content67.html#mh_toc_15958"/></navPoint>
+<navPoint id="mh_toc_15979" playOrder="657"><navLabel><text>«Ты придешь и обнимешь…»</text></navLabel><content src="Text/content67.html#mh_toc_15979"/></navPoint>
+<navPoint id="mh_toc_16005" playOrder="658"><navLabel><text>«Лазурью бледной месяц плыл…»</text></navLabel><content src="Text/content67.html#mh_toc_16005"/></navPoint>
+<navPoint id="mh_toc_16056" playOrder="659"><navLabel><text>Вербочки</text></navLabel><content src="Text/content68.html#mh_toc_16056"/></navPoint>
+<navPoint id="mh_toc_16077" playOrder="660"><navLabel><text>Учитель</text></navLabel><content src="Text/content68.html#mh_toc_16077"/></navPoint>
+<navPoint id="mh_toc_16108" playOrder="661"><navLabel><text>Снег да снег</text></navLabel><content src="Text/content68.html#mh_toc_16108"/></navPoint>
+<navPoint id="mh_toc_16149" playOrder="662"><navLabel><text>Ветхая избушка</text></navLabel><content src="Text/content68.html#mh_toc_16149"/></navPoint>
+<navPoint id="mh_toc_16180" playOrder="663"><navLabel><text>Зайчик</text></navLabel><content src="Text/content68.html#mh_toc_16180"/></navPoint>
+<navPoint id="mh_toc_16216" playOrder="664"><navLabel><text>Иванова ночь</text></navLabel><content src="Text/content68.html#mh_toc_16216"/></navPoint>
+<navPoint id="mh_toc_16257" playOrder="665"><navLabel><text>Сольвейг</text></navLabel><content src="Text/content68.html#mh_toc_16257"/></navPoint>
+<navPoint id="mh_toc_16308" playOrder="666"><navLabel><text>«Ты был осыпан звездным цветом…»</text></navLabel><content src="Text/content69.html#mh_toc_16308"/></navPoint>
+<navPoint id="mh_toc_16346" playOrder="667"><navLabel><text>«Твое лицо бледней, чем было…»</text></navLabel><content src="Text/content69.html#mh_toc_16346"/></navPoint>
+<navPoint id="mh_toc_16392" playOrder="668"><navLabel><text>Незнакомка</text></navLabel><content src="Text/content69.html#mh_toc_16392"/></navPoint>
+<navPoint id="mh_toc_16466" playOrder="669"><navLabel><text>«Там дамы щеголяют модами…»</text></navLabel><content src="Text/content69.html#mh_toc_16466"/></navPoint>
+<navPoint id="mh_toc_16507" playOrder="670"><navLabel><text>«Прошли года, но ты – всё та же…»</text></navLabel><content src="Text/content69.html#mh_toc_16507"/></navPoint>
+<navPoint id="mh_toc_16537" playOrder="671"><navLabel><text>Ангел-хранитель</text></navLabel><content src="Text/content70.html#mh_toc_16537"/></navPoint>
+<navPoint id="mh_toc_16599" playOrder="672"><navLabel><text>Деве-революции</text></navLabel><content src="Text/content70.html#mh_toc_16599"/></navPoint>
+<navPoint id="mh_toc_16612" playOrder="673"><navLabel><text>Русь</text></navLabel><content src="Text/content70.html#mh_toc_16612"/></navPoint>
+<navPoint id="mh_toc_16673" playOrder="674"><navLabel><text>«Есть лучше и хуже меня…»</text></navLabel><content src="Text/content70.html#mh_toc_16673"/></navPoint>
+<navPoint id="mh_toc_16699" playOrder="675"><navLabel><text>«Передвечернею порою…»</text></navLabel><content src="Text/content70.html#mh_toc_16699"/></navPoint>
+<navPoint id="mh_toc_16740" playOrder="676"><navLabel><text>Холодный день</text></navLabel><content src="Text/content70.html#mh_toc_16740"/></navPoint>
+<navPoint id="mh_toc_16786" playOrder="677"><navLabel><text>В октябре</text></navLabel><content src="Text/content71.html#mh_toc_16786"/></navPoint>
+<navPoint id="mh_toc_16842" playOrder="678"><navLabel><text>«Шлейф, забрызганный звездами…»</text></navLabel><content src="Text/content71.html#mh_toc_16842"/></navPoint>
+<navPoint id="mh_toc_16873" playOrder="679"><navLabel><text>Сын и мать</text></navLabel><content src="Text/content71.html#mh_toc_16873"/></navPoint>
+<navPoint id="mh_toc_16927" playOrder="680"><navLabel><text>«Нет имени тебе, мой дальний…»</text></navLabel><content src="Text/content71.html#mh_toc_16927"/></navPoint>
+<navPoint id="mh_toc_16975" playOrder="681"><navLabel><text>«К вечеру вышло тихое солнце…»</text></navLabel><content src="Text/content71.html#mh_toc_16975"/></navPoint>
+<navPoint id="mh_toc_17001" playOrder="682"><navLabel><text>«Ночь. Город угомонился…»</text></navLabel><content src="Text/content71.html#mh_toc_17001"/></navPoint>
+<navPoint id="mh_toc_17028" playOrder="683"><navLabel><text>«Я в четырех стенах – убитый…»</text></navLabel><content src="Text/content72.html#mh_toc_17028"/></navPoint>
+<navPoint id="mh_toc_17059" playOrder="684"><navLabel><text>Угар</text></navLabel><content src="Text/content72.html#mh_toc_17059"/></navPoint>
+<navPoint id="mh_toc_17101" playOrder="685"><navLabel><text>Тишина цветет</text></navLabel><content src="Text/content72.html#mh_toc_17101"/></navPoint>
+<navPoint id="mh_toc_17137" playOrder="686"><navLabel><text>«Так окрыленно, так напевно…»</text></navLabel><content src="Text/content72.html#mh_toc_17137"/></navPoint>
+<navPoint id="mh_toc_17173" playOrder="687"><navLabel><text>«Ты можешь по траве зеленой…»</text></navLabel><content src="Text/content72.html#mh_toc_17173"/></navPoint>
+<navPoint id="mh_toc_17204" playOrder="688"><navLabel><text>Окна во двор</text></navLabel><content src="Text/content72.html#mh_toc_17204"/></navPoint>
+<navPoint id="mh_toc_17235" playOrder="689"><navLabel><text>«Ищу огней – огней попутных…»</text></navLabel><content src="Text/content72.html#mh_toc_17235"/></navPoint>
+<navPoint id="mh_toc_17271" playOrder="690"><navLabel><text>Рождество</text></navLabel><content src="Text/content73.html#mh_toc_17271"/></navPoint>
+<navPoint id="mh_toc_17332" playOrder="691"><navLabel><text>Проклятый колокол</text></navLabel><content src="Text/content73.html#mh_toc_17332"/></navPoint>
+<navPoint id="mh_toc_17368" playOrder="692"><navLabel><text>«О жизни, догоревшей в хоре…»</text></navLabel><content src="Text/content73.html#mh_toc_17368"/></navPoint>
+<navPoint id="mh_toc_17414" playOrder="693"><navLabel><text>«В синем небе, в темной глуби…»</text></navLabel><content src="Text/content73.html#mh_toc_17414"/></navPoint>
+<navPoint id="mh_toc_17460" playOrder="694"><navLabel><text>Балаган</text></navLabel><content src="Text/content73.html#mh_toc_17460"/></navPoint>
+<navPoint id="mh_toc_17489" playOrder="695"><navLabel><text>«Твоя гроза меня умчала…»</text></navLabel><content src="Text/content73.html#mh_toc_17489"/></navPoint>
+<navPoint id="mh_toc_17510" playOrder="696"><navLabel><text>«В час глухой разлуки с морем…»</text></navLabel><content src="Text/content74.html#mh_toc_17510"/></navPoint>
+<navPoint id="mh_toc_17538" playOrder="697"><navLabel><text>«Хожу, брожу понурый…»</text></navLabel><content src="Text/content74.html#mh_toc_17538"/></navPoint>
+<navPoint id="mh_toc_17604" playOrder="698"><navLabel><text>Пожар</text></navLabel><content src="Text/content74.html#mh_toc_17604"/></navPoint>
+<navPoint id="mh_toc_17645" playOrder="699"><navLabel><text>«Сольвейг! О, Сольвейг! О, Солнечный Путь!…»</text></navLabel><content src="Text/content74.html#mh_toc_17645"/></navPoint>
+<navPoint id="mh_toc_17675" playOrder="700"><navLabel><text>«На серые камни ложилась дремота…»</text></navLabel><content src="Text/content74.html#mh_toc_17675"/></navPoint>
+<navPoint id="mh_toc_17697" playOrder="701"><navLabel><text>«Ты смотришь в очи ясным зорям…»</text></navLabel><content src="Text/content74.html#mh_toc_17697"/></navPoint>
+<navPoint id="mh_toc_17728" playOrder="702"><navLabel><text>На чердаке</text></navLabel><content src="Text/content74.html#mh_toc_17728"/></navPoint>
+<navPoint id="mh_toc_17784" playOrder="703"><navLabel><text>«В серебре росы трава…»</text></navLabel><content src="Text/content75.html#mh_toc_17784"/></navPoint>
+<navPoint id="mh_toc_17806" playOrder="704"><navLabel><text>«Вот явилась. Заслонила…»</text></navLabel><content src="Text/content75.html#mh_toc_17806"/></navPoint>
+<navPoint id="mh_toc_17847" playOrder="705"><navLabel><text>«Я был смущенный и веселый…»</text></navLabel><content src="Text/content75.html#mh_toc_17847"/></navPoint>
+</navPoint><navPoint id="mh_toc_17873" playOrder="706"><navLabel><text>Поэмы 1897-1906 годов</text></navLabel><content src="Text/content75.html#mh_toc_17873"/><navPoint id="mh_toc_17876" playOrder="707"><navLabel><text>Неоконченная поэма (Bad nauheim. 1897-1903)</text></navLabel><content src="Text/content75.html#mh_toc_17876"/><navPoint id="mh_toc_17881" playOrder="708"><navLabel><text>1</text></navLabel><content src="Text/content75.html#mh_toc_17881"/></navPoint>
+<navPoint id="mh_toc_17906" playOrder="709"><navLabel><text>2</text></navLabel><content src="Text/content75.html#mh_toc_17906"/></navPoint>
+<navPoint id="mh_toc_17933" playOrder="710"><navLabel><text>3</text></navLabel><content src="Text/content75.html#mh_toc_17933"/></navPoint>
+<navPoint id="mh_toc_17950" playOrder="711"><navLabel><text>4</text></navLabel><content src="Text/content75.html#mh_toc_17950"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_17969" playOrder="712"><navLabel><text>Ее прибытие</text></navLabel><content src="Text/content75.html#mh_toc_17969"/><navPoint id="mh_toc_17972" playOrder="713"><navLabel><text>1. Рабочие на рейде</text></navLabel><content src="Text/content75.html#mh_toc_17972"/></navPoint>
+<navPoint id="mh_toc_18017" playOrder="714"><navLabel><text>2. Так было</text></navLabel><content src="Text/content76.html#mh_toc_18017"/></navPoint>
+<navPoint id="mh_toc_18051" playOrder="715"><navLabel><text>3. Песня матросов</text></navLabel><content src="Text/content76.html#mh_toc_18051"/></navPoint>
+<navPoint id="mh_toc_18077" playOrder="716"><navLabel><text>4. Голос в тучах</text></navLabel><content src="Text/content76.html#mh_toc_18077"/></navPoint>
+<navPoint id="mh_toc_18131" playOrder="717"><navLabel><text>5. Корабли идут</text></navLabel><content src="Text/content76.html#mh_toc_18131"/></navPoint>
+<navPoint id="mh_toc_18178" playOrder="718"><navLabel><text>6. Корабли пришли</text></navLabel><content src="Text/content76.html#mh_toc_18178"/></navPoint>
+<navPoint id="mh_toc_18207" playOrder="719"><navLabel><text>7. Рассвет</text></navLabel><content src="Text/content76.html#mh_toc_18207"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_18251" playOrder="720"><navLabel><text>Ночная фиалка. Сон</text></navLabel><content src="Text/content77.html#mh_toc_18251"/></navPoint>
+</navPoint><navPoint id="mh_toc_18587" playOrder="721"><navLabel><text>Стихотворения 1907 года</text></navLabel><content src="Text/content78.html#mh_toc_18587"/><navPoint id="mh_toc_18590" playOrder="722"><navLabel><text>«Я в дольний мир вошла, как в ложу…»</text></navLabel><content src="Text/content78.html#mh_toc_18590"/></navPoint>
+<navPoint id="mh_toc_18627" playOrder="723"><navLabel><text>Снежная маска</text></navLabel><content src="Text/content78.html#mh_toc_18627"/><navPoint id="mh_toc_18632" playOrder="724"><navLabel><text>Снега</text></navLabel><content src="Text/content78.html#mh_toc_18632"/><navPoint id="mh_toc_18635" playOrder="725"><navLabel><text>Снежное вино</text></navLabel><content src="Text/content78.html#mh_toc_18635"/></navPoint>
+<navPoint id="mh_toc_18661" playOrder="726"><navLabel><text>Снежная вязь</text></navLabel><content src="Text/content78.html#mh_toc_18661"/></navPoint>
+<navPoint id="mh_toc_18712" playOrder="727"><navLabel><text>Последний путь</text></navLabel><content src="Text/content78.html#mh_toc_18712"/></navPoint>
+<navPoint id="mh_toc_18738" playOrder="728"><navLabel><text>На страже</text></navLabel><content src="Text/content78.html#mh_toc_18738"/></navPoint>
+<navPoint id="mh_toc_18764" playOrder="729"><navLabel><text>Второе крещенье</text></navLabel><content src="Text/content78.html#mh_toc_18764"/></navPoint>
+<navPoint id="mh_toc_18795" playOrder="730"><navLabel><text>Настигнутый метелью</text></navLabel><content src="Text/content78.html#mh_toc_18795"/></navPoint>
+<navPoint id="mh_toc_18857" playOrder="731"><navLabel><text>На зов метелей</text></navLabel><content src="Text/content79.html#mh_toc_18857"/></navPoint>
+<navPoint id="mh_toc_18894" playOrder="732"><navLabel><text>Ее песни</text></navLabel><content src="Text/content79.html#mh_toc_18894"/></navPoint>
+<navPoint id="mh_toc_18925" playOrder="733"><navLabel><text>Крылья</text></navLabel><content src="Text/content79.html#mh_toc_18925"/></navPoint>
+<navPoint id="mh_toc_18963" playOrder="734"><navLabel><text>Влюбленность</text></navLabel><content src="Text/content79.html#mh_toc_18963"/></navPoint>
+<navPoint id="mh_toc_18984" playOrder="735"><navLabel><text>Не надо</text></navLabel><content src="Text/content79.html#mh_toc_18984"/></navPoint>
+<navPoint id="mh_toc_19010" playOrder="736"><navLabel><text>Тревога</text></navLabel><content src="Text/content79.html#mh_toc_19010"/></navPoint>
+<navPoint id="mh_toc_19052" playOrder="737"><navLabel><text>Прочь!</text></navLabel><content src="Text/content79.html#mh_toc_19052"/></navPoint>
+<navPoint id="mh_toc_19135" playOrder="738"><navLabel><text>И опять снега</text></navLabel><content src="Text/content80.html#mh_toc_19135"/></navPoint>
+<navPoint id="mh_toc_19174" playOrder="739"><navLabel><text>Голоса</text></navLabel><content src="Text/content80.html#mh_toc_19174"/></navPoint>
+<navPoint id="mh_toc_19275" playOrder="740"><navLabel><text>В снегах</text></navLabel><content src="Text/content80.html#mh_toc_19275"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_19301" playOrder="741"><navLabel><text>Маски</text></navLabel><content src="Text/content80.html#mh_toc_19301"/><navPoint id="mh_toc_19304" playOrder="742"><navLabel><text>Под масками</text></navLabel><content src="Text/content80.html#mh_toc_19304"/></navPoint>
+<navPoint id="mh_toc_19333" playOrder="743"><navLabel><text>Бледные сказанья</text></navLabel><content src="Text/content80.html#mh_toc_19333"/></navPoint>
+<navPoint id="mh_toc_19387" playOrder="744"><navLabel><text>Сквозь винный хрусталь</text></navLabel><content src="Text/content80.html#mh_toc_19387"/></navPoint>
+<navPoint id="mh_toc_19414" playOrder="745"><navLabel><text>В углу дивана</text></navLabel><content src="Text/content80.html#mh_toc_19414"/></navPoint>
+<navPoint id="mh_toc_19456" playOrder="746"><navLabel><text>Тени на стене</text></navLabel><content src="Text/content81.html#mh_toc_19456"/></navPoint>
+<navPoint id="mh_toc_19498" playOrder="747"><navLabel><text>Насмешница</text></navLabel><content src="Text/content81.html#mh_toc_19498"/></navPoint>
+<navPoint id="mh_toc_19530" playOrder="748"><navLabel><text>Они читают стихи</text></navLabel><content src="Text/content81.html#mh_toc_19530"/></navPoint>
+<navPoint id="mh_toc_19556" playOrder="749"><navLabel><text>Неизбежное</text></navLabel><content src="Text/content81.html#mh_toc_19556"/></navPoint>
+<navPoint id="mh_toc_19585" playOrder="750"><navLabel><text>Здесь и там</text></navLabel><content src="Text/content81.html#mh_toc_19585"/></navPoint>
+<navPoint id="mh_toc_19620" playOrder="751"><navLabel><text>Смятение</text></navLabel><content src="Text/content81.html#mh_toc_19620"/></navPoint>
+<navPoint id="mh_toc_19651" playOrder="752"><navLabel><text>Обреченный</text></navLabel><content src="Text/content81.html#mh_toc_19651"/></navPoint>
+<navPoint id="mh_toc_19677" playOrder="753"><navLabel><text>Нет исхода</text></navLabel><content src="Text/content81.html#mh_toc_19677"/></navPoint>
+<navPoint id="mh_toc_19703" playOrder="754"><navLabel><text>Сердце предано метели</text></navLabel><content src="Text/content81.html#mh_toc_19703"/></navPoint>
+<navPoint id="mh_toc_19730" playOrder="755"><navLabel><text>На снежном костре</text></navLabel><content src="Text/content82.html#mh_toc_19730"/></navPoint>
+<navPoint id="mh_toc_19772" playOrder="756"><navLabel><text>Усталость</text></navLabel><content src="Text/content82.html#mh_toc_19772"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_19793" playOrder="757"><navLabel><text>Ненужная весна</text></navLabel><content src="Text/content82.html#mh_toc_19793"/><navPoint id="mh_toc_19796" playOrder="758"><navLabel><text>1</text></navLabel><content src="Text/content82.html#mh_toc_19796"/></navPoint>
+<navPoint id="mh_toc_19825" playOrder="759"><navLabel><text>2</text></navLabel><content src="Text/content82.html#mh_toc_19825"/></navPoint>
+<navPoint id="mh_toc_19844" playOrder="760"><navLabel><text>3</text></navLabel><content src="Text/content82.html#mh_toc_19844"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_19870" playOrder="761"><navLabel><text>«Придут незаметные белые ночи…»</text></navLabel><content src="Text/content82.html#mh_toc_19870"/></navPoint>
+<navPoint id="mh_toc_19891" playOrder="762"><navLabel><text>«Ушла. Но гиацинты ждали…»</text></navLabel><content src="Text/content82.html#mh_toc_19891"/></navPoint>
+<navPoint id="mh_toc_19934" playOrder="763"><navLabel><text>«За холмом отзвенели упругие латы…»</text></navLabel><content src="Text/content82.html#mh_toc_19934"/></navPoint>
+<navPoint id="mh_toc_19965" playOrder="764"><navLabel><text>«Зачатый в ночь, я в ночь рожден…»</text></navLabel><content src="Text/content83.html#mh_toc_19965"/></navPoint>
+<navPoint id="mh_toc_20031" playOrder="765"><navLabel><text>«В темной комнате ты обесчещена…»</text></navLabel><content src="Text/content83.html#mh_toc_20031"/></navPoint>
+<navPoint id="mh_toc_20047" playOrder="766"><navLabel><text>«Я насадил мой светлый рай…»</text></navLabel><content src="Text/content83.html#mh_toc_20047"/></navPoint>
+<navPoint id="mh_toc_20075" playOrder="767"><navLabel><text>«Ты пробуждалась утром рано…»</text></navLabel><content src="Text/content83.html#mh_toc_20075"/></navPoint>
+<navPoint id="mh_toc_20101" playOrder="768"><navLabel><text>«С каждой весною пути мои круче…»</text></navLabel><content src="Text/content83.html#mh_toc_20101"/></navPoint>
+<navPoint id="mh_toc_20132" playOrder="769"><navLabel><text>«Ты отошла, и я в пустыне…»</text></navLabel><content src="Text/content83.html#mh_toc_20132"/></navPoint>
+<navPoint id="mh_toc_20153" playOrder="770"><navLabel><text>«Я ухо приложил к земле…»</text></navLabel><content src="Text/content83.html#mh_toc_20153"/></navPoint>
+<navPoint id="mh_toc_20180" playOrder="771"><navLabel><text>«Тропами тайными, ночными…»</text></navLabel><content src="Text/content83.html#mh_toc_20180"/></navPoint>
+<navPoint id="mh_toc_20207" playOrder="772"><navLabel><text>Девушке</text></navLabel><content src="Text/content84.html#mh_toc_20207"/></navPoint>
+<navPoint id="mh_toc_20238" playOrder="773"><navLabel><text>«Сырое лето. Я лежу…»</text></navLabel><content src="Text/content84.html#mh_toc_20238"/></navPoint>
+<navPoint id="mh_toc_20280" playOrder="774"><navLabel><text>Песельник</text></navLabel><content src="Text/content84.html#mh_toc_20280"/></navPoint>
+<navPoint id="mh_toc_20306" playOrder="775"><navLabel><text>«В этот серый летний вечер…»</text></navLabel><content src="Text/content84.html#mh_toc_20306"/></navPoint>
+<navPoint id="mh_toc_20332" playOrder="776"><navLabel><text>Вольные мысли</text></navLabel><content src="Text/content84.html#mh_toc_20332"/><navPoint id="mh_toc_20337" playOrder="777"><navLabel><text>1. О смерти</text></navLabel><content src="Text/content84.html#mh_toc_20337"/></navPoint>
+<navPoint id="mh_toc_20480" playOrder="778"><navLabel><text>2. Над озером</text></navLabel><content src="Text/content85.html#mh_toc_20480"/></navPoint>
+<navPoint id="mh_toc_20602" playOrder="779"><navLabel><text>3. В северном море</text></navLabel><content src="Text/content85.html#mh_toc_20602"/></navPoint>
+<navPoint id="mh_toc_20687" playOrder="780"><navLabel><text>4. В дюнах</text></navLabel><content src="Text/content86.html#mh_toc_20687"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_20758" playOrder="781"><navLabel><text>«Везде – над лесом и над пашней…»</text></navLabel><content src="Text/content86.html#mh_toc_20758"/></navPoint>
+<navPoint id="mh_toc_20779" playOrder="782"><navLabel><text>«В густой траве пропадешь с головой…»</text></navLabel><content src="Text/content86.html#mh_toc_20779"/></navPoint>
+<navPoint id="mh_toc_20805" playOrder="783"><navLabel><text>Осенняя любовь</text></navLabel><content src="Text/content86.html#mh_toc_20805"/><navPoint id="mh_toc_20808" playOrder="784"><navLabel><text>1</text></navLabel><content src="Text/content86.html#mh_toc_20808"/></navPoint>
+<navPoint id="mh_toc_20837" playOrder="785"><navLabel><text>2</text></navLabel><content src="Text/content86.html#mh_toc_20837"/></navPoint>
+<navPoint id="mh_toc_20866" playOrder="786"><navLabel><text>3</text></navLabel><content src="Text/content86.html#mh_toc_20866"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_20902" playOrder="787"><navLabel><text>«Когда я создавал героя…»</text></navLabel><content src="Text/content87.html#mh_toc_20902"/></navPoint>
+<navPoint id="mh_toc_20925" playOrder="788"><navLabel><text>«Всюду ясность божия…»</text></navLabel><content src="Text/content87.html#mh_toc_20925"/></navPoint>
+<navPoint id="mh_toc_20941" playOrder="789"><navLabel><text>«В те ночи светлые, пустые…»</text></navLabel><content src="Text/content87.html#mh_toc_20941"/></navPoint>
+<navPoint id="mh_toc_20972" playOrder="790"><navLabel><text>Снежная дева</text></navLabel><content src="Text/content87.html#mh_toc_20972"/></navPoint>
+<navPoint id="mh_toc_21028" playOrder="791"><navLabel><text>«И я провел безумный год…»</text></navLabel><content src="Text/content87.html#mh_toc_21028"/></navPoint>
+<navPoint id="mh_toc_21120" playOrder="792"><navLabel><text>Заклятие огнем и мраком</text></navLabel><content src="Text/content87.html#mh_toc_21120"/><navPoint id="mh_toc_21130" playOrder="793"><navLabel><text>1</text></navLabel><content src="Text/content87.html#mh_toc_21130"/></navPoint>
+<navPoint id="mh_toc_21171" playOrder="794"><navLabel><text>2</text></navLabel><content src="Text/content88.html#mh_toc_21171"/></navPoint>
+<navPoint id="mh_toc_21197" playOrder="795"><navLabel><text>3</text></navLabel><content src="Text/content88.html#mh_toc_21197"/></navPoint>
+<navPoint id="mh_toc_21223" playOrder="796"><navLabel><text>4</text></navLabel><content src="Text/content88.html#mh_toc_21223"/></navPoint>
+<navPoint id="mh_toc_21264" playOrder="797"><navLabel><text>5</text></navLabel><content src="Text/content88.html#mh_toc_21264"/></navPoint>
+<navPoint id="mh_toc_21300" playOrder="798"><navLabel><text>6</text></navLabel><content src="Text/content88.html#mh_toc_21300"/></navPoint>
+<navPoint id="mh_toc_21336" playOrder="799"><navLabel><text>7</text></navLabel><content src="Text/content88.html#mh_toc_21336"/></navPoint>
+<navPoint id="mh_toc_21377" playOrder="800"><navLabel><text>8</text></navLabel><content src="Text/content88.html#mh_toc_21377"/></navPoint>
+<navPoint id="mh_toc_21479" playOrder="801"><navLabel><text>9</text></navLabel><content src="Text/content89.html#mh_toc_21479"/></navPoint>
+<navPoint id="mh_toc_21515" playOrder="802"><navLabel><text>10</text></navLabel><content src="Text/content89.html#mh_toc_21515"/></navPoint>
+<navPoint id="mh_toc_21551" playOrder="803"><navLabel><text>11</text></navLabel><content src="Text/content89.html#mh_toc_21551"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_21582" playOrder="804"><navLabel><text>«Меня пытали в старой вере…»</text></navLabel><content src="Text/content89.html#mh_toc_21582"/></navPoint>
+<navPoint id="mh_toc_21598" playOrder="805"><navLabel><text>Инок</text></navLabel><content src="Text/content89.html#mh_toc_21598"/></navPoint>
+<navPoint id="mh_toc_21634" playOrder="806"><navLabel><text>«Она пришла с заката…»</text></navLabel><content src="Text/content89.html#mh_toc_21634"/></navPoint>
+<navPoint id="mh_toc_21664" playOrder="807"><navLabel><text>Клеопатра</text></navLabel><content src="Text/content89.html#mh_toc_21664"/></navPoint>
+<navPoint id="mh_toc_21720" playOrder="808"><navLabel><text>«Стучится тихо. Потом погромче…»</text></navLabel><content src="Text/content89.html#mh_toc_21720"/></navPoint>
+</navPoint>
+</navPoint><navPoint id="mh_toc_21747" playOrder="809"><navLabel><text>Стихотворения 1908 года</text></navLabel><content src="Text/content90.html#mh_toc_21747"/><navPoint id="mh_toc_21750" playOrder="810"><navLabel><text>«Всю жизнь ждала. Устала ждать…»</text></navLabel><content src="Text/content90.html#mh_toc_21750"/></navPoint>
+<navPoint id="mh_toc_21801" playOrder="811"><navLabel><text>«Когда вы стоите на моем пути…»</text></navLabel><content src="Text/content90.html#mh_toc_21801"/></navPoint>
+<navPoint id="mh_toc_21839" playOrder="812"><navLabel><text>«Она пришла с мороза…»</text></navLabel><content src="Text/content90.html#mh_toc_21839"/></navPoint>
+<navPoint id="mh_toc_21877" playOrder="813"><navLabel><text>«Я миновал закат багряный…»</text></navLabel><content src="Text/content90.html#mh_toc_21877"/></navPoint>
+<navPoint id="mh_toc_21903" playOrder="814"><navLabel><text>Не пришел на свиданье</text></navLabel><content src="Text/content90.html#mh_toc_21903"/></navPoint>
+<navPoint id="mh_toc_21955" playOrder="815"><navLabel><text>«Душа! Когда устанешь верить?…»</text></navLabel><content src="Text/content90.html#mh_toc_21955"/></navPoint>
+<navPoint id="mh_toc_21976" playOrder="816"><navLabel><text>«И я любил. И я изведал…»</text></navLabel><content src="Text/content90.html#mh_toc_21976"/></navPoint>
+<navPoint id="mh_toc_22012" playOrder="817"><navLabel><text>«Их было много – дев прекрасных…»</text></navLabel><content src="Text/content91.html#mh_toc_22012"/></navPoint>
+<navPoint id="mh_toc_22053" playOrder="818"><navLabel><text>«Свирель запела на мосту…»</text></navLabel><content src="Text/content91.html#mh_toc_22053"/></navPoint>
+<navPoint id="mh_toc_22080" playOrder="819"><navLabel><text>«В глубоких сумерках собора…»</text></navLabel><content src="Text/content91.html#mh_toc_22080"/></navPoint>
+<navPoint id="mh_toc_22121" playOrder="820"><navLabel><text>«Май жестокий с белыми ночами!…»</text></navLabel><content src="Text/content91.html#mh_toc_22121"/></navPoint>
+<navPoint id="mh_toc_22147" playOrder="821"><navLabel><text>«Всё помнит о весле вздыхающем…»</text></navLabel><content src="Text/content91.html#mh_toc_22147"/></navPoint>
+<navPoint id="mh_toc_22168" playOrder="822"><navLabel><text>Встречной</text></navLabel><content src="Text/content91.html#mh_toc_22168"/></navPoint>
+<navPoint id="mh_toc_22204" playOrder="823"><navLabel><text>На поле Куликовом</text></navLabel><content src="Text/content91.html#mh_toc_22204"/><navPoint id="mh_toc_22207" playOrder="824"><navLabel><text>1</text></navLabel><content src="Text/content91.html#mh_toc_22207"/></navPoint>
+<navPoint id="mh_toc_22246" playOrder="825"><navLabel><text>2</text></navLabel><content src="Text/content92.html#mh_toc_22246"/></navPoint>
+<navPoint id="mh_toc_22272" playOrder="826"><navLabel><text>3</text></navLabel><content src="Text/content92.html#mh_toc_22272"/></navPoint>
+<navPoint id="mh_toc_22318" playOrder="827"><navLabel><text>4</text></navLabel><content src="Text/content92.html#mh_toc_22318"/></navPoint>
+<navPoint id="mh_toc_22359" playOrder="828"><navLabel><text>5. «Опять над полем Куликовым…»</text></navLabel><content src="Text/content92.html#mh_toc_22359"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_22390" playOrder="829"><navLabel><text>«Я помню длительные муки:…»</text></navLabel><content src="Text/content92.html#mh_toc_22390"/></navPoint>
+<navPoint id="mh_toc_22416" playOrder="830"><navLabel><text>За гробом</text></navLabel><content src="Text/content92.html#mh_toc_22416"/></navPoint>
+<navPoint id="mh_toc_22453" playOrder="831"><navLabel><text>Мэри</text></navLabel><content src="Text/content92.html#mh_toc_22453"/><navPoint id="mh_toc_22456" playOrder="832"><navLabel><text>1</text></navLabel><content src="Text/content92.html#mh_toc_22456"/></navPoint>
+<navPoint id="mh_toc_22481" playOrder="833"><navLabel><text>2</text></navLabel><content src="Text/content92.html#mh_toc_22481"/></navPoint>
+<navPoint id="mh_toc_22507" playOrder="834"><navLabel><text>3</text></navLabel><content src="Text/content93.html#mh_toc_22507"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_22530" playOrder="835"><navLabel><text>Друзьям</text></navLabel><content src="Text/content93.html#mh_toc_22530"/></navPoint>
+<navPoint id="mh_toc_22579" playOrder="836"><navLabel><text>Поэты</text></navLabel><content src="Text/content93.html#mh_toc_22579"/></navPoint>
+<navPoint id="mh_toc_22630" playOrder="837"><navLabel><text>«Она, как прежде, захотела…»</text></navLabel><content src="Text/content93.html#mh_toc_22630"/></navPoint>
+<navPoint id="mh_toc_22666" playOrder="838"><navLabel><text>«Усните блаженно, заморские гости, усните…»</text></navLabel><content src="Text/content93.html#mh_toc_22666"/></navPoint>
+<navPoint id="mh_toc_22682" playOrder="839"><navLabel><text>«Когда замрут отчаянье и злоба…»</text></navLabel><content src="Text/content93.html#mh_toc_22682"/></navPoint>
+<navPoint id="mh_toc_22704" playOrder="840"><navLabel><text>Забывшие тебя</text></navLabel><content src="Text/content93.html#mh_toc_22704"/></navPoint>
+<navPoint id="mh_toc_22740" playOrder="841"><navLabel><text>«Твое лицо мне так знакомо…»</text></navLabel><content src="Text/content94.html#mh_toc_22740"/></navPoint>
+<navPoint id="mh_toc_22775" playOrder="842"><navLabel><text>Россия</text></navLabel><content src="Text/content94.html#mh_toc_22775"/></navPoint>
+<navPoint id="mh_toc_22813" playOrder="843"><navLabel><text>«Я пригвожден к трактирной стойке…»</text></navLabel><content src="Text/content94.html#mh_toc_22813"/></navPoint>
+<navPoint id="mh_toc_22839" playOrder="844"><navLabel><text>«Часовая стрелка близится к полночи…»</text></navLabel><content src="Text/content94.html#mh_toc_22839"/></navPoint>
+<navPoint id="mh_toc_22853" playOrder="845"><navLabel><text>«Старинные розы…»</text></navLabel><content src="Text/content94.html#mh_toc_22853"/></navPoint>
+<navPoint id="mh_toc_22886" playOrder="846"><navLabel><text>«Вот он – ветер…»</text></navLabel><content src="Text/content94.html#mh_toc_22886"/></navPoint>
+<navPoint id="mh_toc_22902" playOrder="847"><navLabel><text>«Ночь – как ночь, и улица пустынна…»</text></navLabel><content src="Text/content94.html#mh_toc_22902"/></navPoint>
+<navPoint id="mh_toc_22929" playOrder="848"><navLabel><text>«Ты так светла, как снег невинный…»</text></navLabel><content src="Text/content94.html#mh_toc_22929"/></navPoint>
+<navPoint id="mh_toc_22950" playOrder="849"><navLabel><text>«Своими горькими слезами…»</text></navLabel><content src="Text/content94.html#mh_toc_22950"/></navPoint>
+<navPoint id="mh_toc_23001" playOrder="850"><navLabel><text>«Уже над морем вечереет…»</text></navLabel><content src="Text/content95.html#mh_toc_23001"/></navPoint>
+<navPoint id="mh_toc_23032" playOrder="851"><navLabel><text>«Не могу тебя не звать…»</text></navLabel><content src="Text/content95.html#mh_toc_23032"/></navPoint>
+<navPoint id="mh_toc_23054" playOrder="852"><navLabel><text>«Всё б тебе желать веселья…»</text></navLabel><content src="Text/content95.html#mh_toc_23054"/></navPoint>
+<navPoint id="mh_toc_23084" playOrder="853"><navLabel><text>«Я не звал тебя – сама ты…»</text></navLabel><content src="Text/content95.html#mh_toc_23084"/></navPoint>
+<navPoint id="mh_toc_23116" playOrder="854"><navLabel><text>«Грустя и плача и смеясь…»</text></navLabel><content src="Text/content95.html#mh_toc_23116"/></navPoint>
+<navPoint id="mh_toc_23136" playOrder="855"><navLabel><text>«Опустись, занавеска линялая…»</text></navLabel><content src="Text/content95.html#mh_toc_23136"/></navPoint>
+<navPoint id="mh_toc_23167" playOrder="856"><navLabel><text>«О доблестях, о подвигах, о славе…»</text></navLabel><content src="Text/content95.html#mh_toc_23167"/></navPoint>
+<navPoint id="mh_toc_23203" playOrder="857"><navLabel><text>«Не затем величал я себя паладином…»</text></navLabel><content src="Text/content95.html#mh_toc_23203"/></navPoint>
+<navPoint id="mh_toc_23219" playOrder="858"><navLabel><text>«Ты из шепота слов родилась…»</text></navLabel><content src="Text/content95.html#mh_toc_23219"/></navPoint>
+</navPoint><navPoint id="mh_toc_23236" playOrder="859"><navLabel><text>Стихотворения 1909 года</text></navLabel><content src="Text/content96.html#mh_toc_23236"/><navPoint id="mh_toc_23239" playOrder="860"><navLabel><text>Осенний день</text></navLabel><content src="Text/content96.html#mh_toc_23239"/></navPoint>
+<navPoint id="mh_toc_23275" playOrder="861"><navLabel><text>«Мой милый, будь смелым…»</text></navLabel><content src="Text/content96.html#mh_toc_23275"/></navPoint>
+<navPoint id="mh_toc_23305" playOrder="862"><navLabel><text>«Не венчал мою голову траурный лавр…»</text></navLabel><content src="Text/content96.html#mh_toc_23305"/></navPoint>
+<navPoint id="mh_toc_23326" playOrder="863"><navLabel><text>«Под шум и звон однообразный…»</text></navLabel><content src="Text/content96.html#mh_toc_23326"/></navPoint>
+<navPoint id="mh_toc_23357" playOrder="864"><navLabel><text>«Я сегодня не помню, что было вчера…»</text></navLabel><content src="Text/content96.html#mh_toc_23357"/></navPoint>
+<navPoint id="mh_toc_23377" playOrder="865"><navLabel><text>«Покойник спать ложится…»</text></navLabel><content src="Text/content96.html#mh_toc_23377"/></navPoint>
+<navPoint id="mh_toc_23404" playOrder="866"><navLabel><text>«Так. Буря этих лет прошла…»</text></navLabel><content src="Text/content96.html#mh_toc_23404"/></navPoint>
+<navPoint id="mh_toc_23430" playOrder="867"><navLabel><text>«В голодной и больной неволе…»</text></navLabel><content src="Text/content96.html#mh_toc_23430"/></navPoint>
+<navPoint id="mh_toc_23451" playOrder="868"><navLabel><text>«Уж вечер светлой полосою…»</text></navLabel><content src="Text/content96.html#mh_toc_23451"/></navPoint>
+<navPoint id="mh_toc_23478" playOrder="869"><navLabel><text>На смерть младенца</text></navLabel><content src="Text/content97.html#mh_toc_23478"/></navPoint>
+<navPoint id="mh_toc_23509" playOrder="870"><navLabel><text>«Здесь в сумерки в конце зимы…»</text></navLabel><content src="Text/content97.html#mh_toc_23509"/></navPoint>
+<navPoint id="mh_toc_23529" playOrder="871"><navLabel><text>«Не спят, не помнят, не торгуют…»</text></navLabel><content src="Text/content97.html#mh_toc_23529"/></navPoint>
+<navPoint id="mh_toc_23552" playOrder="872"><navLabel><text>«Когда я прозревал впервые…»</text></navLabel><content src="Text/content97.html#mh_toc_23552"/></navPoint>
+<navPoint id="mh_toc_23573" playOrder="873"><navLabel><text>«Дохнула жизнь в лицо могилой…»</text></navLabel><content src="Text/content97.html#mh_toc_23573"/></navPoint>
+<navPoint id="mh_toc_23589" playOrder="874"><navLabel><text>«Весенний день прошел без дела…»</text></navLabel><content src="Text/content97.html#mh_toc_23589"/></navPoint>
+<navPoint id="mh_toc_23610" playOrder="875"><navLabel><text>«Когда, вступая в мир огромный…»</text></navLabel><content src="Text/content97.html#mh_toc_23610"/></navPoint>
+<navPoint id="mh_toc_23638" playOrder="876"><navLabel><text>«Какая дивная картина…»</text></navLabel><content src="Text/content97.html#mh_toc_23638"/></navPoint>
+<navPoint id="mh_toc_23664" playOrder="877"><navLabel><text>«Ты в комнате один сидишь…»</text></navLabel><content src="Text/content97.html#mh_toc_23664"/></navPoint>
+<navPoint id="mh_toc_23710" playOrder="878"><navLabel><text>Итальянские стихи</text></navLabel><content src="Text/content97.html#mh_toc_23710"/><navPoint id="mh_toc_23722" playOrder="879"><navLabel><text>Равенна</text></navLabel><content src="Text/content98.html#mh_toc_23722"/></navPoint>
+<navPoint id="mh_toc_23774" playOrder="880"><navLabel><text>* * *</text></navLabel><content src="Text/content98.html#mh_toc_23774"/></navPoint>
+<navPoint id="mh_toc_23794" playOrder="881"><navLabel><text>Девушка из Spoleto</text></navLabel><content src="Text/content98.html#mh_toc_23794"/></navPoint>
+<navPoint id="mh_toc_23820" playOrder="882"><navLabel><text>Венеция</text></navLabel><content src="Text/content98.html#mh_toc_23820"/><navPoint id="mh_toc_23823" playOrder="883"><navLabel><text>1</text></navLabel><content src="Text/content98.html#mh_toc_23823"/></navPoint>
+<navPoint id="mh_toc_23847" playOrder="884"><navLabel><text>2. «Холодный ветер от лагуны…»</text></navLabel><content src="Text/content98.html#mh_toc_23847"/></navPoint>
+<navPoint id="mh_toc_23876" playOrder="885"><navLabel><text>3</text></navLabel><content src="Text/content98.html#mh_toc_23876"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_23917" playOrder="886"><navLabel><text>Перуджия</text></navLabel><content src="Text/content98.html#mh_toc_23917"/></navPoint>
+<navPoint id="mh_toc_23937" playOrder="887"><navLabel><text>Флоренция</text></navLabel><content src="Text/content98.html#mh_toc_23937"/><navPoint id="mh_toc_23940" playOrder="888"><navLabel><text>1</text></navLabel><content src="Text/content98.html#mh_toc_23940"/></navPoint>
+<navPoint id="mh_toc_23977" playOrder="889"><navLabel><text>2</text></navLabel><content src="Text/content99.html#mh_toc_23977"/></navPoint>
+<navPoint id="mh_toc_23998" playOrder="890"><navLabel><text>3</text></navLabel><content src="Text/content99.html#mh_toc_23998"/></navPoint>
+<navPoint id="mh_toc_24017" playOrder="891"><navLabel><text>4</text></navLabel><content src="Text/content99.html#mh_toc_24017"/></navPoint>
+<navPoint id="mh_toc_24033" playOrder="892"><navLabel><text>5</text></navLabel><content src="Text/content99.html#mh_toc_24033"/></navPoint>
+<navPoint id="mh_toc_24051" playOrder="893"><navLabel><text>6</text></navLabel><content src="Text/content99.html#mh_toc_24051"/></navPoint>
+<navPoint id="mh_toc_24067" playOrder="894"><navLabel><text>7</text></navLabel><content src="Text/content99.html#mh_toc_24067"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="mh_toc_24106" playOrder="895"><navLabel><text>«Вот девушка, едва развившись…»</text></navLabel><content src="Text/content99.html#mh_toc_24106"/><navPoint id="mh_toc_24126" playOrder="896"><navLabel><text>Madonna da Settignano</text></navLabel><content src="Text/content99.html#mh_toc_24126"/></navPoint>
+<navPoint id="mh_toc_24147" playOrder="897"><navLabel><text>Фьёзоле</text></navLabel><content src="Text/content99.html#mh_toc_24147"/></navPoint>
+<navPoint id="mh_toc_24163" playOrder="898"><navLabel><text>Сиена</text></navLabel><content src="Text/content99.html#mh_toc_24163"/></navPoint>
+<navPoint id="mh_toc_24194" playOrder="899"><navLabel><text>Сиенский собор</text></navLabel><content src="Text/content99.html#mh_toc_24194"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_24225" playOrder="900"><navLabel><text>«Искусство – ноша на плечах…»</text></navLabel><content src="Text/content100.html#mh_toc_24225"/></navPoint>
+<navPoint id="mh_toc_24250" playOrder="901"><navLabel><text>«Глаза, опущенные скромно…»</text></navLabel><content src="Text/content100.html#mh_toc_24250"/></navPoint>
+<navPoint id="mh_toc_24296" playOrder="902"><navLabel><text>Благовещение</text></navLabel><content src="Text/content100.html#mh_toc_24296"/><navPoint id="mh_toc_24351" playOrder="903"><navLabel><text>Успение</text></navLabel><content src="Text/content100.html#mh_toc_24351"/></navPoint>
+<navPoint id="mh_toc_24389" playOrder="904"><navLabel><text>Эпитафия фра Филиппо Липпи[20]</text></navLabel><content src="Text/content100.html#mh_toc_24389"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_24407" playOrder="905"><navLabel><text>«Кольцо существованья тесно:…»</text></navLabel><content src="Text/content100.html#mh_toc_24407"/></navPoint>
+<navPoint id="mh_toc_24423" playOrder="906"><navLabel><text>Через двенадцать лет</text></navLabel><content src="Text/content100.html#mh_toc_24423"/><navPoint id="mh_toc_24428" playOrder="907"><navLabel><text>1</text></navLabel><content src="Text/content100.html#mh_toc_24428"/></navPoint>
+<navPoint id="mh_toc_24449" playOrder="908"><navLabel><text>2</text></navLabel><content src="Text/content101.html#mh_toc_24449"/></navPoint>
+<navPoint id="mh_toc_24479" playOrder="909"><navLabel><text>3</text></navLabel><content src="Text/content101.html#mh_toc_24479"/></navPoint>
+<navPoint id="mh_toc_24500" playOrder="910"><navLabel><text>4</text></navLabel><content src="Text/content101.html#mh_toc_24500"/></navPoint>
+<navPoint id="mh_toc_24523" playOrder="911"><navLabel><text>5</text></navLabel><content src="Text/content101.html#mh_toc_24523"/></navPoint>
+<navPoint id="mh_toc_24544" playOrder="912"><navLabel><text>6</text></navLabel><content src="Text/content101.html#mh_toc_24544"/></navPoint>
+<navPoint id="mh_toc_24572" playOrder="913"><navLabel><text>7</text></navLabel><content src="Text/content101.html#mh_toc_24572"/></navPoint>
+<navPoint id="mh_toc_24598" playOrder="914"><navLabel><text>8</text></navLabel><content src="Text/content101.html#mh_toc_24598"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_24619" playOrder="915"><navLabel><text>Утро в Москве</text></navLabel><content src="Text/content101.html#mh_toc_24619"/></navPoint>
+<navPoint id="mh_toc_24637" playOrder="916"><navLabel><text>«Чем больше хочешь отдохнуть…»</text></navLabel><content src="Text/content101.html#mh_toc_24637"/></navPoint>
+<navPoint id="mh_toc_24657" playOrder="917"><navLabel><text>«„Дым от костра струею сизой…“«</text></navLabel><content src="Text/content101.html#mh_toc_24657"/></navPoint>
+<navPoint id="mh_toc_24693" playOrder="918"><navLabel><text>«Всё это было, было, было…»</text></navLabel><content src="Text/content102.html#mh_toc_24693"/></navPoint>
+<navPoint id="mh_toc_24734" playOrder="919"><navLabel><text>«Как прощались, страстно клялись…»</text></navLabel><content src="Text/content102.html#mh_toc_24734"/></navPoint>
+<navPoint id="mh_toc_24760" playOrder="920"><navLabel><text>«Всё на земле умрет – и мать, и младость…»</text></navLabel><content src="Text/content102.html#mh_toc_24760"/></navPoint>
+<navPoint id="mh_toc_24781" playOrder="921"><navLabel><text>«Из хрустального тумана…»</text></navLabel><content src="Text/content102.html#mh_toc_24781"/></navPoint>
+<navPoint id="mh_toc_24824" playOrder="922"><navLabel><text>«В эти желтые дни меж домами…»</text></navLabel><content src="Text/content102.html#mh_toc_24824"/></navPoint>
+<navPoint id="mh_toc_24845" playOrder="923"><navLabel><text>Песнь ада</text></navLabel><content src="Text/content102.html#mh_toc_24845"/></navPoint>
+<navPoint id="mh_toc_24989" playOrder="924"><navLabel><text>Двойник</text></navLabel><content src="Text/content103.html#mh_toc_24989"/></navPoint>
+<navPoint id="mh_toc_25031" playOrder="925"><navLabel><text>«Поздней осенью из гавани…»</text></navLabel><content src="Text/content103.html#mh_toc_25031"/></navPoint>
+<navPoint id="mh_toc_25057" playOrder="926"><navLabel><text>На островах</text></navLabel><content src="Text/content103.html#mh_toc_25057"/></navPoint>
+<navPoint id="mh_toc_25108" playOrder="927"><navLabel><text>Сусальный ангел</text></navLabel><content src="Text/content103.html#mh_toc_25108"/></navPoint>
+<navPoint id="mh_toc_25144" playOrder="928"><navLabel><text>«Как из сумрачной гавани…»</text></navLabel><content src="Text/content103.html#mh_toc_25144"/></navPoint>
+</navPoint><navPoint id="mh_toc_25159" playOrder="929"><navLabel><text>Стихотворения 1910 года</text></navLabel><content src="Text/content103.html#mh_toc_25159"/><navPoint id="mh_toc_25162" playOrder="930"><navLabel><text>«С мирным счастьем покончены счеты…»</text></navLabel><content src="Text/content103.html#mh_toc_25162"/></navPoint>
+<navPoint id="mh_toc_25178" playOrder="931"><navLabel><text>«Седые сумерки легли…»</text></navLabel><content src="Text/content103.html#mh_toc_25178"/></navPoint>
+<navPoint id="mh_toc_25194" playOrder="932"><navLabel><text>«Черный ворон в сумраке снежном…»</text></navLabel><content src="Text/content103.html#mh_toc_25194"/></navPoint>
+<navPoint id="mh_toc_25220" playOrder="933"><navLabel><text>Голоса скрипок</text></navLabel><content src="Text/content104.html#mh_toc_25220"/></navPoint>
+<navPoint id="mh_toc_25243" playOrder="934"><navLabel><text>На смерть Коммиссаржевской</text></navLabel><content src="Text/content104.html#mh_toc_25243"/></navPoint>
+<navPoint id="mh_toc_25294" playOrder="935"><navLabel><text>«Дух пряный марта был в лунном круге…»</text></navLabel><content src="Text/content104.html#mh_toc_25294"/></navPoint>
+<navPoint id="mh_toc_25322" playOrder="936"><navLabel><text>На пасхе</text></navLabel><content src="Text/content104.html#mh_toc_25322"/></navPoint>
+<navPoint id="mh_toc_25348" playOrder="937"><navLabel><text>В ресторане</text></navLabel><content src="Text/content104.html#mh_toc_25348"/></navPoint>
+<navPoint id="mh_toc_25384" playOrder="938"><navLabel><text>Демон</text></navLabel><content src="Text/content104.html#mh_toc_25384"/></navPoint>
+<navPoint id="mh_toc_25420" playOrder="939"><navLabel><text>«Как тяжело ходить среди людей…»</text></navLabel><content src="Text/content104.html#mh_toc_25420"/></navPoint>
+<navPoint id="mh_toc_25439" playOrder="940"><navLabel><text>На железной дороге</text></navLabel><content src="Text/content104.html#mh_toc_25439"/></navPoint>
+<navPoint id="mh_toc_25492" playOrder="941"><navLabel><text>Сон</text></navLabel><content src="Text/content105.html#mh_toc_25492"/></navPoint>
+<navPoint id="mh_toc_25530" playOrder="942"><navLabel><text>«Когда-то гордый и надменный…»</text></navLabel><content src="Text/content105.html#mh_toc_25530"/></navPoint>
+<navPoint id="mh_toc_25556" playOrder="943"><navLabel><text>«Русь моя, жизнь моя, вместе ль нам маяться?…»</text></navLabel><content src="Text/content105.html#mh_toc_25556"/></navPoint>
+<navPoint id="mh_toc_25587" playOrder="944"><navLabel><text>«Где отдается в длинных залах…»</text></navLabel><content src="Text/content105.html#mh_toc_25587"/></navPoint>
+<navPoint id="mh_toc_25618" playOrder="945"><navLabel><text>«Сегодня ты на тройке звонкой…»</text></navLabel><content src="Text/content105.html#mh_toc_25618"/></navPoint>
+<navPoint id="mh_toc_25649" playOrder="946"><navLabel><text>«Я коротаю жизнь мою…»</text></navLabel><content src="Text/content105.html#mh_toc_25649"/></navPoint>
+<navPoint id="mh_toc_25670" playOrder="947"><navLabel><text>«Там неба осветленный край…»</text></navLabel><content src="Text/content105.html#mh_toc_25670"/></navPoint>
+<navPoint id="mh_toc_25691" playOrder="948"><navLabel><text>Юрию Верховскому (При получении «Идиллий и элегий…»)</text></navLabel><content src="Text/content105.html#mh_toc_25691"/></navPoint>
+<navPoint id="mh_toc_25719" playOrder="949"><navLabel><text>Посещение</text></navLabel><content src="Text/content106.html#mh_toc_25719"/></navPoint>
+<navPoint id="mh_toc_25760" playOrder="950"><navLabel><text>Комета</text></navLabel><content src="Text/content106.html#mh_toc_25760"/></navPoint>
+<navPoint id="mh_toc_25794" playOrder="951"><navLabel><text>«Идут часы, и дни, и годы…»</text></navLabel><content src="Text/content106.html#mh_toc_25794"/></navPoint>
+<navPoint id="mh_toc_25846" playOrder="952"><navLabel><text>«Знаю я твое льстивое имя…»</text></navLabel><content src="Text/content106.html#mh_toc_25846"/></navPoint>
+<navPoint id="mh_toc_25867" playOrder="953"><navLabel><text>«В неуверенном, зыбком полете…»</text></navLabel><content src="Text/content106.html#mh_toc_25867"/></navPoint>
+</navPoint><navPoint id="mh_toc_25888" playOrder="954"><navLabel><text>Стихотворения 1911 года</text></navLabel><content src="Text/content106.html#mh_toc_25888"/><navPoint id="mh_toc_25891" playOrder="955"><navLabel><text>«В огне и холоде тревог…»</text></navLabel><content src="Text/content106.html#mh_toc_25891"/></navPoint>
+<navPoint id="mh_toc_25927" playOrder="956"><navLabel><text>«Когда мы встретились с тобой…»</text></navLabel><content src="Text/content106.html#mh_toc_25927"/></navPoint>
+<navPoint id="mh_toc_25950" playOrder="957"><navLabel><text>«О, как смеялись вы над нами…»</text></navLabel><content src="Text/content107.html#mh_toc_25950"/></navPoint>
+<navPoint id="mh_toc_25977" playOrder="958"><navLabel><text>«Да. Так диктует вдохновенье:…»</text></navLabel><content src="Text/content107.html#mh_toc_25977"/></navPoint>
+<navPoint id="mh_toc_26011" playOrder="959"><navLabel><text>«Земное сердце стынет вновь…»</text></navLabel><content src="Text/content107.html#mh_toc_26011"/></navPoint>
+<navPoint id="mh_toc_26034" playOrder="960"><navLabel><text>Унижение</text></navLabel><content src="Text/content107.html#mh_toc_26034"/></navPoint>
+<navPoint id="mh_toc_26088" playOrder="961"><navLabel><text>«Без слова мысль, волненье без названья…»</text></navLabel><content src="Text/content107.html#mh_toc_26088"/></navPoint>
+</navPoint><navPoint id="mh_toc_26112" playOrder="962"><navLabel><text>Стихотворения 1912 года</text></navLabel><content src="Text/content107.html#mh_toc_26112"/><navPoint id="mh_toc_26115" playOrder="963"><navLabel><text>«Ветр налетит, завоет снег…»</text></navLabel><content src="Text/content107.html#mh_toc_26115"/></navPoint>
+<navPoint id="mh_toc_26136" playOrder="964"><navLabel><text>«Шар раскаленный, золотой…»</text></navLabel><content src="Text/content107.html#mh_toc_26136"/></navPoint>
+<navPoint id="mh_toc_26159" playOrder="965"><navLabel><text>«Повеселясь на буйном пире…»</text></navLabel><content src="Text/content107.html#mh_toc_26159"/></navPoint>
+<navPoint id="mh_toc_26182" playOrder="966"><navLabel><text>«Благословляю всё, что было…»</text></navLabel><content src="Text/content108.html#mh_toc_26182"/></navPoint>
+<navPoint id="mh_toc_26209" playOrder="967"><navLabel><text>Авиатор</text></navLabel><content src="Text/content108.html#mh_toc_26209"/></navPoint>
+<navPoint id="mh_toc_26275" playOrder="968"><navLabel><text>Шаги Командора</text></navLabel><content src="Text/content108.html#mh_toc_26275"/></navPoint>
+<navPoint id="mh_toc_26335" playOrder="969"><navLabel><text>Пляски смерти</text></navLabel><content src="Text/content108.html#mh_toc_26335"/><navPoint id="mh_toc_26338" playOrder="970"><navLabel><text>1</text></navLabel><content src="Text/content108.html#mh_toc_26338"/></navPoint>
+<navPoint id="mh_toc_26401" playOrder="971"><navLabel><text>2</text></navLabel><content src="Text/content109.html#mh_toc_26401"/></navPoint>
+<navPoint id="mh_toc_26417" playOrder="972"><navLabel><text>3</text></navLabel><content src="Text/content109.html#mh_toc_26417"/></navPoint>
+<navPoint id="mh_toc_26442" playOrder="973"><navLabel><text>4</text></navLabel><content src="Text/content109.html#mh_toc_26442"/></navPoint>
+<navPoint id="mh_toc_26478" playOrder="974"><navLabel><text>5</text></navLabel><content src="Text/content109.html#mh_toc_26478"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_26510" playOrder="975"><navLabel><text>Валерию Брюсову (При получении «Зеркала теней…»)</text></navLabel><content src="Text/content109.html#mh_toc_26510"/></navPoint>
+<navPoint id="mh_toc_26543" playOrder="976"><navLabel><text>Владимиру Бестужеву (Ответ)</text></navLabel><content src="Text/content109.html#mh_toc_26543"/></navPoint>
+<navPoint id="mh_toc_26571" playOrder="977"><navLabel><text>Вячеславу Иванову</text></navLabel><content src="Text/content109.html#mh_toc_26571"/></navPoint>
+<navPoint id="mh_toc_26629" playOrder="978"><navLabel><text>«Сквозь серый дым от краю и до краю…»</text></navLabel><content src="Text/content109.html#mh_toc_26629"/></navPoint>
+<navPoint id="mh_toc_26650" playOrder="979"><navLabel><text>«Приближается звук. И, покорна щемящему звуку…»</text></navLabel><content src="Text/content110.html#mh_toc_26650"/></navPoint>
+<navPoint id="mh_toc_26676" playOrder="980"><navLabel><text>«И вновь – порывы юных лет…»</text></navLabel><content src="Text/content110.html#mh_toc_26676"/></navPoint>
+<navPoint id="mh_toc_26707" playOrder="981"><navLabel><text>«Миры летят. Года летят. Пустая…»</text></navLabel><content src="Text/content110.html#mh_toc_26707"/></navPoint>
+<navPoint id="mh_toc_26743" playOrder="982"><navLabel><text>«Есть минуты, когда не тревожит…»</text></navLabel><content src="Text/content110.html#mh_toc_26743"/></navPoint>
+<navPoint id="mh_toc_26764" playOrder="983"><navLabel><text>Сны</text></navLabel><content src="Text/content110.html#mh_toc_26764"/></navPoint>
+<navPoint id="mh_toc_26820" playOrder="984"><navLabel><text>На лугу</text></navLabel><content src="Text/content110.html#mh_toc_26820"/></navPoint>
+<navPoint id="mh_toc_26840" playOrder="985"><navLabel><text>Ворона</text></navLabel><content src="Text/content110.html#mh_toc_26840"/></navPoint>
+<navPoint id="mh_toc_26864" playOrder="986"><navLabel><text>Сочельник в лесу</text></navLabel><content src="Text/content110.html#mh_toc_26864"/></navPoint>
+<navPoint id="mh_toc_26896" playOrder="987"><navLabel><text>Тишина в лесу. После ночной метели</text></navLabel><content src="Text/content111.html#mh_toc_26896"/></navPoint>
+<navPoint id="mh_toc_26928" playOrder="988"><navLabel><text>«Болотистым, пустынным лугом…»</text></navLabel><content src="Text/content111.html#mh_toc_26928"/></navPoint>
+<navPoint id="mh_toc_26959" playOrder="989"><navLabel><text>Испанке</text></navLabel><content src="Text/content111.html#mh_toc_26959"/></navPoint>
+<navPoint id="mh_toc_26991" playOrder="990"><navLabel><text>«В небе – день, всех ночей суеверней…»</text></navLabel><content src="Text/content111.html#mh_toc_26991"/></navPoint>
+<navPoint id="mh_toc_27012" playOrder="991"><navLabel><text>«Осенний вечер был. Под звук дождя стеклянный…»</text></navLabel><content src="Text/content111.html#mh_toc_27012"/></navPoint>
+<navPoint id="mh_toc_27049" playOrder="992"><navLabel><text>К музе</text></navLabel><content src="Text/content111.html#mh_toc_27049"/></navPoint>
+<navPoint id="mh_toc_27095" playOrder="993"><navLabel><text>«Мой бедный, мой далекий друг!…»</text></navLabel><content src="Text/content111.html#mh_toc_27095"/></navPoint>
+<navPoint id="mh_toc_27118" playOrder="994"><navLabel><text>«В сыром ночном тумане…»</text></navLabel><content src="Text/content112.html#mh_toc_27118"/></navPoint>
+</navPoint><navPoint id="mh_toc_27160" playOrder="995"><navLabel><text>Стихотворения 1913 года</text></navLabel><content src="Text/content112.html#mh_toc_27160"/><navPoint id="mh_toc_27163" playOrder="996"><navLabel><text>О чем поет ветер</text></navLabel><content src="Text/content112.html#mh_toc_27163"/><navPoint id="mh_toc_27166" playOrder="997"><navLabel><text>1</text></navLabel><content src="Text/content112.html#mh_toc_27166"/></navPoint>
+<navPoint id="mh_toc_27212" playOrder="998"><navLabel><text>2</text></navLabel><content src="Text/content112.html#mh_toc_27212"/></navPoint>
+<navPoint id="mh_toc_27253" playOrder="999"><navLabel><text>3</text></navLabel><content src="Text/content112.html#mh_toc_27253"/></navPoint>
+<navPoint id="mh_toc_27274" playOrder="1000"><navLabel><text>4</text></navLabel><content src="Text/content112.html#mh_toc_27274"/></navPoint>
+<navPoint id="mh_toc_27293" playOrder="1001"><navLabel><text>5</text></navLabel><content src="Text/content112.html#mh_toc_27293"/></navPoint>
+<navPoint id="mh_toc_27357" playOrder="1002"><navLabel><text>6</text></navLabel><content src="Text/content112.html#mh_toc_27357"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_27400" playOrder="1003"><navLabel><text>«Есть времена, есть дни, когда…»</text></navLabel><content src="Text/content113.html#mh_toc_27400"/></navPoint>
+<navPoint id="mh_toc_27426" playOrder="1004"><navLabel><text>Седое утро</text></navLabel><content src="Text/content113.html#mh_toc_27426"/></navPoint>
+<navPoint id="mh_toc_27468" playOrder="1005"><navLabel><text>Новая Америка</text></navLabel><content src="Text/content113.html#mh_toc_27468"/></navPoint>
+<navPoint id="mh_toc_27549" playOrder="1006"><navLabel><text>Художник</text></navLabel><content src="Text/content113.html#mh_toc_27549"/></navPoint>
+<navPoint id="mh_toc_27595" playOrder="1007"><navLabel><text>«Я вижу блеск, забытый мной…»</text></navLabel><content src="Text/content113.html#mh_toc_27595"/></navPoint>
+<navPoint id="mh_toc_27616" playOrder="1008"><navLabel><text>«Ты говоришь, что я дремлю…»</text></navLabel><content src="Text/content114.html#mh_toc_27616"/></navPoint>
+<navPoint id="mh_toc_27648" playOrder="1009"><navLabel><text>«Ваш взгляд – его мне подстеречь…»</text></navLabel><content src="Text/content114.html#mh_toc_27648"/></navPoint>
+<navPoint id="mh_toc_27674" playOrder="1010"><navLabel><text>«О, нет! не расколдуешь сердца ты…»</text></navLabel><content src="Text/content114.html#mh_toc_27674"/></navPoint>
+<navPoint id="mh_toc_27737" playOrder="1011"><navLabel><text>Анне Ахматовой</text></navLabel><content src="Text/content114.html#mh_toc_27737"/></navPoint>
+<navPoint id="mh_toc_27764" playOrder="1012"><navLabel><text>«Есть игра: осторожно войти…»</text></navLabel><content src="Text/content114.html#mh_toc_27764"/></navPoint>
+<navPoint id="mh_toc_27817" playOrder="1013"><navLabel><text>«Натянулись гитарные струны…»</text></navLabel><content src="Text/content114.html#mh_toc_27817"/></navPoint>
+<navPoint id="mh_toc_27843" playOrder="1014"><navLabel><text>«Как свершилось, как случилось?…»</text></navLabel><content src="Text/content115.html#mh_toc_27843"/></navPoint>
+<navPoint id="mh_toc_27921" playOrder="1015"><navLabel><text>«Как растет тревога к ночи!…»</text></navLabel><content src="Text/content115.html#mh_toc_27921"/></navPoint>
+<navPoint id="mh_toc_27951" playOrder="1016"><navLabel><text>«Ты – буйный зов рогов призывных…»</text></navLabel><content src="Text/content115.html#mh_toc_27951"/></navPoint>
+</navPoint><navPoint id="mh_toc_27972" playOrder="1017"><navLabel><text>Стихотворения 1914 года</text></navLabel><content src="Text/content115.html#mh_toc_27972"/><navPoint id="mh_toc_27975" playOrder="1018"><navLabel><text>Черная кровь</text></navLabel><content src="Text/content115.html#mh_toc_27975"/><navPoint id="mh_toc_27978" playOrder="1019"><navLabel><text>1</text></navLabel><content src="Text/content115.html#mh_toc_27978"/></navPoint>
+<navPoint id="mh_toc_28005" playOrder="1020"><navLabel><text>2</text></navLabel><content src="Text/content115.html#mh_toc_28005"/></navPoint>
+<navPoint id="mh_toc_28021" playOrder="1021"><navLabel><text>3</text></navLabel><content src="Text/content115.html#mh_toc_28021"/></navPoint>
+<navPoint id="mh_toc_28037" playOrder="1022"><navLabel><text>4</text></navLabel><content src="Text/content115.html#mh_toc_28037"/></navPoint>
+<navPoint id="mh_toc_28062" playOrder="1023"><navLabel><text>5</text></navLabel><content src="Text/content115.html#mh_toc_28062"/></navPoint>
+<navPoint id="mh_toc_28085" playOrder="1024"><navLabel><text>6</text></navLabel><content src="Text/content116.html#mh_toc_28085"/></navPoint>
+<navPoint id="mh_toc_28106" playOrder="1025"><navLabel><text>7</text></navLabel><content src="Text/content116.html#mh_toc_28106"/></navPoint>
+<navPoint id="mh_toc_28127" playOrder="1026"><navLabel><text>8</text></navLabel><content src="Text/content116.html#mh_toc_28127"/></navPoint>
+<navPoint id="mh_toc_28178" playOrder="1027"><navLabel><text>9</text></navLabel><content src="Text/content116.html#mh_toc_28178"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_28208" playOrder="1028"><navLabel><text>«О, я хочу безумно жить:…»</text></navLabel><content src="Text/content116.html#mh_toc_28208"/></navPoint>
+<navPoint id="mh_toc_28235" playOrder="1029"><navLabel><text>«Я – Гамлет. Холодеет кровь…»</text></navLabel><content src="Text/content116.html#mh_toc_28235"/></navPoint>
+<navPoint id="mh_toc_28251" playOrder="1030"><navLabel><text>«Ты помнишь? В нашей бухте сонной…»</text></navLabel><content src="Text/content116.html#mh_toc_28251"/></navPoint>
+<navPoint id="mh_toc_28289" playOrder="1031"><navLabel><text>Жизнь моего приятеля</text></navLabel><content src="Text/content116.html#mh_toc_28289"/><navPoint id="mh_toc_28292" playOrder="1032"><navLabel><text>1</text></navLabel><content src="Text/content116.html#mh_toc_28292"/></navPoint>
+<navPoint id="mh_toc_28338" playOrder="1033"><navLabel><text>2</text></navLabel><content src="Text/content117.html#mh_toc_28338"/></navPoint>
+<navPoint id="mh_toc_28364" playOrder="1034"><navLabel><text>3</text></navLabel><content src="Text/content117.html#mh_toc_28364"/></navPoint>
+<navPoint id="mh_toc_28391" playOrder="1035"><navLabel><text>4</text></navLabel><content src="Text/content117.html#mh_toc_28391"/></navPoint>
+<navPoint id="mh_toc_28417" playOrder="1036"><navLabel><text>5</text></navLabel><content src="Text/content117.html#mh_toc_28417"/></navPoint>
+<navPoint id="mh_toc_28444" playOrder="1037"><navLabel><text>6</text></navLabel><content src="Text/content117.html#mh_toc_28444"/></navPoint>
+<navPoint id="mh_toc_28525" playOrder="1038"><navLabel><text>7. Говорят черти:</text></navLabel><content src="Text/content117.html#mh_toc_28525"/></navPoint>
+<navPoint id="mh_toc_28557" playOrder="1039"><navLabel><text>8. Говорит смерть:</text></navLabel><content src="Text/content117.html#mh_toc_28557"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_28589" playOrder="1040"><navLabel><text>«Как день, светла, но непонятна…»</text></navLabel><content src="Text/content118.html#mh_toc_28589"/></navPoint>
+<navPoint id="mh_toc_28620" playOrder="1041"><navLabel><text>«Ну, что же? Устало заломлены слабые руки…»</text></navLabel><content src="Text/content118.html#mh_toc_28620"/></navPoint>
+<navPoint id="mh_toc_28648" playOrder="1042"><navLabel><text>Голос из хора</text></navLabel><content src="Text/content118.html#mh_toc_28648"/></navPoint>
+<navPoint id="mh_toc_28690" playOrder="1043"><navLabel><text>Кармен</text></navLabel><content src="Text/content118.html#mh_toc_28690"/><navPoint id="mh_toc_28695" playOrder="1044"><navLabel><text>1</text></navLabel><content src="Text/content118.html#mh_toc_28695"/></navPoint>
+<navPoint id="mh_toc_28718" playOrder="1045"><navLabel><text>2</text></navLabel><content src="Text/content118.html#mh_toc_28718"/></navPoint>
+<navPoint id="mh_toc_28734" playOrder="1046"><navLabel><text>3</text></navLabel><content src="Text/content118.html#mh_toc_28734"/></navPoint>
+<navPoint id="mh_toc_28750" playOrder="1047"><navLabel><text>4</text></navLabel><content src="Text/content118.html#mh_toc_28750"/></navPoint>
+<navPoint id="mh_toc_28771" playOrder="1048"><navLabel><text>5</text></navLabel><content src="Text/content118.html#mh_toc_28771"/></navPoint>
+<navPoint id="mh_toc_28791" playOrder="1049"><navLabel><text>6</text></navLabel><content src="Text/content118.html#mh_toc_28791"/></navPoint>
+<navPoint id="mh_toc_28841" playOrder="1050"><navLabel><text>7</text></navLabel><content src="Text/content119.html#mh_toc_28841"/></navPoint>
+<navPoint id="mh_toc_28864" playOrder="1051"><navLabel><text>8</text></navLabel><content src="Text/content119.html#mh_toc_28864"/></navPoint>
+<navPoint id="mh_toc_28900" playOrder="1052"><navLabel><text>9</text></navLabel><content src="Text/content119.html#mh_toc_28900"/></navPoint>
+<navPoint id="mh_toc_28943" playOrder="1053"><navLabel><text>10</text></navLabel><content src="Text/content119.html#mh_toc_28943"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_28977" playOrder="1054"><navLabel><text>«Петербургские сумерки снежные…»</text></navLabel><content src="Text/content119.html#mh_toc_28977"/></navPoint>
+<navPoint id="mh_toc_29003" playOrder="1055"><navLabel><text>Последнее напутствие</text></navLabel><content src="Text/content119.html#mh_toc_29003"/></navPoint>
+<navPoint id="mh_toc_29069" playOrder="1056"><navLabel><text>«Смычок запел. И облак душный…»</text></navLabel><content src="Text/content120.html#mh_toc_29069"/></navPoint>
+<navPoint id="mh_toc_29088" playOrder="1057"><navLabel><text>Королевна</text></navLabel><content src="Text/content120.html#mh_toc_29088"/></navPoint>
+<navPoint id="mh_toc_29125" playOrder="1058"><navLabel><text>«Я помню нежность ваших плеч…»</text></navLabel><content src="Text/content120.html#mh_toc_29125"/></navPoint>
+<navPoint id="mh_toc_29147" playOrder="1059"><navLabel><text>«Ты жил один! Друзей ты не искал…»</text></navLabel><content src="Text/content120.html#mh_toc_29147"/></navPoint>
+<navPoint id="mh_toc_29163" playOrder="1060"><navLabel><text>«Грешить бесстыдно, непробудно…»</text></navLabel><content src="Text/content120.html#mh_toc_29163"/></navPoint>
+<navPoint id="mh_toc_29199" playOrder="1061"><navLabel><text>«Задобренные лесом кручи:…»</text></navLabel><content src="Text/content120.html#mh_toc_29199"/></navPoint>
+<navPoint id="mh_toc_29231" playOrder="1062"><navLabel><text>«Та жизнь прошла…»</text></navLabel><content src="Text/content120.html#mh_toc_29231"/></navPoint>
+<navPoint id="mh_toc_29251" playOrder="1063"><navLabel><text>«Была ты всех ярче, верней и прелестней…»</text></navLabel><content src="Text/content120.html#mh_toc_29251"/></navPoint>
+<navPoint id="mh_toc_29267" playOrder="1064"><navLabel><text>«Ветер стих, и слава заревая…»</text></navLabel><content src="Text/content120.html#mh_toc_29267"/></navPoint>
+<navPoint id="mh_toc_29295" playOrder="1065"><navLabel><text>Женщина</text></navLabel><content src="Text/content120.html#mh_toc_29295"/></navPoint>
+<navPoint id="mh_toc_29358" playOrder="1066"><navLabel><text>«Петроградское небо мутилось дождем…»</text></navLabel><content src="Text/content121.html#mh_toc_29358"/></navPoint>
+<navPoint id="mh_toc_29410" playOrder="1067"><navLabel><text>«Рожденные в года глухие…»</text></navLabel><content src="Text/content121.html#mh_toc_29410"/></navPoint>
+<navPoint id="mh_toc_29438" playOrder="1068"><navLabel><text>Антверпен</text></navLabel><content src="Text/content121.html#mh_toc_29438"/></navPoint>
+<navPoint id="mh_toc_29474" playOrder="1069"><navLabel><text>«Он занесен – сей жезл железный…»</text></navLabel><content src="Text/content121.html#mh_toc_29474"/></navPoint>
+<navPoint id="mh_toc_29495" playOrder="1070"><navLabel><text>«Я не предал белое знамя…»</text></navLabel><content src="Text/content121.html#mh_toc_29495"/></navPoint>
+<navPoint id="mh_toc_29521" playOrder="1071"><navLabel><text>«Разлетясь по всему небосклону…»</text></navLabel><content src="Text/content121.html#mh_toc_29521"/></navPoint>
+<navPoint id="mh_toc_29542" playOrder="1072"><navLabel><text>«Распушилась, раскачнулась…»</text></navLabel><content src="Text/content121.html#mh_toc_29542"/></navPoint>
+</navPoint><navPoint id="mh_toc_29573" playOrder="1073"><navLabel><text>Стихотворения 1915 года</text></navLabel><content src="Text/content121.html#mh_toc_29573"/><navPoint id="mh_toc_29576" playOrder="1074"><navLabel><text>«Протекли за годами года…»</text></navLabel><content src="Text/content121.html#mh_toc_29576"/></navPoint>
+<navPoint id="mh_toc_29597" playOrder="1075"><navLabel><text>«За горами, лесами…»</text></navLabel><content src="Text/content122.html#mh_toc_29597"/></navPoint>
+<navPoint id="mh_toc_29618" playOrder="1076"><navLabel><text>«Пусть я и жил, не любя…»</text></navLabel><content src="Text/content122.html#mh_toc_29618"/></navPoint>
+<navPoint id="mh_toc_29649" playOrder="1077"><navLabel><text>Перед судом</text></navLabel><content src="Text/content122.html#mh_toc_29649"/></navPoint>
+<navPoint id="mh_toc_29700" playOrder="1078"><navLabel><text>«Похоронят, зароют глубоко…»</text></navLabel><content src="Text/content122.html#mh_toc_29700"/></navPoint>
+<navPoint id="mh_toc_29726" playOrder="1079"><navLabel><text>«Милая девушка, что ты колдуешь…»</text></navLabel><content src="Text/content122.html#mh_toc_29726"/></navPoint>
+<navPoint id="mh_toc_29747" playOrder="1080"><navLabel><text>«На улице – дождик и слякоть…»</text></navLabel><content src="Text/content122.html#mh_toc_29747"/></navPoint>
+<navPoint id="mh_toc_29773" playOrder="1081"><navLabel><text>«От знающего почерк ясный…»</text></navLabel><content src="Text/content122.html#mh_toc_29773"/></navPoint>
+</navPoint><navPoint id="mh_toc_29787" playOrder="1082"><navLabel><text>Стихотворения 1916 года</text></navLabel><content src="Text/content122.html#mh_toc_29787"/><navPoint id="mh_toc_29790" playOrder="1083"><navLabel><text>«Превратила всё в шутку сначала…»</text></navLabel><content src="Text/content122.html#mh_toc_29790"/></navPoint>
+<navPoint id="mh_toc_29816" playOrder="1084"><navLabel><text>« Дикий ветер…»</text></navLabel><content src="Text/content122.html#mh_toc_29816"/></navPoint>
+<navPoint id="mh_toc_29854" playOrder="1085"><navLabel><text>Коршун</text></navLabel><content src="Text/content123.html#mh_toc_29854"/></navPoint>
+<navPoint id="mh_toc_29874" playOrder="1086"><navLabel><text>Демон</text></navLabel><content src="Text/content123.html#mh_toc_29874"/></navPoint>
+<navPoint id="mh_toc_29930" playOrder="1087"><navLabel><text>«Ты твердишь, что я холоден, замкнут и сух…»</text></navLabel><content src="Text/content123.html#mh_toc_29930"/></navPoint>
+</navPoint><navPoint id="mh_toc_29986" playOrder="1088"><navLabel><text>Стихотворения 1918 года</text></navLabel><content src="Text/content123.html#mh_toc_29986"/><navPoint id="mh_toc_29989" playOrder="1089"><navLabel><text>Скифы</text></navLabel><content src="Text/content123.html#mh_toc_29989"/></navPoint>
+<navPoint id="mh_toc_30094" playOrder="1090"><navLabel><text>З. Гиппиус (При получении «Последних стихов…»)</text></navLabel><content src="Text/content124.html#mh_toc_30094"/></navPoint>
+</navPoint><navPoint id="mh_toc_30126" playOrder="1091"><navLabel><text>Стихотворения 1919 года</text></navLabel><content src="Text/content124.html#mh_toc_30126"/><navPoint id="mh_toc_30129" playOrder="1092"><navLabel><text>Русский бред</text></navLabel><content src="Text/content124.html#mh_toc_30129"/></navPoint>
+<navPoint id="mh_toc_30164" playOrder="1093"><navLabel><text>«Вы жизнь по-прежнему нисколько…»</text></navLabel><content src="Text/content124.html#mh_toc_30164"/></navPoint>
+</navPoint><navPoint id="mh_toc_30178" playOrder="1094"><navLabel><text>Стихотворения 1920 года</text></navLabel><content src="Text/content124.html#mh_toc_30178"/><navPoint id="mh_toc_30181" playOrder="1095"><navLabel><text>«Яблони сада вырваны…»</text></navLabel><content src="Text/content124.html#mh_toc_30181"/></navPoint>
+<navPoint id="mh_toc_30192" playOrder="1096"><navLabel><text>Две надписи на сборнике «Седое утро…»</text></navLabel><content src="Text/content124.html#mh_toc_30192"/><navPoint id="mh_toc_30195" playOrder="1097"><navLabel><text>1</text></navLabel><content src="Text/content124.html#mh_toc_30195"/></navPoint>
+<navPoint id="mh_toc_30218" playOrder="1098"><navLabel><text>2</text></navLabel><content src="Text/content124.html#mh_toc_30218"/></navPoint>
+</navPoint>
+</navPoint><navPoint id="mh_toc_30242" playOrder="1099"><navLabel><text>Стихотворения 1921 года</text></navLabel><content src="Text/content124.html#mh_toc_30242"/><navPoint id="mh_toc_30245" playOrder="1100"><navLabel><text>Пушкинскому дому</text></navLabel><content src="Text/content124.html#mh_toc_30245"/></navPoint>
+</navPoint><navPoint id="mh_toc_30302" playOrder="1101"><navLabel><text>Поэмы 1907-1921 годов</text></navLabel><content src="Text/content124.html#mh_toc_30302"/><navPoint id="mh_toc_30305" playOrder="1102"><navLabel><text>Соловьиный сад</text></navLabel><content src="Text/content124.html#mh_toc_30305"/><navPoint id="mh_toc_30308" playOrder="1103"><navLabel><text>1</text></navLabel><content src="Text/content124.html#mh_toc_30308"/></navPoint>
+<navPoint id="mh_toc_30342" playOrder="1104"><navLabel><text>2</text></navLabel><content src="Text/content125.html#mh_toc_30342"/></navPoint>
+<navPoint id="mh_toc_30377" playOrder="1105"><navLabel><text>3</text></navLabel><content src="Text/content125.html#mh_toc_30377"/></navPoint>
+<navPoint id="mh_toc_30406" playOrder="1106"><navLabel><text>4</text></navLabel><content src="Text/content125.html#mh_toc_30406"/></navPoint>
+<navPoint id="mh_toc_30430" playOrder="1107"><navLabel><text>5</text></navLabel><content src="Text/content125.html#mh_toc_30430"/></navPoint>
+<navPoint id="mh_toc_30454" playOrder="1108"><navLabel><text>6</text></navLabel><content src="Text/content125.html#mh_toc_30454"/></navPoint>
+<navPoint id="mh_toc_30483" playOrder="1109"><navLabel><text>7</text></navLabel><content src="Text/content125.html#mh_toc_30483"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_30524" playOrder="1110"><navLabel><text>Возмездие</text></navLabel><content src="Text/content125.html#mh_toc_30524"/><navPoint id="mh_toc_30530" playOrder="1111"><navLabel><text>Предисловие</text></navLabel><content src="Text/content125.html#mh_toc_30530"/></navPoint>
+<navPoint id="mh_toc_30565" playOrder="1112"><navLabel><text>Пролог</text></navLabel><content src="Text/content126.html#mh_toc_30565"/></navPoint>
+<navPoint id="mh_toc_30653" playOrder="1113"><navLabel><text>Первая глава</text></navLabel><content src="Text/content126.html#mh_toc_30653"/></navPoint>
+<navPoint id="mh_toc_31661" playOrder="1114"><navLabel><text>Вторая глава &amp;lt;Вступление&amp;gt;</text></navLabel><content src="Text/content127.html#mh_toc_31661"/><navPoint id="mh_toc_31665" playOrder="1115"><navLabel><text>I</text></navLabel><content src="Text/content127.html#mh_toc_31665"/></navPoint>
+<navPoint id="mh_toc_31694" playOrder="1116"><navLabel><text>II</text></navLabel><content src="Text/content127.html#mh_toc_31694"/></navPoint>
+<navPoint id="mh_toc_31715" playOrder="1117"><navLabel><text>III</text></navLabel><content src="Text/content127.html#mh_toc_31715"/></navPoint>
+<navPoint id="mh_toc_31748" playOrder="1118"><navLabel><text>IV</text></navLabel><content src="Text/content127.html#mh_toc_31748"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_31793" playOrder="1119"><navLabel><text>Третья глава</text></navLabel><content src="Text/content127.html#mh_toc_31793"/></navPoint>
+</navPoint>
+<navPoint id="mh_toc_32278" playOrder="1120"><navLabel><text>Двенадцать</text></navLabel><content src="Text/content128.html#mh_toc_32278"/><navPoint id="mh_toc_32281" playOrder="1121"><navLabel><text>1</text></navLabel><content src="Text/content128.html#mh_toc_32281"/></navPoint>
+<navPoint id="mh_toc_32384" playOrder="1122"><navLabel><text>2</text></navLabel><content src="Text/content128.html#mh_toc_32384"/></navPoint>
+<navPoint id="mh_toc_32433" playOrder="1123"><navLabel><text>3</text></navLabel><content src="Text/content128.html#mh_toc_32433"/></navPoint>
+<navPoint id="mh_toc_32452" playOrder="1124"><navLabel><text>4</text></navLabel><content src="Text/content128.html#mh_toc_32452"/></navPoint>
+<navPoint id="mh_toc_32478" playOrder="1125"><navLabel><text>5</text></navLabel><content src="Text/content128.html#mh_toc_32478"/></navPoint>
+<navPoint id="mh_toc_32516" playOrder="1126"><navLabel><text>6</text></navLabel><content src="Text/content128.html#mh_toc_32516"/></navPoint>
+<navPoint id="mh_toc_32548" playOrder="1127"><navLabel><text>7</text></navLabel><content src="Text/content128.html#mh_toc_32548"/></navPoint>
+<navPoint id="mh_toc_32606" playOrder="1128"><navLabel><text>8</text></navLabel><content src="Text/content129.html#mh_toc_32606"/></navPoint>
+<navPoint id="mh_toc_32634" playOrder="1129"><navLabel><text>9</text></navLabel><content src="Text/content129.html#mh_toc_32634"/></navPoint>
+<navPoint id="mh_toc_32653" playOrder="1130"><navLabel><text>10</text></navLabel><content src="Text/content129.html#mh_toc_32653"/></navPoint>
+<navPoint id="mh_toc_32679" playOrder="1131"><navLabel><text>11</text></navLabel><content src="Text/content129.html#mh_toc_32679"/></navPoint>
+<navPoint id="mh_toc_32711" playOrder="1132"><navLabel><text>12</text></navLabel><content src="Text/content129.html#mh_toc_32711"/></navPoint>
+</navPoint>
+</navPoint><navPoint id="notes1133" playOrder="1133"><navLabel><text>Примечания</text></navLabel><content src="Text/contentnotes0.html"/></navPoint></navMap></ncx>

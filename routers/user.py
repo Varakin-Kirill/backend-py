@@ -65,7 +65,6 @@ def create_user(user: UserCreate, session: Session = Depends(get_session), tg_us
 @router.get("/", response_model=User)
 def get_user(session: Session = Depends(get_session), tg_user: dict = Depends(validate_init_data)):
     
-    print(tg_user)
     tg_id = tg_user["id"]
     
     user = session.exec(select(User).where(User.tg_id == tg_id)).first()

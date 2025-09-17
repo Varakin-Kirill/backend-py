@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, Query
+from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlmodel import Session, select
 from typing import Annotated
 from models.author import Author, AuthorPublic, AuthorCreate, AuthorWithBooks
