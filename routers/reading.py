@@ -3,7 +3,7 @@ from sqlmodel import Session, select
 from typing import Annotated
 from deps import get_session
 from models.reading import ReadingPublic, ReadingCreate, Reading, ReadingUpdate
-from routers.auth import validate_init_data
+# from routers.auth import validate_init_data
 
 router = APIRouter(
     prefix="/reading",
@@ -35,9 +35,9 @@ def get_reading(reading_id: int, session: Session = Depends(get_session)):
         raise HTTPException(status_code=404, detail="Reading not found")
     return reading
 
-@router.get("/{book_id}", response_model=ReadingPublic)
-def get_reading(book_id: int, session: Session = Depends(get_session), tg_user: dict = Depends(validate_init_data)):
-    reading = session.get(Reading, book_id, tg_user["id"])
-    if not reading:
-        raise HTTPException(status_code=404, detail="Reading not found")
-    return reading
+# @router.get("/{book_id}", response_model=ReadingPublic)
+# def get_reading(book_id: int, session: Session = Depends(get_session), tg_user: dict = Depends(validate_init_data)):
+#     reading = session.get(Reading, book_id, tg_user["id"])
+#     if not reading:
+#         raise HTTPException(status_code=404, detail="Reading not found")
+#     return reading

@@ -26,6 +26,7 @@ class BookPublic(BookBase):
     # author: AuthorPublic = Relationship(back_populates="book")
 
 class BookWithAuthor(BookPublic):
+    book_id: int
     author: Optional["AuthorPublic"] | None = None
     # author: AuthorPublic = Relationship(back_populates="book")
 

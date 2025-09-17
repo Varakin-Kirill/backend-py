@@ -1,6 +1,6 @@
 from sqlmodel import Field, Session, SQLModel, create_engine, select
 
-postgresql_url = f"postgresql://postgres:admin@localhost:5432/Abzac"
+postgresql_url = f"postgresql://postgres:postgres@localhost:5432/abzac"
 
 engine = create_engine(postgresql_url)
 

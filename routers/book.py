@@ -6,13 +6,14 @@ from typing import Annotated, Any, Dict
 from sqlmodel import select
 from models.book import Book, BookPublic, BookCreate, BookWithAuthor
 from deps import get_session
+from routers.auth import get_current_active_user
 import ebooklib
 import os
 from ebooklib import epub
 
 from models.reading import Reading
 from models.user import User
-from routers.auth import validate_init_data
+# from routers.auth import validate_init_data
 from routers.reading import get_reading
 from datetime import datetime
 
@@ -285,14 +286,9 @@ def find_best_breakpoint(text, max_chars, max_lookahead=100):
 @router.get("/{book_id}/read")
 async def read_book(
     book_id: int,
-    session: Session = Depends(get_session),
-    tg_user: dict = Depends(validate_init_data),
+    user: Annotated[User, Depends(get_current_active_user)],
+    session: Annotated[Session, Depends(get_session)],
 ):
-    # Проверяем пользователя и книгу
-    user = session.exec(select(User).where(User.tg_id == tg_user["id"])).first()
-    if not user:
-        raise HTTPException(status_code=404, detail="Пользователь не найден")
-    
     book = session.exec(select(Book).where(Book.book_id == book_id)).first()
     if not book:
         raise HTTPException(status_code=404, detail="Книга не найдена")

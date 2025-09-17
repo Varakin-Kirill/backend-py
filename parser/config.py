@@ -1,5 +1,5 @@
-DB_NAME = "Abzac"
+DB_NAME = "abzac"
 USER = "postgres"
-PASSWORD = "admin"
+PASSWORD = "postgres"
 HOST = "localhost"
 PORT = "5432"

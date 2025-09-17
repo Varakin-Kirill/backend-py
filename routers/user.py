@@ -1,9 +1,11 @@
 from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlmodel import Session, select
 from typing import Annotated
-from models.user import User, UserPublic, UserCreate, UserUpdate
+from models.user import User, UserPublic, UserCreate
 from deps import get_session
-from routers.auth import validate_init_data
+from fastapi.security import OAuth2PasswordRequestForm
+from routers.auth import get_password_hash, authenticate_user, create_access_token, ACCESS_TOKEN_EXPIRE_DAYS, Token, get_current_active_user
+from datetime import timedelta
 
 router = APIRouter(
     prefix="/user",
@@ -12,23 +14,25 @@ router = APIRouter(
 
 
 @router.post("/", response_model=UserPublic)
-def create_user(user: UserCreate, session: Session = Depends(get_session), tg_user: dict = Depends(validate_init_data)):
-    
+def create_user(
+    user: UserCreate, 
+    session: Session = Depends(get_session), 
+):
     existing_user = session.exec(
-        select(User).where(User.tg_id == tg_user["id"])
+        select(User).where(User.login == user.login)
     ).first()
     
     if existing_user:
         raise HTTPException(
             status_code=400,
-            detail="User with this Telegram ID already exists"
+            detail="User with this login already exists"
         )
         
     new_user = User(
-        name=tg_user["first_name"],
-        login=tg_user["username"],
-        password="EXAMPLE", #!!!!!ЗАМЕНИТЬ!!!!
-        tg_id=tg_user["id"]
+        name=user.name,
+        email=user.email,
+        login=user.login,
+        password=get_password_hash(user.password),
     )
  
     session.add(new_user)
@@ -36,38 +40,33 @@ def create_user(user: UserCreate, session: Session = Depends(get_session), tg_us
     session.refresh(new_user)
     return new_user
 
-#Пока не нужен
-# @router.patch("/{user_id}", response_model=UserPublic)
-# def update_hero(user_id: int, hero: UserUpdate, session: Session = Depends(get_session), tg_user: dict = Depends(validate_init_data)):
-    
-#     existing_user = session.exec(
-#         select(User).where(User.tg_id == tg_user["id"])
-#     ).first()
-    
-#     if existing_user:
-#         raise HTTPException(
-#             status_code=400,
-#             detail="User with this Telegram ID not exist"
-#         )
-    
-    
-#     user_db = session.get(User, user_id)
-#     if not user_id:
-#         raise HTTPException(status_code=404, detail="User not found")
-#     user_data = hero.model_dump(exclude_unset=True)
-#     user_db.sqlmodel_update(user_data)
-#     session.add(user_db)
-#     session.commit()
-#     session.refresh(user_db)
-#     return user_db
+@router.post("/login")
+async def login_for_access_token(
+    login: Annotated[OAuth2PasswordRequestForm, Depends()],
+    session: Session = Depends(get_session), 
+) -> Token:
+    user = session.exec(
+        # Maybe add email OR login
+        select(User).where(User.login == login.username)
+    ).first()
+    user = authenticate_user(user, login.password)
+    if not user:
+        raise HTTPException(
+            status_code=401,
+            detail="Incorrect username or password",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+    access_token_expires = timedelta(days=ACCESS_TOKEN_EXPIRE_DAYS)
+    access_token = create_access_token(
+        data={"login": user.login, "user_id": user.user_id}, expires_delta=access_token_expires
+    )
+    return Token(access_token=access_token, token_type="bearer")
+
 
 
 @router.get("/", response_model=User)
-def get_user(session: Session = Depends(get_session), tg_user: dict = Depends(validate_init_data)):
+def get_user(user: Annotated[User, Depends(get_current_active_user)]):
     
-    tg_id = tg_user["id"]
-    
-    user = session.exec(select(User).where(User.tg_id == tg_id)).first()
     if not user:
         raise HTTPException(status_code=404, detail="User not found")
     
