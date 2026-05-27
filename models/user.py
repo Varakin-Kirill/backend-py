@@ -1,28 +1,36 @@
-from typing import Annotated, List, TYPE_CHECKING
-from sqlalchemy import JSON, Column
-from models.achievement import Achievement
-from fastapi import Depends, FastAPI, HTTPException, Query
-from sqlmodel import Field, Session, SQLModel, create_engine, select, Relationship
-from models.achievement import UsersToAchievements
-if TYPE_CHECKING:
-    from models.achievement import Achievement
+﻿from typing import List
+
+from sqlmodel import Field, Relationship, SQLModel
+
+from models.achievement import Achievement, UserAchievement
+
 
 class UserBase(SQLModel):
     name: str
-    login: str
-    email: str
-    password: str
-    
+    login: str = Field(index=True, unique=True)
+    email: str = Field(index=True, unique=True)
+
+
 class User(UserBase, table=True):
     user_id: int | None = Field(default=None, primary_key=True)
-    achievements: List['Achievement'] | None = Relationship(back_populates="users", link_model=UsersToAchievements)
+    tg_id: int | None = Field(default=None)
+    password: str
+    achievements: List[Achievement] | None = Relationship(
+        back_populates="users",
+        link_model=UserAchievement,
+    )
+
 
 class UserPublic(UserBase):
     user_id: int
 
-class UserCreate(UserBase):
-    pass
 
-class UserUpdate(UserBase):
+class UserCreate(UserBase):
+    password: str
+
+
+class UserUpdate(SQLModel):
     name: str | None = None
+    login: str | None = None
+    email: str | None = None
     password: str | None = None

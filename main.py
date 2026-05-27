@@ -1,64 +1,57 @@
-from fastapi import Depends, FastAPI, HTTPException, Query
-from typing import Annotated
-from sqlmodel import Field, Session, SQLModel, create_engine, select
-from routers import book, user, author
-from deps import engine
-# from models import User, Author, Book, Reading
+﻿from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from sqlmodel import SQLModel, Session
 
-app = FastAPI()
+from deps import engine
+from models import (  # noqa: F401 - register tables in SQLModel metadata
+    Achievement,
+    Author,
+    Book,
+    QuizAttempt,
+    QuizOption,
+    QuizQuestion,
+    Reading,
+    User,
+    UserAchievement,
+    UserReadingStats,
+)
+from routers import achievement, author, book, quiz, reading, user
+from services.gamification import seed_achievements
+from services.quiz_seed import seed_demo_quiz_questions
+
+app = FastAPI(title="ABZAC API")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:8081",
+        "http://127.0.0.1:8081",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(user.router)
 app.include_router(book.router)
 app.include_router(author.router)
+app.include_router(reading.router)
+app.include_router(achievement.router)
+app.include_router(quiz.router)
 
 
 def create_db_and_tables():
     SQLModel.metadata.create_all(engine)
 
-# def get_session():
-#     with Session(engine) as session:
-#         yield session
-
-# SessionDep = Annotated[Session, Depends(get_session)]
 
 @app.on_event("startup")
 def on_startup():
     create_db_and_tables()
+    with Session(engine) as session:
+        seed_achievements(session)
+        seed_demo_quiz_questions(session)
 
 
 @app.get("/health")
-async def root():
+async def health():
     return "OK"
-
-
-
-
-# @app.get("/user/{hero_id}", response_model=HeroPublic)
-# def read_hero(hero_id: int, session: SessionDep):
-#     hero = session.get(Hero, hero_id)
-#     if not hero:
-#         raise HTTPException(status_code=404, detail="Hero not found")
-#     return hero
-
-
-# 1. User 
-# get by login returning jwt
-# get stats for user
-# update password + name
-
-# 2. Authors
-# Get all
-# Get one with list of books
-
-# 3. Books
-# Get all
-# Get one
-# Upload?
-
-# 4. Readings
-# Start read (create)
-# Get (book_id + user_id)
-# Update 
-
-# 5. Search
-# Get

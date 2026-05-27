@@ -1,8 +1,17 @@
-from sqlmodel import Field, Session, SQLModel, create_engine, select
+﻿import os
 
-postgresql_url = f"postgresql://postgres:postgres@localhost:5432/abzac"
+from dotenv import load_dotenv
+from sqlmodel import Session, create_engine
 
-engine = create_engine(postgresql_url)
+load_dotenv()
+
+DATABASE_URL = os.getenv(
+    "DATABASE_URL",
+    "postgresql://postgres:admin@localhost:5432/Abzac",
+)
+
+engine = create_engine(DATABASE_URL)
+
 
 def get_session():
     with Session(engine) as session:

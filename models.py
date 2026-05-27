@@ -33,6 +33,7 @@ class Reading(SQLModel, table=True):
     current_chapter: int
     current_paragraph: int
     paragraph_offset: int
+    prev_chars_read: int = 0
     total_chars_read: int
     updated_at: datetime
     is_completed: bool = False

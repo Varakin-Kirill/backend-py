@@ -52,7 +52,7 @@ class DataBase:
                             json.dumps(book_data['meta'], ensure_ascii=False),
                             author_id,
                             book_data['file_path'],
-                            "ХУЙ"
+                            book_data.get('genre', 'unknown')
                         )
                     )
                 else:
@@ -128,6 +128,3 @@ class DataBase:
                 cursor.execute(query, [search_term]*8 + [limit])
                 return [dict(row) for row in cursor.fetchall()]
             
-# db= DataBase()
-# print(db.search_books_and_authors("Горький пидор"))
-        
