@@ -19,13 +19,22 @@ def fix_encoding(text):
     if not text or not isinstance(text, str):
         return text
 
-    if ftfy is None:
-        return text
+    candidates = [text]
+    if ftfy is not None:
+        candidates.append(ftfy.fix_text(text))
 
-    fixed = ftfy.fix_text(text)
-    if any("\u0400" <= char <= "\u04FF" for char in fixed):
-        return fixed
-    return text
+    for encoding in ("cp1251", "latin1"):
+        try:
+            candidates.append(text.encode(encoding).decode("utf-8"))
+        except UnicodeError:
+            pass
+
+    def score(value):
+        cyrillic_count = sum("\u0400" <= char <= "\u04FF" for char in value)
+        mojibake_count = value.count("Р") + value.count("С") + value.count("Ð") + value.count("Ñ")
+        return cyrillic_count - mojibake_count
+
+    return max(candidates, key=score)
 
 
 def count_chapters(book):
