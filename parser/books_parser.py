@@ -73,6 +73,7 @@ def count_text_stats_in_chapters(book):
 
 def parse_author(full_name):
     """Разделяет полное имя автора на имя и фамилию."""
+    full_name = fix_encoding(full_name)
     parts = full_name.split()
     if not parts:
         return "Неизвестный", "Автор"
@@ -91,9 +92,13 @@ def parse_book_file(file_path):
         if book.get_metadata("DC", "creator")
         else "Неизвестный автор"
     )
-    name = book.get_metadata("DC", "title")[0][0] if book.get_metadata("DC", "title") else "Без названия"
+    name = (
+        fix_encoding(book.get_metadata("DC", "title")[0][0])
+        if book.get_metadata("DC", "title")
+        else "Без названия"
+    )
     description = (
-        book.get_metadata("DC", "description")[0][0]
+        fix_encoding(book.get_metadata("DC", "description")[0][0])
         if book.get_metadata("DC", "description")
         else "Нет описания"
     )
@@ -101,7 +106,11 @@ def parse_book_file(file_path):
     subjects = [fix_encoding(subject[0]) for subject in raw_subjects] if raw_subjects else []
     chapters = count_chapters(book)
     chapter_paragraphs, total_paragraphs, total_chars = count_text_stats_in_chapters(book)
-    date = book.get_metadata("DC", "date")[0][0] if book.get_metadata("DC", "date") else "Дата неизвестна"
+    date = (
+        fix_encoding(book.get_metadata("DC", "date")[0][0])
+        if book.get_metadata("DC", "date")
+        else "Дата неизвестна"
+    )
 
     return author, {
         "name": name,
