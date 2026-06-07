@@ -1,0 +1,13 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.git/
+.gitignore
+.env
+.DS_Store
+*.zip
+downloaded_books/
